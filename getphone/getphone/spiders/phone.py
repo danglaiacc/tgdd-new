@@ -56,7 +56,7 @@ class PhoneSpider(scrapy.Spider):
                     endpoint='execute',
                     callback = self.check,
                     args = {'lua_source': script},
-                    url = 'https://www.thegioididong.com/dtdd-samsung#c=42&m=2,1971,2236&o=9&pi=0'
+                    url = 'https://www.thegioididong.com/dtdd#c=42&m=80&o=9&pi=0'
                     )
 
     def check(self, resp):
@@ -81,8 +81,8 @@ class PhoneSpider(scrapy.Spider):
         param_titles = ["Hệ điều hành", "Camera sau", "Camera trước", "Chip", "RAM", "Bộ nhớ trong", "SIM", "Pin, Sạc"]
         params = [self.get_another_param(resp_param, param_title) for param_title in param_titles]
 
-        sale_price = resp.xpath('translate(//p[@class="box-price-present"]/text(), "₫. ", "")').get()
-        origin_price = resp.xpath('translate(//p[@class="box-price-old"]/text(), "₫. ", "")')
+        sale_price = resp.xpath('translate(//p[@class="box-price-present"]/text(), "₫. *", "")').get()
+        origin_price = resp.xpath('translate(//p[@class="box-price-old"]/text(), "₫. *", "")')
         orig_price = sale_price
         if len(origin_price)>1:
             orig_price = origin_price.get()
@@ -102,6 +102,18 @@ class PhoneSpider(scrapy.Spider):
                 'sim': params[6],
                 'pin': params[7]
                 }
+
+       # Sản phẩm cùng tên khác cấu hình
+        same_item= resp.xpath('//a[@class="box03__item item act"]/following-sibling::node()//@href[not(contains(., "code="))]')
+        if len(same_item)>1:
+            for link in same_item.getall():
+                yield SplashRequest(
+                        endpoint='execute',
+                        callback = self.get_info,
+                        args = {'lua_source': self.script},
+                        url = self.absolute_url.format(link),
+                        )
+    
 
     def get_another_param(self,response,  param_title):
         return response.xpath(f"//ul[contains(@class,'parameter__list')]/li/p[contains(text(), '{param_title}')]/following-sibling::node()//text()[normalize-space()]").get()

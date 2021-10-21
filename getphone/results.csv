@@ -1,65 +1,78 @@
 id,name,sale_price,orig_price,screen,os,camera_sau,camera_truoc,chip,ram,rom,sim,pin
 248284,Samsung Galaxy Z Fold3 5G 512GB,43990000,43990000,"Dynamic AMOLED 2X Chính 7.6"" & Phụ 6.2"" Full HD+",Android 11,3 camera 12 MP,10 MP & 4 MP,Snapdragon 888,12 GB,512 GB,2 Nano SIM,4400 mAh
-234315,Samsung Galaxy A32,6690000,6690000,"Super AMOLED 6.4"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 5MP, 5MP",20 MP,MediaTek Helio G80,6 GB,128 GB,2 Nano SIM,5000 mAh
-211570,Samsung Galaxy A51 (6GB/128GB),7490000,7490000,"Super AMOLED 6.5"" Full HD+",Android 10,"Chính 48 MP & Phụ 12 MP, 5 MP, 5 MP",32 MP,Exynos 9611,6 GB,128 GB,2 Nano SIM,4000 mAh
-228950,Vivo Y51 (2020),5990000,5990000,"IPS LCD 6.58"" Full HD+",Android 11,"Chính 48 MP & Phụ 8 MP, 2 MP",16 MP,Snapdragon 662,8 GB,128 GB,2 Nano SIM,5000 mAh
-236431,Vivo Y72 5G,7590000,7590000,"IPS LCD 6.58"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP",16 MP,MediaTek Dimensity 700,8 GB,128 GB,2 Nano SIM (SIM 2 chung khe thẻ nhớ),5000 mAh
-229056,OPPO A93,6490000,6490000,"AMOLED 6.43"" Full HD+",Android 10,"Chính 48 MP & Phụ 8 MP, 2 MP, 2 MP",Chính 16 MP & Phụ 2 MP,MediaTek Helio P95,8 GB,128 GB,2 Nano SIM,4000 mAh
 228141,Vivo V20 SE,6490000*,6490000*,"AMOLED 6.44"" Full HD+",Android 10,"Chính 48 MP & Phụ 8 MP, 2 MP",32 MP,Snapdragon 665,8 GB,128 GB,2 Nano SIM,4100 mAh
+234315,Samsung Galaxy A32,6690000,6690000,"Super AMOLED 6.4"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 5MP, 5MP",20 MP,MediaTek Helio G80,6 GB,128 GB,2 Nano SIM,5000 mAh
+237603,Samsung Galaxy A22,5890000,5890000,"Super AMOLED 6.4"" HD+",Android 11,"Chính 48 MP & Phụ 8 MP, 2 MP, 2 MP",13 MP,MediaTek MT6769V,6 GB,128 GB,2 Nano SIM,5000 mAh
+250755,Vivo Y21s 6GB,5990000,5990000,"IPS LCD 6.51"" HD+",Android 11,"Chính 50 MP & Phụ 2 MP, 2 MP",8 MP,MediaTek Helio G80,6 GB,128 GB,2 Nano SIM,5000 mAh
+228950,Vivo Y51 (2020),5990000,5990000,"IPS LCD 6.58"" Full HD+",Android 11,"Chính 48 MP & Phụ 8 MP, 2 MP",16 MP,Snapdragon 662,8 GB,128 GB,2 Nano SIM,5000 mAh
+229056,OPPO A93,6490000,6490000,"AMOLED 6.43"" Full HD+",Android 10,"Chính 48 MP & Phụ 8 MP, 2 MP, 2 MP",Chính 16 MP & Phụ 2 MP,MediaTek Helio P95,8 GB,128 GB,2 Nano SIM,4000 mAh
 240286,Vivo Y53s,6990000,6990000,"IPS LCD 6.58"" Full HD+",Android 11,"Chính 64 MP & Phụ 2 MP, 2 MP",16 MP,MediaTek Helio G80,8 GB,128 GB,2 Nano SIM,5000 mAh
-234316,OPPO A94,7690000,7690000,"AMOLED 6.43"" Full HD+",Android 11,"Chính 48 MP & Phụ 8 MP, 2 MP, 2 MP",32 MP,MediaTek Helio P95,8 GB,128 GB,2 Nano SIM,4310 mAh
+236431,Vivo Y72 5G,7590000,7590000,"IPS LCD 6.58"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP",16 MP,MediaTek Dimensity 700,8 GB,128 GB,2 Nano SIM (SIM 2 chung khe thẻ nhớ),5000 mAh
+232614,Vivo V20 (2021),7790000*,7790000*,"AMOLED 6.44"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP",44 MP,Snapdragon 730,8 GB,128 GB,2 Nano SIM,4000 mAh
 228453,Vivo V20,7790000*,7790000*,"AMOLED 6.44"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP",44 MP,Snapdragon 720G,8 GB,128 GB,2 Nano SIM,4000 mAh
+220438,OPPO Reno5,8190000,8190000,"AMOLED 6.43"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP, 2 MP",44 MP,Snapdragon 720G,8 GB,128 GB,2 Nano SIM,4310 mAh
 236559,OPPO A74 5G,7990000,7990000,"IPS LCD 6.5"" Full HD+",Android 11,"Chính 48 MP & Phụ 8 MP, 2 MP, 2 MP",16 MP,Snapdragon 480 8 nhân 5G,6 GB,128 GB,2 Nano SIM,5000 mAh
 236024,OPPO Reno5 Marvel,9190000,9190000,"AMOLED 6.43"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP, 2 MP",44 MP,Snapdragon 720G,8 GB,128 GB,2 Nano SIM,4310 mAh
-236085,Samsung Galaxy A52 (8GB/256GB),10290000,10290000,"Super AMOLED 6.5"" Full HD+",Android 11,"Chính 64 MP & Phụ 12 MP, 5 MP, 5 MP",32 MP,Snapdragon 720G,8 GB,256 GB,2 Nano SIM,4500 mAh
-220438,OPPO Reno5,8190000,8190000,"AMOLED 6.43"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP, 2 MP",44 MP,Snapdragon 720G,8 GB,128 GB,2 Nano SIM,4310 mAh
-228967,Samsung Galaxy A52 (8GB/128GB),9290000,9290000,"Super AMOLED 6.5"" Full HD+",Android 11,"Chính 64 MP & Phụ 12 MP, 5 MP, 5 MP",32 MP,Snapdragon 720G,8 GB,128 GB,2 Nano SIM,4500 mAh
-232614,Vivo V20 (2021),7790000*,7790000*,"AMOLED 6.44"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP",44 MP,Snapdragon 730,8 GB,128 GB,2 Nano SIM,4000 mAh
-232271,Samsung Galaxy A02s (4GB/64GB),3590000,3590000,"PLS TFT LCD 6.5"" HD+",Android 10,"Chính 13 MP & Phụ 2 MP, 2 MP",5 MP,Snapdragon 450,4 GB,64 GB,2 Nano SIM,5000 mAh
-225851,Vivo Y1s,2450000,2450000,"IPS LCD 6.22"" HD+",Android 10,13 MP,5 MP,MediaTek Helio P35,2 GB,32 GB,2 Nano SIM,4030 mAh
-241049,Samsung Galaxy A03s,3690000,3690000,"PLS LCD 6.5"" HD+",Android 11,"Chính 13 MP & Phụ 2 MP, 2 MP",5 MP,MediaTek MT6765,4 GB,64 GB,2 Nano SIM,5000 mAh
-237935,Vivo Y12s (2021) (3GB/32GB),3290000,3290000,"IPS LCD 6.51"" HD+",Android 11,Chính 13 MP & Phụ 2 MP,8 MP,Snapdragon 439,3 GB,32 GB,2 Nano SIM,5000 mAh
+211570,Samsung Galaxy A51 (6GB/128GB),7490000,7490000,"Super AMOLED 6.5"" Full HD+",Android 10,"Chính 48 MP & Phụ 12 MP, 5 MP, 5 MP",32 MP,Exynos 9611,6 GB,128 GB,2 Nano SIM,4000 mAh
 228999,Samsung Galaxy A02,2590000,2590000,"PLS TFT LCD 6.5"" HD+",Android 10,Chính 13 MP & Phụ 2 MP,5 MP,MediaTek MT6739W,3 GB,32 GB,2 Nano SIM,5000 mAh
-227525,Vivo Y20,3790000*,3790000*,"IPS LCD 6.51"" HD+",Android 10,"Chính 13 MP & Phụ 2 MP, 2 MP",8 MP,Snapdragon 460,4 GB,64 GB,2 Nano SIM,5000 mAh
+232271,Samsung Galaxy A02s (4GB/64GB),3590000,3590000,"PLS TFT LCD 6.5"" HD+",Android 10,"Chính 13 MP & Phụ 2 MP, 2 MP",5 MP,Snapdragon 450,4 GB,64 GB,2 Nano SIM,5000 mAh
+237935,Vivo Y12s (2021) (3GB/32GB),3290000,3290000,"IPS LCD 6.51"" HD+",Android 11,Chính 13 MP & Phụ 2 MP,8 MP,Snapdragon 439,3 GB,32 GB,2 Nano SIM,5000 mAh
 230525,Samsung Galaxy A02s (3GB/32GB),3190000,3190000,"PLS TFT LCD 6.5"" HD+",Android 10,"Chính 13 MP & Phụ 2 MP, 2 MP",5 MP,Snapdragon 450,3 GB,32 GB,2 Nano SIM,5000 mAh
+225851,Vivo Y1s,2450000,2450000,"IPS LCD 6.22"" HD+",Android 10,13 MP,5 MP,MediaTek Helio P35,2 GB,32 GB,2 Nano SIM,4030 mAh
+234316,OPPO A94,7690000,7690000,"AMOLED 6.43"" Full HD+",Android 11,"Chính 48 MP & Phụ 8 MP, 2 MP, 2 MP",32 MP,MediaTek Helio P95,8 GB,128 GB,2 Nano SIM,4310 mAh
 229885,OPPO A15,3690000,3690000,"IPS LCD 6.52"" HD+",Android 10,"Chính 13 MP & Phụ 2 MP, 2 MP",8 MP,MediaTek Helio P35,3 GB,32 GB,2 Nano SIM,4230 mAh
+241049,Samsung Galaxy A03s,3690000,3690000,"PLS LCD 6.5"" HD+",Android 11,"Chính 13 MP & Phụ 2 MP, 2 MP",5 MP,MediaTek MT6765,4 GB,64 GB,2 Nano SIM,5000 mAh
 230630,Vivo Y12s (4GB/128GB),3790000,3790000,"IPS LCD 6.51"" HD+",Android 10,Chính 13 MP & Phụ 2 MP,8 MP,MediaTek Helio P35,4 GB,128 GB,2 Nano SIM,5000 mAh
-240631,OPPO A16,3990000,3990000,"IPS LCD 6.52"" HD+",Android 11,"Chính 13 MP & Phụ 2 MP, 2 MP",8 MP,MediaTek Helio G35,3 GB,32 GB,2 Nano SIM (SIM 2 chung khe thẻ nhớ),5000 mAh
+227525,Vivo Y20,3790000*,3790000*,"IPS LCD 6.51"" HD+",Android 10,"Chính 13 MP & Phụ 2 MP, 2 MP",8 MP,Snapdragon 460,4 GB,64 GB,2 Nano SIM,5000 mAh
+231984,Vivo Y20 (2021),3790000*,3790000*,"IPS LCD 6.51"" HD+",Android 10,"Chính 13 MP & Phụ 2 MP, 2 MP",8 MP,MediaTek Helio P35,4 GB,64 GB,2 Nano SIM,5000 mAh
+228453,Vivo V20,7790000*,7790000*,"AMOLED 6.44"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP",44 MP,Snapdragon 720G,8 GB,128 GB,2 Nano SIM,4000 mAh
+228141,Vivo V20 SE,6490000*,6490000*,"AMOLED 6.44"" Full HD+",Android 10,"Chính 48 MP & Phụ 8 MP, 2 MP",32 MP,Snapdragon 665,8 GB,128 GB,2 Nano SIM,4100 mAh
+236024,OPPO Reno5 Marvel,9190000,9190000,"AMOLED 6.43"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP, 2 MP",44 MP,Snapdragon 720G,8 GB,128 GB,2 Nano SIM,4310 mAh
+238047,Vivo V21 5G,9490000,9490000,"AMOLED 6.44"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP",44 MP,MediaTek Dimensity 800U 5G,8 GB,128 GB,2 Nano SIM,4000 mAh
 228151,Samsung Galaxy A12 (4GB/128GB),4290000,4290000,"PLS TFT LCD 6.5"" HD+",Android 11,"Chính 48 MP & Phụ 5 MP, 2 MP, 2 MP",8 MP,MediaTek Helio G35,4 GB,128 GB,2 Nano SIM,5000 mAh
-251886,Samsung Galaxy A12 (4GB/128GB) 2021,4290000,4290000,"PLS TFT LCD 6.5"" HD+",Android 11,"Chính 48 MP & Phụ 5 MP, 2 MP, 2 MP",8 MP,Exynos 850,4 GB,128 GB,2 Nano SIM,5000 mAh
+233460,OPPO Reno5 5G,10990000,10990000,"AMOLED 6.43"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP, 2 MP",32 MP,Snapdragon 765G,8 GB,128 GB,2 Nano SIM,4300 mAh
+236768,OPPO A54,4690000,4690000,"IPS LCD 6.5"" HD+",Android 10,"Chính 13 MP & Phụ 2 MP, 2 MP",16 MP,MediaTek Helio P35,4 GB,128 GB,2 Nano SIM,5000 mAh
 229948,OPPO A15s,4290000,4290000,"LCD 6.52"" HD+",Android 10,"Chính 13 MP & Phụ 2 MP, 2 MP",8 MP,MediaTek Helio P35,4 GB,64 GB,2 Nano SIM,4230 mAh
 228376,Vivo Y20s,4690000*,4690000*,"IPS LCD 6.51"" HD+",Android 10,"Chính 13 MP & Phụ 2 MP, 2 MP",8 MP,Snapdragon 460,6 GB,128 GB,2 Nano SIM,5000 mAh
-231984,Vivo Y20 (2021),3790000*,3790000*,"IPS LCD 6.51"" HD+",Android 10,"Chính 13 MP & Phụ 2 MP, 2 MP",8 MP,MediaTek Helio P35,4 GB,64 GB,2 Nano SIM,5000 mAh
-251888,Samsung Galaxy A12 (6GB/128GB) 2021,4690000,4690000,"PLS TFT LCD 6.5"" HD+",Android 11,"Chính 48 MP & Phụ 5 MP, 2 MP, 2 MP",8 MP,Exynos 850,6 GB,128 GB,2 Nano SIM,5000 mAh
+251886,Samsung Galaxy A12 (4GB/128GB) 2021,4290000,4290000,"PLS TFT LCD 6.5"" HD+",Android 11,"Chính 48 MP & Phụ 5 MP, 2 MP, 2 MP",8 MP,Exynos 850,4 GB,128 GB,2 Nano SIM,5000 mAh
+240631,OPPO A16,3990000,3990000,"IPS LCD 6.52"" HD+",Android 11,"Chính 13 MP & Phụ 2 MP, 2 MP",8 MP,MediaTek Helio G35,3 GB,32 GB,2 Nano SIM (SIM 2 chung khe thẻ nhớ),5000 mAh
 249944,OPPO A55,4990000,4990000,"IPS LCD 6.5"" HD+",Android 11,"Chính 50 MP & Phụ 2 MP, 2 MP",16 MP,MediaTek Helio G35,4 GB,64 GB,2 Nano SIM,5000 mAh
-232364,Samsung Galaxy A12 (6GB/128GB),4690000,4690000,"PLS TFT LCD 6.5"" HD+",Android 11,"Chính 48 MP & Phụ 5 MP, 2 MP, 2 MP",8 MP,MediaTek Helio G35,6 GB,128 GB,2 Nano SIM,5000 mAh
-237603,Samsung Galaxy A22,5890000,5890000,"Super AMOLED 6.4"" HD+",Android 11,"Chính 48 MP & Phụ 8 MP, 2 MP, 2 MP",13 MP,MediaTek MT6769V,6 GB,128 GB,2 Nano SIM,5000 mAh
-236768,OPPO A54,4690000,4690000,"IPS LCD 6.5"" HD+",Android 10,"Chính 13 MP & Phụ 2 MP, 2 MP",16 MP,MediaTek Helio P35,4 GB,128 GB,2 Nano SIM,5000 mAh
+251888,Samsung Galaxy A12 (6GB/128GB) 2021,4690000,4690000,"PLS TFT LCD 6.5"" HD+",Android 11,"Chính 48 MP & Phụ 5 MP, 2 MP, 2 MP",8 MP,Exynos 850,6 GB,128 GB,2 Nano SIM,5000 mAh
 249429,Vivo Y21s 4GB,5290000,5290000,"IPS LCD 6.51"" HD+",Android 11,"Chính 50 MP & Phụ 2 MP, 2 MP",8 MP,MediaTek Helio G80,4 GB,128 GB,2 Nano SIM,5000 mAh
-216174,Samsung Galaxy A31,5790000,5790000,"Super AMOLED 6.4"" Full HD+",Android 10,"Chính 48 MP & Phụ 8 MP, 5 MP, 5 MP",20 MP,MediaTek MT6768 (Helio P65),6 GB,128 GB,2 Nano SIM,5000 mAh
-250755,Vivo Y21s 6GB,5990000,5990000,"IPS LCD 6.51"" HD+",Android 11,"Chính 50 MP & Phụ 2 MP, 2 MP",8 MP,MediaTek Helio G80,6 GB,128 GB,2 Nano SIM,5000 mAh
-238047,Vivo V21 5G,9490000,9490000,"AMOLED 6.44"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP",44 MP,MediaTek Dimensity 800U 5G,8 GB,128 GB,2 Nano SIM,4000 mAh
+232364,Samsung Galaxy A12 (6GB/128GB),4690000,4690000,"PLS TFT LCD 6.5"" HD+",Android 11,"Chính 48 MP & Phụ 5 MP, 2 MP, 2 MP",8 MP,MediaTek Helio G35,6 GB,128 GB,2 Nano SIM,5000 mAh
+227525,Vivo Y20,3790000*,3790000*,"IPS LCD 6.51"" HD+",Android 10,"Chính 13 MP & Phụ 2 MP, 2 MP",8 MP,Snapdragon 460,4 GB,64 GB,2 Nano SIM,5000 mAh
 217536,Samsung Galaxy M51,9490000,9490000,"Super AMOLED Plus 6.7"" Full HD+",Android 10,"Chính 64 MP & Phụ 12 MP, 5 MP, 5 MP",32 MP,Snapdragon 730,8 GB,128 GB,2 Nano SIM,7000 mAh
-223497,OPPO Reno4 Pro,10490000,10490000,"AMOLED 6.5"" Full HD+",Android 10,"Chính 48 MP & Phụ 8 MP, 2 MP, 2 MP",32 MP,Snapdragon 720G,8 GB,256 GB,2 Nano SIM,4000 mAh
+228376,Vivo Y20s,4690000*,4690000*,"IPS LCD 6.51"" HD+",Android 10,"Chính 13 MP & Phụ 2 MP, 2 MP",8 MP,Snapdragon 460,6 GB,128 GB,2 Nano SIM,5000 mAh
+238047,Vivo V21 5G,9490000,9490000,"AMOLED 6.44"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP",44 MP,MediaTek Dimensity 800U 5G,8 GB,128 GB,2 Nano SIM,4000 mAh
 235440,Samsung Galaxy A52 5G,10490000,10490000,"Super AMOLED 6.5"" Full HD+",Android 11,"Chính 64 MP & Phụ 12 MP, 5 MP, 5 MP",32 MP,Snapdragon 750G 5G,8 GB,128 GB,2 Nano SIM,4500 mAh
+216174,Samsung Galaxy A31,5790000,5790000,"Super AMOLED 6.4"" Full HD+",Android 10,"Chính 48 MP & Phụ 8 MP, 5 MP, 5 MP",20 MP,MediaTek MT6768 (Helio P65),6 GB,128 GB,2 Nano SIM,5000 mAh
+236085,Samsung Galaxy A52 (8GB/256GB),10290000,10290000,"Super AMOLED 6.5"" Full HD+",Android 11,"Chính 64 MP & Phụ 12 MP, 5 MP, 5 MP",32 MP,Snapdragon 720G,8 GB,256 GB,2 Nano SIM,4500 mAh
+228967,Samsung Galaxy A52 (8GB/128GB),9290000,9290000,"Super AMOLED 6.5"" Full HD+",Android 11,"Chính 64 MP & Phụ 12 MP, 5 MP, 5 MP",32 MP,Snapdragon 720G,8 GB,128 GB,2 Nano SIM,4500 mAh
 226101,Samsung Galaxy A72,10490000,10490000,"Super AMOLED 6.7"" Full HD+",Android 11,"Chính 64 MP & Phụ 12 MP, 8 MP, 5 MP",32 MP,Snapdragon 720G,8 GB,256 GB,2 Nano SIM,5000 mAh
 251879,Samsung Galaxy A52s 5G 256GB,11790000,11790000,"Super AMOLED 6.5"" Full HD+",Android 11,"Chính 64 MP & Phụ 12 MP, 5 MP, 5 MP",32 MP,Snapdragon 778G 5G 8 nhân,8 GB,256 GB,2 Nano SIM,4500 mAh
-236186,OPPO Reno6 5G,12990000,12990000,"AMOLED 6.43"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP",32 MP,MediaTek Dimensity 900 5G,8 GB,128 GB,2 Nano SIM,4300 mAh
 233460,OPPO Reno5 5G,10990000,10990000,"AMOLED 6.43"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP, 2 MP",32 MP,Snapdragon 765G,8 GB,128 GB,2 Nano SIM,4300 mAh
 218355,Samsung Galaxy Note 20,15990000,15990000,"Super AMOLED Plus 6.7"" Full HD+",Android 10,"Chính 12 MP & Phụ 64 MP, 12 MP",10 MP,Exynos 990,8 GB,256 GB,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,4300 mAh
-220833,Samsung Galaxy S21 5G,17990000,17990000,"Dynamic AMOLED 2X 6.2"" Full HD+",Android 11,"Chính 12 MP & Phụ 64 MP, 12 MP",10 MP,Exynos 2100,8 GB,128 GB,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,4000 mAh
-229949,Samsung Galaxy Z Flip3 5G 128GB,23990000,23990000,"Dynamic AMOLED 2X Chính 6.7"" & Phụ 1.9"" Full HD+",Android 11,2 camera 12 MP,10 MP,Snapdragon 888,8 GB,128 GB,1 Nano SIM & 1 eSIM,3300 mAh
+236186,OPPO Reno6 5G,12990000,12990000,"AMOLED 6.43"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP",32 MP,MediaTek Dimensity 900 5G,8 GB,128 GB,2 Nano SIM,4300 mAh
 248099,Vivo X70 Pro 5G,18990000,18990000,"AMOLED 6.56"" Full HD+",Android 11,"Chính 50 MP & Phụ 12 MP, 12 MP, 8 MP",32 MP,MediaTek Dimensity 1200,12 GB,256 GB,2 Nano SIM,4450 mAh
-236128,Samsung Galaxy S21+ 5G 256GB,23990000,23990000,"Dynamic AMOLED 2X 6.7"" Full HD+",Android 11,"Chính 12 MP & Phụ 64 MP, 12 MP",10 MP,Exynos 2100,8 GB,256 GB,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,4800 mAh
+229949,Samsung Galaxy Z Flip3 5G 128GB,23990000,23990000,"Dynamic AMOLED 2X Chính 6.7"" & Phụ 1.9"" Full HD+",Android 11,2 camera 12 MP,10 MP,Snapdragon 888,8 GB,128 GB,1 Nano SIM & 1 eSIM,3300 mAh
 226385,Samsung Galaxy S21+ 5G 128GB,20990000,20990000,"Dynamic AMOLED 2X 6.7"" Full HD+",Android 11,"Chính 12 MP & Phụ 64 MP, 12 MP",10 MP,Exynos 2100,8 GB,128 GB,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,4800 mAh
-232190,OPPO Find X3 Pro 5G,23990000,23990000,"AMOLED 6.7"" Quad HD+ (2K+)",Android 11,"Chính 50 MP & Phụ 50 MP, 13 MP, 3 MP",32 MP,Snapdragon 888,12 GB,256 GB,2 Nano SIM,4500 mAh
-226935,Samsung Galaxy Z Fold3 5G 256GB,40990000,40990000,"Dynamic AMOLED 2X Chính 7.6"" & Phụ 6.2"" Full HD+",Android 11,3 camera 12 MP,10 MP & 4 MP,Snapdragon 888,12 GB,256 GB,2 Nano SIM,4400 mAh
+223497,OPPO Reno4 Pro,10490000,10490000,"AMOLED 6.5"" Full HD+",Android 10,"Chính 48 MP & Phụ 8 MP, 2 MP, 2 MP",32 MP,Snapdragon 720G,8 GB,256 GB,2 Nano SIM,4000 mAh
 248283,Samsung Galaxy Z Flip3 5G 256GB,25990000,25990000,"Dynamic AMOLED 2X Chính 6.7"" & Phụ 1.9"" Full HD+",Android 11,2 camera 12 MP,10 MP,Snapdragon 888,8 GB,256 GB,1 Nano SIM & 1 eSIM,3300 mAh
+220833,Samsung Galaxy S21 5G,17990000,17990000,"Dynamic AMOLED 2X 6.2"" Full HD+",Android 11,"Chính 12 MP & Phụ 64 MP, 12 MP",10 MP,Exynos 2100,8 GB,128 GB,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,4000 mAh
+236128,Samsung Galaxy S21+ 5G 256GB,23990000,23990000,"Dynamic AMOLED 2X 6.7"" Full HD+",Android 11,"Chính 12 MP & Phụ 64 MP, 12 MP",10 MP,Exynos 2100,8 GB,256 GB,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,4800 mAh
 226316,Samsung Galaxy S21 Ultra 5G 128GB,25990000,25990000,"Dynamic AMOLED 2X 6.8"" Quad HD+ (2K+)",Android 11,"Chính 108 MP & Phụ 12 MP, 10 MP, 10 MP",40 MP,Exynos 2100,12 GB,128 GB,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,5000 mAh
+232190,OPPO Find X3 Pro 5G,23990000,23990000,"AMOLED 6.7"" Quad HD+ (2K+)",Android 11,"Chính 50 MP & Phụ 50 MP, 13 MP, 3 MP",32 MP,Snapdragon 888,12 GB,256 GB,2 Nano SIM,4500 mAh
+236085,Samsung Galaxy A52 (8GB/256GB),10290000,10290000,"Super AMOLED 6.5"" Full HD+",Android 11,"Chính 64 MP & Phụ 12 MP, 5 MP, 5 MP",32 MP,Snapdragon 720G,8 GB,256 GB,2 Nano SIM,4500 mAh
 115343,Vivo Y21,4290000,4290000,"IPS LCD 6.51"" HD+",Android 11,Chính 13 MP & Phụ 2 MP,8 MP,MediaTek Helio P35,4 GB,64 GB,2 Nano SIM,5000 mAh
+235653,OPPO A74,6690000,6690000,"AMOLED 6.43"" Full HD+",Android 11,"Chính 48 MP & Phụ 2 MP, 2 MP",16 MP,Snapdragon 662,8 GB,128 GB,2 Nano SIM,5000 mAh
+235440,Samsung Galaxy A52 5G,10490000,10490000,"Super AMOLED 6.5"" Full HD+",Android 11,"Chính 64 MP & Phụ 12 MP, 5 MP, 5 MP",32 MP,Snapdragon 750G 5G,8 GB,128 GB,2 Nano SIM,4500 mAh
 236187,OPPO Reno6 Pro 5G,18490000*,18490000*,"AMOLED 6.55"" Full HD+",Android 11,"Chính 50 MP & Phụ 16 MP, 13 MP, 2 MP",32 MP,Snapdragon 870 5G,12 GB,256 GB,2 Nano SIM,4500 mAh
-226099,Samsung Galaxy Z Fold2 5G,44000000,44000000,"Chính: Dynamic AMOLED 2X, Phụ: Super AMOLED Chính 7.59"" & Phụ 6.23"" Full HD+",Android 10,3 camera 12 MP,Trong 10 MP & Ngoài 10 MP,Snapdragon 865+,12 GB,256 GB,1 Nano SIM & 1 eSIM,4500 mAh
+226935,Samsung Galaxy Z Fold3 5G 256GB,40990000,40990000,"Dynamic AMOLED 2X Chính 7.6"" & Phụ 6.2"" Full HD+",Android 11,3 camera 12 MP,10 MP & 4 MP,Snapdragon 888,12 GB,256 GB,2 Nano SIM,4400 mAh
+224859,Samsung Galaxy S20 FE (8GB/256GB),12990000,12990000,"Super AMOLED 6.5"" Full HD+",Android 11,"Chính 12 MP & Phụ 12 MP, 8 MP",32 MP,Snapdragon 865,8 GB,256 GB,2 Nano SIM (SIM 2 chung khe thẻ nhớ),4500 mAh
+236187,OPPO Reno6 Pro 5G,18490000*,18490000*,"AMOLED 6.55"" Full HD+",Android 11,"Chính 50 MP & Phụ 16 MP, 13 MP, 2 MP",32 MP,Snapdragon 870 5G,12 GB,256 GB,2 Nano SIM,4500 mAh
+239747,OPPO Reno6 Z 5G,9490000,9490000,"AMOLED 6.43"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP",32 MP,MediaTek Dimensity 800U 5G,8 GB,128 GB,2 Nano SIM,4310 mAh
+236128,Samsung Galaxy S21+ 5G 256GB,23990000,23990000,"Dynamic AMOLED 2X 6.7"" Full HD+",Android 11,"Chính 12 MP & Phụ 64 MP, 12 MP",10 MP,Exynos 2100,8 GB,256 GB,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,4800 mAh
 247507,Samsung Galaxy A52s 5G,10990000,10990000,"Super AMOLED 6.5"" Full HD+",Android 11,"Chính 64 MP & Phụ 12 MP, 5 MP, 5 MP",32 MP,Snapdragon 778G 5G 8 nhân,8 GB,128 GB,2 Nano SIM,4500 mAh
 239747,OPPO Reno6 Z 5G,9490000,9490000,"AMOLED 6.43"" Full HD+",Android 11,"Chính 64 MP & Phụ 8 MP, 2 MP",32 MP,MediaTek Dimensity 800U 5G,8 GB,128 GB,2 Nano SIM,4310 mAh
-235653,OPPO A74,6690000,6690000,"AMOLED 6.43"" Full HD+",Android 11,"Chính 48 MP & Phụ 2 MP, 2 MP",16 MP,Snapdragon 662,8 GB,128 GB,2 Nano SIM,5000 mAh
-224859,Samsung Galaxy S20 FE (8GB/256GB),12990000,12990000,"Super AMOLED 6.5"" Full HD+",Android 11,"Chính 12 MP & Phụ 12 MP, 8 MP",32 MP,Snapdragon 865,8 GB,256 GB,2 Nano SIM (SIM 2 chung khe thẻ nhớ),4500 mAh
+220833,Samsung Galaxy S21 5G,17990000,17990000,"Dynamic AMOLED 2X 6.2"" Full HD+",Android 11,"Chính 12 MP & Phụ 64 MP, 12 MP",10 MP,Exynos 2100,8 GB,128 GB,2 Nano SIM hoặc 1 Nano SIM + 1 eSIM,4000 mAh
+226099,Samsung Galaxy Z Fold2 5G,44000000,44000000,"Chính: Dynamic AMOLED 2X, Phụ: Super AMOLED Chính 7.59"" & Phụ 6.23"" Full HD+",Android 10,3 camera 12 MP,Trong 10 MP & Ngoài 10 MP,Snapdragon 865+,12 GB,256 GB,1 Nano SIM & 1 eSIM,4500 mAh
