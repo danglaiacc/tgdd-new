@@ -1,8 +1,5 @@
 import scrapy
-import json
-from scrapy.selector import Selector
 from scrapy_splash import SplashRequest
-import re
 
 
 class PhoneSpider(scrapy.Spider):
@@ -25,21 +22,45 @@ class PhoneSpider(scrapy.Spider):
         '''
 
     def start_requests(self):
-        yield scrapy.Request(
-                url = 'https://www.thegioididong.com/Category/FilterProductBox?c=42&m=2&o=9&pi=0',
-                callback= self.get_links,
-                method = 'POST',
-                headers={'Content-Type': 'applications/json'}
-                )
+        script = '''
+          function main(splash, args)
+            splash:on_request(function(request)
+              if request.url:find('css') then
+                request.abort()
+              end
+            end)
+            splash.images_enabled = false 
+            
+            time = 0.5
+            assert(splash:go(args.url))
+            assert(splash:wait(time))
+            
+            btn = assert(splash:select(".view-more a"))
+            assert(splash:wait(time))
+          
+            while btn:visible() do
+              btn:mouse_click()
+              assert(splash:wait(time))
+              btn = assert(splash:select(".view-more a"))
+            end
+            
+            return {
+              html = splash:html(),
+              png = splash:png(),
+              har = splash:har(),
+            }
+          end
+        '''
 
-    def get_links(self, response):
-        resp = json.loads(response.body)
-        html = resp.get('listproducts')
-        products = Selector(text = html)
-       #  print(html)
-       #  with open('index.html', 'w', encoding='utf8') as f:
-       #      f.write(html)
-        links = products.xpath('//li[contains(@class,"item")]/a[@class="main-contain"]/@href').getall()
+        yield SplashRequest(
+                    endpoint='execute',
+                    callback = self.check,
+                    args = {'lua_source': script},
+                    url = 'https://www.thegioididong.com/dtdd-samsung#c=42&m=2,1971,2236&o=9&pi=0'
+                    )
+
+    def check(self, resp):
+        links = resp.xpath('//ul[@class="listproduct"]/li/a[@class="main-contain"]/@href').getall()
         for link in links:
             yield SplashRequest(
                     endpoint='execute',
@@ -47,6 +68,7 @@ class PhoneSpider(scrapy.Spider):
                     args = {'lua_source': self.script},
                     url = self.absolute_url.format(link),
                     )
+
 
     def get_info(self, resp):
         id = resp.xpath('//div[@class="box02__right"]/@data-id').get()
@@ -59,10 +81,11 @@ class PhoneSpider(scrapy.Spider):
         param_titles = ["Hệ điều hành", "Camera sau", "Camera trước", "Chip", "RAM", "Bộ nhớ trong", "SIM", "Pin, Sạc"]
         params = [self.get_another_param(resp_param, param_title) for param_title in param_titles]
 
-        sale_price = resp.xpath('//p[@class="box-price-present"]/text()').get()
-        orig_price = resp.xpath('//p[@class="box-price-old"]/text()').get()
-        sale_price = int(re.sub(r'\D','', sale_price))
-        orig_price = int(re.sub(r'\D','', orig_price))
+        sale_price = resp.xpath('translate(//p[@class="box-price-present"]/text(), "₫. ", "")').get()
+        origin_price = resp.xpath('translate(//p[@class="box-price-old"]/text(), "₫. ", "")')
+        orig_price = sale_price
+        if len(origin_price)>1:
+            orig_price = origin_price.get()
 
         yield{
                 'id': id,
@@ -79,18 +102,6 @@ class PhoneSpider(scrapy.Spider):
                 'sim': params[6],
                 'pin': params[7]
                 }
-
-       # Sản phẩm cùng tên khác cấu hình
-       # same_item= resp.xpath('//a[@class="box03__item item act"]/following-sibling::node()//@href[not(contains(., "code="))]')
-       # if len(same_item)>1:
-       #     for link in same_item.getall():
-       #         yield SplashRequest(
-       #                 endpoint='execute',
-       #                 callback = self.get_info,
-       #                 args = {'lua_source': self.script},
-       #                 url = self.absolute_url.format(link),
-       #                 )
-    
 
     def get_another_param(self,response,  param_title):
         return response.xpath(f"//ul[contains(@class,'parameter__list')]/li/p[contains(text(), '{param_title}')]/following-sibling::node()//text()[normalize-space()]").get()
