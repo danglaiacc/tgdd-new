@@ -40,6 +40,7 @@ class PhoneSpider(scrapy.Spider):
                     )
 
     def get_info(self, resp):
+        id = resp.xpath('//div[@class="box02__right"]/@data-id').get()
         name = resp.xpath('substring-after(//h1/text(), "Điện thoại ")').get()
         resp_param = resp.xpath("//ul[contains(@class,'parameter__list')]")
         screen = ' '.join(resp_param.xpath("//ul[contains(@class,'parameter__list')]/li/p[contains(text(), 'Màn hình')]/following-sibling::node()//text()[normalize-space()]").getall())
@@ -47,6 +48,7 @@ class PhoneSpider(scrapy.Spider):
         params = [self.get_another_param(resp_param, param_title) for param_title in param_titles]
 
         yield{
+                'id': id,
                 'name': name,
                 'screen': screen,
                 'os': params[0],
