@@ -1,4 +1,17 @@
-import pandas as pd
+import pandas as pd, re
+
+
+# print(pd.read_csv('../iphone.csv')['id'].values.tolist())
+def get_phone_id(file_path, column):
+    return pd.read_csv(file_path)[column].values.tolist()
+
+# get url from link ..../123456/img_url.jpg
+url_pattern = re.compile(r'(\d{6})\/(.*)')
+def get_url_img(long_url, group_number):
+    # group(0): get phone_id
+    # group(1): get url_img
+    return url_pattern.search(long_url).group(group_number)
+
 
 URL = 'thegioididong.com'
 script_full = '''
@@ -46,8 +59,4 @@ script_more = '''
         '''
 
 
-
-# print(pd.read_csv('../iphone.csv')['id'].values.tolist())
-def get_phone_id(file_path, column):
-    return pd.read_csv(file_path)[column].values.tolist()
 
