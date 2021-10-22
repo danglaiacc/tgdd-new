@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-import scrapy
-import re
+import scrapy, re
 from scrapy_splash import SplashRequest
 from getphone.utils import script_full, script_more
 
