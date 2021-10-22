@@ -1,33 +1,14 @@
 import scrapy
+from getphone.utils import script_full, script_more, get_url_img
 from scrapy_splash import SplashRequest
-from getphone.utils import script_full, script_more, get_url_img, url_full
 
-
-class ColorSpider(scrapy.Spider):
-    name = 'color'
+class Color1Spider(scrapy.Spider):
+    name = 'color1'
     allowed_domains = ['www.thegioididong.com']
+    start_urls = ['https://www.thegioididong.com/dtdd/xiaomi-redmi-10-4gb-64gb']
     absolute_url = 'https://www.thegioididong.com{}'
 
-    def start_requests(self):
-        yield SplashRequest(
-            endpoint='execute',
-            callback=self.get_links,
-            args={'lua_source': script_more},
-            url= url_full
-        )
-
-    def get_links(self, resp):
-        links = resp.xpath(
-            '//ul[@class="listproduct"]/li/a[@class="main-contain"]/@href').getall()
-        for link in links:
-            yield SplashRequest(
-                endpoint='execute',
-                callback=self.get_colors,
-                args={'lua_source': script_full},
-                url=self.absolute_url.format(link),
-            )
-
-    def get_colors(self, resp):
+    def parse(self, resp):
         colors = resp.xpath(
             '//div[@data-gallery-id="color-images-gallery"]')
         link_img_slide = 'https://www.thegioididong.com/Product/GetGalleryItem?productId={}&galleryType=2&colorId={}'
@@ -59,7 +40,7 @@ class ColorSpider(scrapy.Spider):
             for link in same_item.getall():
                 yield SplashRequest(
                     endpoint='execute',
-                    callback=self.get_colors,
+                    callback=self.parse,
                     args={'lua_source': script_full},
                     url=self.absolute_url.format(link),
                 )

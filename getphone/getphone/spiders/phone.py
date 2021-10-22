@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy, re
 from scrapy_splash import SplashRequest
-from getphone.utils import script_full, script_more
+from getphone.utils import script_full, script_more, url_full
 
 
 class PhoneSpider(scrapy.Spider):
@@ -12,12 +12,12 @@ class PhoneSpider(scrapy.Spider):
     def start_requests(self):
         yield SplashRequest(
             endpoint='execute',
-            callback=self.check,
+            callback=self.get_links,
             args={'lua_source': script_more},
-            url='https://www.thegioididong.com/dtdd#c=42&m=2326&o=9&pi=0'
+            url=url_full
         )
 
-    def check(self, resp):
+    def get_links(self, resp):
         links = resp.xpath(
             '//ul[@class="listproduct"]/li/a[@class="main-contain"]/@href').getall()
         for link in links:
@@ -42,9 +42,9 @@ class PhoneSpider(scrapy.Spider):
             resp_param, param_title) for param_title in param_titles]
 
         sale_price = resp.xpath(
-            'translate(//p[@class="box-price-present"]/text(), "₫. *", "")').get()
+            'translate(//p[contains(@class,"box-price-present")]/text(), "₫. *", "")').get()
         origin_price = resp.xpath(
-            'translate(//p[@class="box-price-old"]/text(), "₫. *", "")')
+            'translate(//p[contains(@class,"box-price-old")]/text(), "₫. *", "")')
         orig_price = sale_price
         if len(origin_price) > 1:
             orig_price = origin_price.get()
@@ -80,7 +80,7 @@ class PhoneSpider(scrapy.Spider):
                 yield SplashRequest(
                     endpoint='execute',
                     callback=self.get_info,
-                    args={'lua_source': script_more},
+                    args={'lua_source': script_full},
                     url=self.absolute_url.format(link),
                 )
 

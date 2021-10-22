@@ -13,7 +13,8 @@ def get_url_img(long_url, group_number):
     return url_pattern.search(long_url).group(group_number)
 
 
-URL = 'thegioididong.com'
+url_full = 'https://www.thegioididong.com/dtdd-apple-iphone#c=42&m=80,2,1971,2236,2235,5332,19,1,2326,17201,4832,20673&o=9&pi=0'
+# url_full = 'https://www.thegioididong.com/dtdd-apple-iphone#c=42&m=80&o=9&pi=0'
 script_full = '''
        function main(splash, args)
            splash:on_request(function(request)
