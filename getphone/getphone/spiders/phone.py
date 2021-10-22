@@ -1,5 +1,6 @@
-import scrapy
+import scrapy,re
 from scrapy_splash import SplashRequest
+
 
 
 class PhoneSpider(scrapy.Spider):
@@ -53,22 +54,22 @@ class PhoneSpider(scrapy.Spider):
         '''
 
         yield SplashRequest(
-                    endpoint='execute',
-                    callback = self.check,
-                    args = {'lua_source': script},
-                    url = 'https://www.thegioididong.com/dtdd#c=42&m=80&o=9&pi=0'
-                    )
+            endpoint='execute',
+            callback=self.check,
+            args={'lua_source': script},
+            url='https://www.thegioididong.com/dtdd#c=42&m=2326&o=9&pi=0'
+        )
 
     def check(self, resp):
-        links = resp.xpath('//ul[@class="listproduct"]/li/a[@class="main-contain"]/@href').getall()
+        links = resp.xpath(
+            '//ul[@class="listproduct"]/li/a[@class="main-contain"]/@href').getall()
         for link in links:
             yield SplashRequest(
-                    endpoint='execute',
-                    callback = self.get_info,
-                    args = {'lua_source': self.script},
-                    url = self.absolute_url.format(link),
-                    )
-
+                endpoint='execute',
+                callback=self.get_info,
+                args={'lua_source': self.script},
+                url=self.absolute_url.format(link),
+            )
 
     def get_info(self, resp):
         id = resp.xpath('//div[@class="box02__right"]/@data-id').get()
@@ -78,16 +79,27 @@ class PhoneSpider(scrapy.Spider):
             /li/p[contains(text(), 'Màn hình')]\
             /following-sibling::node()//text()[normalize-space()]").extract())
 
-        param_titles = ["Hệ điều hành", "Camera sau", "Camera trước", "Chip", "RAM", "Bộ nhớ trong", "SIM", "Pin, Sạc"]
-        params = [self.get_another_param(resp_param, param_title) for param_title in param_titles]
+        param_titles = ["Hệ điều hành", "Camera sau", "Camera trước",
+                        "Chip", "RAM", "Bộ nhớ trong", "SIM", "Pin, Sạc"]
+        params = [self.get_another_param(
+            resp_param, param_title) for param_title in param_titles]
 
-        sale_price = resp.xpath('translate(//p[@class="box-price-present"]/text(), "₫. *", "")').get()
-        origin_price = resp.xpath('translate(//p[@class="box-price-old"]/text(), "₫. *", "")')
+        sale_price = resp.xpath(
+            'translate(//p[@class="box-price-present"]/text(), "₫. *", "")').get()
+        origin_price = resp.xpath(
+            'translate(//p[@class="box-price-old"]/text(), "₫. *", "")')
         orig_price = sale_price
-        if len(origin_price)>1:
+        if len(origin_price) > 1:
             orig_price = origin_price.get()
 
-        yield{
+        description_url = 'https://www.thegioididong.com/Product/GetGalleryItemInPopup?productId={}&galleryType=6'
+        print('idddddddddd: ',id)
+        yield SplashRequest(
+            url=description_url.format(id),
+            endpoint='execute',
+            callback=self.get_info_description,
+            args={'lua_source': self.script},
+            meta={
                 'id': id,
                 'name': name,
                 'sale_price': sale_price,
@@ -101,20 +113,27 @@ class PhoneSpider(scrapy.Spider):
                 'rom': params[5],
                 'sim': params[6],
                 'pin': params[7]
-                }
+            }
+        )
 
        # Sản phẩm cùng tên khác cấu hình
-        same_item= resp.xpath('//a[@class="box03__item item act"]/following-sibling::node()//@href[not(contains(., "code="))]')
-        if len(same_item)>1:
+        same_item = resp.xpath(
+            '//a[@class="box03__item item act"]/following-sibling::node()//@href[not(contains(., "code="))]')
+        if len(same_item) > 1:
             for link in same_item.getall():
                 yield SplashRequest(
-                        endpoint='execute',
-                        callback = self.get_info,
-                        args = {'lua_source': self.script},
-                        url = self.absolute_url.format(link),
-                        )
-    
+                    endpoint='execute',
+                    callback=self.get_info,
+                    args={'lua_source': self.script},
+                    url=self.absolute_url.format(link),
+                )
 
-    def get_another_param(self,response,  param_title):
+    def get_info_description(self, response):
+        description = ''.join(response.xpath('//div[contains(@class,"article__content")]/*[not(self::script or self::form or self::div[@id="highlighter--hover-tools"])]').getall())
+        description = re.sub(r'class="preventdefault"|onclick="return false;"|class="lazyload"|title=\".*?\"|target="_blank"','',description)
+        description = re.sub('data-src', 'src', description)
+        print(description)
+
+
+    def get_another_param(self, response,  param_title):
         return response.xpath(f"//ul[contains(@class,'parameter__list')]/li/p[contains(text(), '{param_title}')]/following-sibling::node()//text()[normalize-space()]").get()
-
