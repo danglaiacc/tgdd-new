@@ -1,62 +1,20 @@
-import scrapy,re
+# -*- coding: utf-8 -*-
+import scrapy
+import re
 from scrapy_splash import SplashRequest
-
+from getphone.utils import script_full, script_more
 
 
 class PhoneSpider(scrapy.Spider):
     name = 'phone'
     allowed_domains = ['www.thegioididong.com']
     absolute_url = 'https://www.thegioididong.com{}'
-    script = '''
-            function main(splash, args)
-                splash:on_request(function(request)
-                    if request.url:find('css') then
-                        request.abort()
-                    end
-                end)
-                splash.images_enabled = false
-                splash.js_enabled = false
-                assert(splash:go(args.url))
-                assert(splash:wait(0.5))
-                return splash:html()
-            end
-        '''
 
     def start_requests(self):
-        script = '''
-          function main(splash, args)
-            splash:on_request(function(request)
-              if request.url:find('css') then
-                request.abort()
-              end
-            end)
-            splash.images_enabled = false 
-            
-            time = 0.5
-            assert(splash:go(args.url))
-            assert(splash:wait(time))
-            
-            btn = assert(splash:select(".view-more a"))
-            assert(splash:wait(time))
-          
-            while btn:visible() do
-              btn:mouse_click()
-              assert(splash:wait(time))
-              btn = assert(splash:select(".view-more a"))
-            end
-            
-            return {
-              html = splash:html(),
-              png = splash:png(),
-              har = splash:har(),
-            }
-          end
-        '''
-
         yield SplashRequest(
             endpoint='execute',
             callback=self.check,
-            args={'lua_source': script},
+            args={'lua_source': script_more},
             url='https://www.thegioididong.com/dtdd#c=42&m=2326&o=9&pi=0'
         )
 
@@ -67,7 +25,7 @@ class PhoneSpider(scrapy.Spider):
             yield SplashRequest(
                 endpoint='execute',
                 callback=self.get_info,
-                args={'lua_source': self.script},
+                args={'lua_source': script_full},
                 url=self.absolute_url.format(link),
             )
 
@@ -93,12 +51,11 @@ class PhoneSpider(scrapy.Spider):
             orig_price = origin_price.get()
 
         description_url = 'https://www.thegioididong.com/Product/GetGalleryItemInPopup?productId={}&galleryType=6'
-        print('idddddddddd: ',id)
         yield SplashRequest(
             url=description_url.format(id),
             endpoint='execute',
             callback=self.get_info_description,
-            args={'lua_source': self.script},
+            args={'lua_source': script_full},
             meta={
                 'id': id,
                 'name': name,
@@ -124,16 +81,34 @@ class PhoneSpider(scrapy.Spider):
                 yield SplashRequest(
                     endpoint='execute',
                     callback=self.get_info,
-                    args={'lua_source': self.script},
+                    args={'lua_source': script_more},
                     url=self.absolute_url.format(link),
                 )
 
     def get_info_description(self, response):
-        description = ''.join(response.xpath('//div[contains(@class,"article__content")]/*[not(self::script or self::form or self::div[@id="highlighter--hover-tools"])]').getall())
-        description = re.sub(r'class="preventdefault"|onclick="return false;"|class="lazyload"|title=\".*?\"|target="_blank"','',description)
+        description = ''.join(response.xpath(
+            '//div[contains(@class,"article__content")]/*[not(self::script or self::form or self::div[@id="highlighter--hover-tools"])]').getall())
+        description = re.sub(
+            r'class="preventdefault"|onclick="return false;"|class="lazyload"|title=\".*?\"|target="_blank"', '', description)
         description = re.sub('data-src', 'src', description)
-        print(description)
-
+        description = re.sub('"  >', '">', description)
+        description = re.sub(r'  |\xa0', ' ', description)
+        yield{
+            'id': response.request.meta['id'],
+            'name': response.request.meta['name'],
+            'sale_price': response.request.meta['sale_price'],
+            'orig_price': response.request.meta['orig_price'],
+            'screen': response.request.meta['screen'],
+            'os': response.request.meta['os'],
+            'camera_sau': response.request.meta['camera_sau'],
+            'camera_truoc': response.request.meta['camera_truoc'],
+            'chip': response.request.meta['chip'],
+            'ram': response.request.meta['ram'],
+            'rom': response.request.meta['rom'],
+            'sim': response.request.meta['sim'],
+            'pin': response.request.meta['pin'],
+            'description': description
+        }
 
     def get_another_param(self, response,  param_title):
         return response.xpath(f"//ul[contains(@class,'parameter__list')]/li/p[contains(text(), '{param_title}')]/following-sibling::node()//text()[normalize-space()]").get()
