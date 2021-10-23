@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy, re
 from scrapy_splash import SplashRequest
+from getphone.getphone.utils import get_url_img
 from getphone.utils import script_full, script_more, url_full
 
 
@@ -35,25 +36,34 @@ class PhoneSpider(scrapy.Spider):
         screen = ' '.join(resp_param.xpath("//ul[contains(@class,'parameter__list')]\
             /li/p[contains(text(), 'Màn hình')]\
             /following-sibling::node()//text()[normalize-space()]").extract())
+        img_kit = resp.xpath('//div[@class="img-main"]/img/@data-src')
+        if len(img_kit)>1:
+            img_kit =f'<img src="{img_kit.get()}" alt="kit">'
+        else:
+            img_kit = ''
+
+        url_img_slider = resp.xpath('//div[@class="owl-stage"]//img/@data-src').getall()
+        # remove Slider/ before url
+        img_slider = ','.join([get_url_img(img,2)[7:] for img in url_img_slider])
 
         param_titles = ["Hệ điều hành", "Camera sau", "Camera trước",
                         "Chip", "RAM", "Bộ nhớ trong", "SIM", "Pin, Sạc"]
         params = [self.get_another_param(
             resp_param, param_title) for param_title in param_titles]
-
         sale_price = resp.xpath(
             'translate(//p[contains(@class,"box-price-present")]/text(), "₫. *", "")').get()
         origin_price = resp.xpath(
             'translate(//p[contains(@class,"box-price-old")]/text(), "₫. *", "")')
+
         orig_price = sale_price
         if len(origin_price) > 1:
             orig_price = origin_price.get()
 
-        description_url = 'https://www.thegioididong.com/Product/GetGalleryItemInPopup?productId={}&galleryType=6'
+        article_url = 'https://www.thegioididong.com/Product/GetGalleryItemInPopup?productId={}&galleryType=6'
         yield SplashRequest(
-            url=description_url.format(id),
+            url=article_url.format(id),
             endpoint='execute',
-            callback=self.get_info_description,
+            callback=self.get_info_article,
             args={'lua_source': script_full},
             meta={
                 'id': id,
@@ -62,13 +72,15 @@ class PhoneSpider(scrapy.Spider):
                 'orig_price': orig_price,
                 'screen': screen,
                 'os': params[0],
-                'camera_sau': params[1],
                 'camera_truoc': params[2],
-                'chip': params[3],
+                'camera_sau': params[1],
+                'cpu': params[3],
                 'ram': params[4],
                 'rom': params[5],
                 'sim': params[6],
-                'pin': params[7]
+                'pin': params[7],
+                'img_slider': img_slider,
+                'img_kit': img_kit
             }
         )
 
@@ -84,14 +96,15 @@ class PhoneSpider(scrapy.Spider):
                     url=self.absolute_url.format(link),
                 )
 
-    def get_info_description(self, response):
-        description = ''.join(response.xpath(
+    def get_info_article(self, response):
+        article = ''.join(response.xpath(
             '//div[contains(@class,"article__content")]/*[not(self::script or self::form or self::div[@id="highlighter--hover-tools"])]').getall())
-        description = re.sub(
-            r'class="preventdefault"|onclick="return false;"|class="lazyload"|title=\".*?\"|target="_blank"', '', description)
-        description = re.sub('data-src', 'src', description)
-        description = re.sub('"  >', '">', description)
-        description = re.sub(r'  |\xa0', ' ', description)
+        article = re.sub(
+            r'class="preventdefault"|onclick="return false;"|class="lazyload"|title=\".*?\"|target="_blank"', '', article)
+        article = re.sub('data-src', 'src', article)
+        article = re.sub('"  >', '">', article)
+        article = re.sub(r'  |\xa0', ' ', article)
+        article = response.request.meta['img_kit'] + article
         yield{
             'id': response.request.meta['id'],
             'name': response.request.meta['name'],
@@ -99,14 +112,15 @@ class PhoneSpider(scrapy.Spider):
             'orig_price': response.request.meta['orig_price'],
             'screen': response.request.meta['screen'],
             'os': response.request.meta['os'],
-            'camera_sau': response.request.meta['camera_sau'],
             'camera_truoc': response.request.meta['camera_truoc'],
-            'chip': response.request.meta['chip'],
+            'camera_sau': response.request.meta['camera_sau'],
+            'cpu': response.request.meta['cpu'],
             'ram': response.request.meta['ram'],
             'rom': response.request.meta['rom'],
             'sim': response.request.meta['sim'],
             'pin': response.request.meta['pin'],
-            'description': description
+            'img_slider': response.request.meta['img_slider'],
+            'article': article
         }
 
     def get_another_param(self, response,  param_title):
