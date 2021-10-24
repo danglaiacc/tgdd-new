@@ -1,6 +1,6 @@
 import scrapy
 from scrapy_splash import SplashRequest
-from getphone.utils import script_full, script_more, get_url_img, url_full
+from getphone.utils import script_full, script_more, get_url_img_from_tag, url_full, get_modal_id_from_tag
 
 
 class ColorSpider(scrapy.Spider):
@@ -35,10 +35,11 @@ class ColorSpider(scrapy.Spider):
             color_id = color.xpath('.//@data-color-id').get()
 
             # get url of img demo
-            url = color.xpath('.//img/@data-src').get()
-            url_img = get_url_img(url,2)
-
-            modal_id = get_url_img(url,1)
+#            url = color.xpath('.//img/@data-src').get()
+#            url_img = get_url_img(url,2)
+#
+            modal_id = get_modal_id_from_tag(color.xpath('.//img').get())
+            url_img = get_url_img_from_tag(color.xpath('.//img').get())
             yield SplashRequest(
                 url=link_img_slide.format(modal_id, color_id),
                 endpoint='execute',
@@ -67,14 +68,12 @@ class ColorSpider(scrapy.Spider):
 
 
     def get_img_slide(self, resp):
-        imgs = resp.xpath('//div[@class="detail-slider owl-carousel"]//img/@data-src').getall()
+        imgs = resp.xpath('//div[@class="detail-slider owl-carousel"]//img').getall()
 
         if len(imgs)==1:
-            # if phone has only 1 img in slide
-            img_slide = get_url_img(imgs[0],2)
+            img_slide = get_url_img_from_tag(imgs[0])
         else:
-            # loại bỏ phần .jpg
-            img_slide = ','.join([get_url_img(img,2)[:-4] for img in imgs])
+            img_slide = ','.join([get_url_img_from_tag(img) for img in imgs])
 
         yield{
                 'id' : resp.request.meta['id'],
