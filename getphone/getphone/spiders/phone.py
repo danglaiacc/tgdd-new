@@ -19,7 +19,6 @@ class PhoneSpider(scrapy.Spider):
         )
 
     def get_links(self, response):
-
         phone_items = response.xpath(
             '//ul[@class="listproduct"]/li/a[@class="main-contain"]')
 
@@ -118,8 +117,8 @@ class PhoneSpider(scrapy.Spider):
             'img_demo': response.request.meta['img_demo'],
             'img_slider': response.request.meta['img_slider'],
             'article': article,
-            'manu_text': parent_info['manu_text'],
-            'version_text': parent_info['version_text'],
+            'manu_name': parent_info['manu_text'],
+            'version_name': parent_info['version_text'],
             'name': parent_info['modal_text']
         }
 

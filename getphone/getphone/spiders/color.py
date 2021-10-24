@@ -77,7 +77,7 @@ class ColorSpider(scrapy.Spider):
 
         yield{
                 'id' : resp.request.meta['id'],
-                'text' : resp.request.meta['text'],
+                'name' : resp.request.meta['text'],
                 'img_demo' : resp.request.meta['img_demo'],
                 'modal_id' : resp.request.meta['modal_id'],
                 'img_slide': img_slide
