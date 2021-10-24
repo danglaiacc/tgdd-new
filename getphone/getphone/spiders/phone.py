@@ -25,17 +25,9 @@ class PhoneSpider(scrapy.Spider):
 
         for phone_item in phone_items:
             link = phone_item.xpath('./@href').get()
-           # if (solveNone:=phone_item.xpath('.//img[1]/@src')):
-           #     img_demo = get_url_img(solveNone.get())
-           #     with open('has1.txt', 'a', encoding='utf8') as f:
-           #         f.write(solveNone.get()+'\n')
-           # else:
-           #     with open('has2.txt', 'a', encoding='utf8')as f:
-           #         f.write(phone_item.get()+'\n')
 
             img_demo = get_url_img_from_tag(phone_item.xpath('.//img[1]').get())
 
-            #img_demo = get_url_img(phone_item.xpath('.//img[1]/@src').get())
             yield SplashRequest(
                 endpoint='execute',
                 callback=self.get_info,
@@ -65,26 +57,11 @@ class PhoneSpider(scrapy.Spider):
         img_sliders = response.xpath('.//div[@class="box01__show"]\
                  //div[@class="detail-slider owl-carousel"]//img[not(starts-with(@data-src,"//cdn"))]')
 
-#        url_img_slider = []
-#        for img_tag in img_sliders.getall():
-#            with open('err1.txt','a', encoding='utf8') as f:
-#                f.write(img_tag+'\n')
-#            url_img_slider.append(
-#                    get_url_img_from_tag(img_tag)
-#                    )
-            
         url_img_slider = [
                 get_url_img_from_tag(img_tag, 'Slider/') 
                 for img_tag in img_sliders.getall()
                 ]
 
-#        first_img_slider = img_sliders.xpath('./@src').get()
-#        orther_img_slider = img_sliders.xpath('./@data-src').getall()[:-2]
-
-        # remove Slider/ before url
-#        img_slider = ','.join([get_url_img(img)[7:]
-#                              for img in orther_img_slider])
-#        img_slider = get_url_img(first_img_slider)[7:]+','+img_slider
         img_slider = ','.join(url_img_slider)
 
         param_titles = ["Hệ điều hành", "Camera sau", "Camera trước",
@@ -111,21 +88,6 @@ class PhoneSpider(scrapy.Spider):
                 'img_demo': response.request.meta['img_demo'],
             }
         )
-
-        # Sản phẩm cùng tên khác cấu hình
-        #same_item = response.xpath(
-        #    '//a[@class="box03__item item act"]/following-sibling::node()//@href[not(contains(., "code="))]')
-        #if len(same_item) > 1:
-        #    for link in same_item.getall():
-        #        yield SplashRequest(
-        #            endpoint='execute',
-        #            callback=self.get_info,
-        #            args={'lua_source': script_full},
-        #            url=self.absolute_url.format(link),
-        #            meta = {
-        #                'img_demo': response.request.meta['img_demo'],
-        #                }
-        #        )
 
     def get_info_article(self, response):
         article = ''.join(response.xpath(
