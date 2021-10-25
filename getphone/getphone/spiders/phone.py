@@ -73,7 +73,7 @@ class PhoneSpider(scrapy.Spider):
             'translate(//p[contains(@class,"box-price-old")]/text(), "₫. *", "")')
 
         orig_price = sale_price
-        if len(origin_price) > 1:
+        if len(origin_price) > 0:
             orig_price = origin_price.get()
 
         article_url = 'https://www.thegioididong.com/Product/GetGalleryItemInPopup?productId={}&galleryType=6'
