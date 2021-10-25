@@ -45,3 +45,5 @@ class CommentItem(Item):
             input_processor = MapCompose(parse_imgs),
             )
     rate_star = Field(output_processor=TakeFirst())
+
+

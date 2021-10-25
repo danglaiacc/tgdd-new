@@ -16,8 +16,10 @@ class CommentSpider(Spider):
 
     def start_requests(self):
         modal_ids = get_phone_id('phones.csv')
+        print('~~ len modal_ids',len(modal_ids))
         for modal_id in modal_ids:
             self.formdata['productid'] = str(modal_id)
+            self.formdata['page'] = '1'
             yield FormRequest(
                 url=self.url,
                 formdata=self.formdata,
