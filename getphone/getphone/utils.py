@@ -2,7 +2,7 @@ import pandas as pd, re
 
 
 # print(pd.read_csv('../iphone.csv')['id'].values.tolist())
-def get_phone_id(file_path, column):
+def get_phone_id(file_path, column='id'):
     return pd.read_csv(file_path)[column].values.tolist()
 
 

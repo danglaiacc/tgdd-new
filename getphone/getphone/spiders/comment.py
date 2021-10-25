@@ -3,6 +3,7 @@ from scrapy import Spider, FormRequest
 from scrapy.loader import ItemLoader
 from ..items import CommentItem
 from scrapy.selector import Selector
+from getphone.utils import get_phone_id
 
 
 class CommentSpider(Spider):
@@ -10,24 +11,28 @@ class CommentSpider(Spider):
     allowed_domains = ['www.thegioididong.com']
 
     url = 'https://www.thegioididong.com/Rating/RatingCommentList/'
-    modal_id = '213031'
     formdata = {'productid': '213031',
                 'page': '1', 'ilsBuy': '1', 'iOrder': '1'}
 
     def start_requests(self):
-        yield FormRequest(
-            url=self.url,
-            formdata=self.formdata,
-            callback=self.parse,
-            meta = {'modal_id': self.formdata['productid']}
-        )
+        modal_ids = get_phone_id('phones.csv')
+        for modal_id in modal_ids:
+            self.formdata['productid'] = str(modal_id)
+            yield FormRequest(
+                url=self.url,
+                formdata=self.formdata,
+                callback=self.parse,
+                meta = {'modal_id': self.formdata['productid']}
+            )
 
     def parse(self, response):
-#        with open('index5.html', 'w', encoding='utf8') as f:
+#        with open('comment_raw.html', 'a', encoding='utf8') as f:
 #            f.write(response.xpath(
 #                '//div[@class="comment comment--all ratingLst"]').get()+'\n')
         comments = response.xpath(
             '//div[@class="comment__item par"]').getall()
+        if len(comments) ==0:
+            return 
 
         # print('~~~~ commment', comments)
         for comment in comments:
@@ -49,3 +54,14 @@ class CommentSpider(Spider):
             loader.add_xpath('rate_star', 'count(.//div[@class="comment-star"]/i[@class="icon-star"])')
 
             yield loader.load_item()
+
+        # next page
+        self.formdata['page'] = str(int(self.formdata['page'])+1)
+        yield FormRequest(
+            url=self.url,
+            callback=self.parse,
+            meta = {'modal_id': self.formdata['productid']},
+            formdata=self.formdata,
+        )
+
+
