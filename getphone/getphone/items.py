@@ -21,23 +21,27 @@ def parse_html(content):
     return unescape(content)
 
 def parse_imgs(imgs_src):
-    imgs = []
-    for img in imgs_src:
-        print(img)
-        imgs.append(img[28:])
-    return imgs
+    print('~~ img_src', imgs_src)
+    print(type(imgs_src))
+#    imgs = []
+#    for img in imgs_src:
+#        print(img)
+#        imgs.append(img[28:])
+    # remove https://cdn.tgdd.vn/comment/ of url img comment
+    #return [img[28:] for img in imgs_src]
+    return imgs_src[28:]
 
 class CommentItem(Item):
+    modal_id = Field(output_processor=TakeFirst())
     user_id = Field(output_processor=TakeFirst())
     user_name = Field(
             input_processor = MapCompose(parse_html), 
             output_processor= TakeFirst()
             )
     date_buy = Field(output_processor=TakeFirst())
-    modal_id = Field(output_processor=TakeFirst())
     time_up = Field(output_processor=TakeFirst())
     content = Field(output_processor=TakeFirst())
     comment_imgs = Field(
-            input_processor = MapCompose(parse_imgs)
+            input_processor = MapCompose(parse_imgs),
             )
     rate_star = Field(output_processor=TakeFirst())

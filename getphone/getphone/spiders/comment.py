@@ -18,7 +18,8 @@ class CommentSpider(Spider):
         yield FormRequest(
             url=self.url,
             formdata=self.formdata,
-            callback=self.parse
+            callback=self.parse,
+            meta = {'modal_id': self.formdata['productid']}
         )
 
     def parse(self, response):
@@ -26,7 +27,7 @@ class CommentSpider(Spider):
 #            f.write(response.xpath(
 #                '//div[@class="comment comment--all ratingLst"]').get()+'\n')
         comments = response.xpath(
-            '//div[contains(@class,"comment__item")]').getall()
+            '//div[@class="comment__item par"]').getall()
 
         # print('~~~~ commment', comments)
         for comment in comments:
@@ -38,12 +39,13 @@ class CommentSpider(Spider):
             # print('~~~~ commment', comment)
             # print('~~~~ id:', comment.xpath('./@id').get())
             loader = ItemLoader(item=CommentItem(), selector=Selector(text=comment))
+            loader.add_xpath('modal_id', response.request.meta['modal_id'])
             loader.add_xpath('user_id', 'substring-after(.//@id, "r-")')
             loader.add_xpath('user_name', 'normalize-space(.//p[@class="txtname"]/text())')
             loader.add_xpath('date_buy', './/div[@class="info-buying-txt"]//p[text()="Mua ngày "]/following-sibling::p/text()')
             loader.add_xpath('time_up', './/div[@class="info-buying-txt"]//p[text()="Viết đánh giá"]/following-sibling::p/text()')
             loader.add_xpath('content', 'normalize-space(.//p[@class="cmt-txt"]/text())')
             loader.add_xpath('comment_imgs', './/img/@data-src')
-            loader.add_xpath('rate_star', './/div[@class="comment-star"]/i')
+            loader.add_xpath('rate_star', 'count(.//div[@class="comment-star"]/i[@class="icon-star"])')
 
             yield loader.load_item()
