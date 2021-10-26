@@ -117,9 +117,9 @@ class PhoneSpider(scrapy.Spider):
             'img_demo': response.request.meta['img_demo'],
             'img_slider': response.request.meta['img_slider'],
             'article': article,
-            'manu_name': parent_info['manu_text'],
-            'version_name': parent_info['version_text'],
-            'name': parent_info['modal_text']
+            'manu_name': parent_info['manu_name'],
+            'series_name': parent_info['series_name'],
+            'name': parent_info['product_name']
         }
 
     def get_another_param(self, response,  param_title):

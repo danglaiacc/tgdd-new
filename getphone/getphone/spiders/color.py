@@ -1,6 +1,6 @@
 import scrapy
 from scrapy_splash import SplashRequest
-from getphone.utils import script_full, script_more, get_url_img_from_tag, url_full, get_modal_id_from_tag
+from getphone.utils import script_full, script_more, get_url_img_from_tag, url_full, get_product_id_from_tag
 
 
 class ColorSpider(scrapy.Spider):
@@ -38,10 +38,10 @@ class ColorSpider(scrapy.Spider):
 #            url = color.xpath('.//img/@data-src').get()
 #            url_img = get_url_img(url,2)
 #
-            modal_id = get_modal_id_from_tag(color.xpath('.//img').get())
+            product_id = get_product_id_from_tag(color.xpath('.//img').get())
             url_img = get_url_img_from_tag(color.xpath('.//img').get())
             yield SplashRequest(
-                url=link_img_slide.format(modal_id, color_id),
+                url=link_img_slide.format(product_id, color_id),
                 endpoint='execute',
                 callback=self.get_img_slide,
                 args={'lua_source': script_full},
@@ -49,7 +49,7 @@ class ColorSpider(scrapy.Spider):
                     'id': color_id,
                     'text': color.xpath('.//img/@alt').get(),
                     'img_demo': url_img,
-                    'modal_id': modal_id,
+                    'product_id': product_id,
                 }
             )
 
@@ -79,7 +79,7 @@ class ColorSpider(scrapy.Spider):
                 'id' : resp.request.meta['id'],
                 'name' : resp.request.meta['text'],
                 'img_demo' : resp.request.meta['img_demo'],
-                'modal_id' : resp.request.meta['modal_id'],
+                'product_id' : resp.request.meta['product_id'],
                 'img_slide': img_slide
                 }
 

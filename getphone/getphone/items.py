@@ -32,9 +32,9 @@ def parse_imgs(imgs_src):
     return imgs_src[28:]
 
 class CommentItem(Item):
-    modal_id = Field(output_processor=TakeFirst())
-    user_id = Field(output_processor=TakeFirst())
-    user_name = Field(
+    product_id = Field(output_processor=TakeFirst())
+    customer_id = Field(output_processor=TakeFirst())
+    customer_fullname = Field(
             input_processor = MapCompose(parse_html), 
             output_processor= TakeFirst()
             )

@@ -15,16 +15,16 @@ class CommentSpider(Spider):
                 'page': '1', 'ilsBuy': '1', 'iOrder': '1'}
 
     def start_requests(self):
-        modal_ids = get_phone_id('phones.csv')
-        print('~~ len modal_ids',len(modal_ids))
-        for modal_id in modal_ids:
-            self.formdata['productid'] = str(modal_id)
+        product_ids = get_phone_id('phones.csv')
+        print('~~ len product_ids',len(product_ids))
+        for product_id in product_ids:
+            self.formdata['productid'] = str(product_id)
             self.formdata['page'] = '1'
             yield FormRequest(
                 url=self.url,
                 formdata=self.formdata,
                 callback=self.parse,
-                meta = {'modal_id': self.formdata['productid']}
+                meta = {'product_id': self.formdata['productid']}
             )
 
     def parse(self, response):
@@ -40,15 +40,14 @@ class CommentSpider(Spider):
         for comment in comments:
 #            abc = Selector(text = comment)
 #            yield{
-#                    'user_name': abc.xpath('normalize-space(.//p[@class="txtname"]/text())').get()
-#
+#                    'customer_fullname': abc.xpath('normalize-space(.//p[@class="txtname"]/text())').get()
 #                    }
             # print('~~~~ commment', comment)
             # print('~~~~ id:', comment.xpath('./@id').get())
             loader = ItemLoader(item=CommentItem(), selector=Selector(text=comment))
-            loader.add_xpath('modal_id', response.request.meta['modal_id'])
-            loader.add_xpath('user_id', 'substring-after(.//@id, "r-")')
-            loader.add_xpath('user_name', 'normalize-space(.//p[@class="txtname"]/text())')
+            loader.add_xpath('product_id', response.request.meta['product_id'])
+            loader.add_xpath('customer_id', 'substring-after(.//@id, "r-")')
+            loader.add_xpath('customer_fullname', 'normalize-space(.//p[@class="txtname"]/text())')
             loader.add_xpath('date_buy', './/div[@class="info-buying-txt"]//p[text()="Mua ngày "]/following-sibling::p/text()')
             loader.add_xpath('time_up', './/div[@class="info-buying-txt"]//p[text()="Viết đánh giá"]/following-sibling::p/text()')
             loader.add_xpath('content', 'normalize-space(.//p[@class="cmt-txt"]/text())')
@@ -62,7 +61,7 @@ class CommentSpider(Spider):
         yield FormRequest(
             url=self.url,
             callback=self.parse,
-            meta = {'modal_id': self.formdata['productid']},
+            meta = {'product_id': self.formdata['productid']},
             formdata=self.formdata,
         )
 
