@@ -47,7 +47,7 @@ class ColorSpider(scrapy.Spider):
                 args={'lua_source': script_full},
                 meta={
                     'id': color_id,
-                    'text': color.xpath('.//img/@alt').get(),
+                    'name': color.xpath('.//img/@alt').get(),
                     'img_demo': url_img,
                     'product_id': product_id,
                 }
@@ -77,7 +77,7 @@ class ColorSpider(scrapy.Spider):
 
         yield{
                 'id' : resp.request.meta['id'],
-                'name' : resp.request.meta['text'],
+                'name' : resp.request.meta['name'],
                 'img_demo' : resp.request.meta['img_demo'],
                 'product_id' : resp.request.meta['product_id'],
                 'img_slide': img_slide

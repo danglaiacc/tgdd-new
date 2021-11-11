@@ -6,3 +6,6 @@
 
 ## Tài liệu tham khảo
 - [spark postgreSQL](https://mmuratarat.github.io/2020-06-18/pyspark-postgresql-locally)
+
+## Stop:
+- Dừng ở bước chuyển dữ liệu từ csv sang postgreSQL 
