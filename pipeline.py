@@ -35,25 +35,17 @@ get_series_id_udf = f.udf(
 )
 # transform series table
 series_df = phone_df.select('manu_name', 'series_name')\
-    .distinct()\
+    .dropDuplicates(['manu_name', 'series_name'])\
     .withColumn('id', get_series_id_udf(f.col('series_name')))\
     .withColumnRenamed('series_name', 'name')\
-    .withColumn('manu_id', get_manu_id_udf(f.col('manu_name')))
+    .withColumn('manu_id', get_manu_id_udf(f.col('manu_name')))\
+    .drop('manu_name')
 
-# load to series table
-series_df.write\
-    .format('jdbc')\
-    .options(
-        url=url,
-        driver=driver,
-        dbtable='series'
-    )\
-    .mode('ignore')\
-    .save()
+#print('series df from csv file')
+#series_df.show(2)
+#print('series df count:',series_df.count())
 
-
-# extract series table
-series_df = spark.read\
+series_df_origin = spark.read\
     .format('jdbc')\
     .options(
         url=url,
@@ -61,29 +53,79 @@ series_df = spark.read\
         dbtable='series'
     ).load()
 
-series_dic = series_df\
-    .select('name', 'id')\
-    .distinct()\
-    .toPandas()\
-    .set_index("name")["id"]\
-    .to_dict()
+#series_df_origin = series_df_origin.select('name', 'id', 'manu_id')
+#print('series df from database origin')
+#series_df_origin.show(2)
+#print('series_df_origin count: ',series_df_origin.count())
+# print((series_df.count(), len(series_df.columns)))
+# load to series table
 
-# transform product table
-phone_df = phone_df\
-    .withColumn('series_id', get_series_id_udf(f.col('series_name')))\
-    .drop('manu_name', 'series_name')
-
-phone_df.printSchema()
-phone_df.show(5)
-
-phone_df.write\
+#write_df =series_df.join(series_df_origin, on='id', how='left_anti')
+#
+#write_df.show()
+#
+#print('write df count: ',write_df.count())
+series_df.join(series_df_origin, on='id', how='left_anti')\
+    .write\
     .format('jdbc')\
     .options(
         url=url,
         driver=driver,
-        dbtable='product'
+        dbtable='series'
     )\
-    .mode('ignore')\
+    .mode('append')\
     .save()
 
+
+# extract series table
+#series_df_read = spark.read\
+#    .format('jdbc')\
+#    .options(
+#        url=url,
+#        driver=driver,
+#        dbtable='series'
+#    ).load()
+#
+#series_dic = series_df_read\
+#    .select('name', 'id')\
+#    .distinct()\
+#    .toPandas()\
+#    .set_index("name")["id"]\
+#    .to_dict()
+#
+#print('total series in database', len(series_dic))
+# transform product table
+'''
+phone_df.printSchema()
+get_orig_price_udf = f.udf(
+    lambda sale_price, orig_price: sale_price if orig_price == 'null' else orig_price,
+    IntegerType()
+)
+
+    .withColumn('orig_price', get_orig_price_udf(
+        f.col('sale_price'),
+        f.col('orig_price')))\
+ 
+'''
+
+'''
+
+phone_df = phone_df\
+    .withColumn('series_id', get_series_id_udf(f.col('series_name')))\
+    .drop('manu_name', 'series_name')
+
+#phone_df = phone_df.limit(5)
+
+# phone_df.select('id', 'orig_price').show(10)
+phone_df.write\
+   .format('jdbc')\
+   .options(
+       url=url,
+       driver=driver,
+       dbtable='product'
+   )\
+   .mode('append')\
+   .save()
+
 # print(series_dic)
+'''
