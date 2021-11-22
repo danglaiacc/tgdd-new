@@ -22,27 +22,22 @@ phone_df = spark.read\
     .format('csv')\
     .load(phone_path)
 
-manufacturers = {'iphone': 1, 'samsung': 2, 'oppo': 3, 'vivo': 4, 'xiaomi': 5, 'realme': 6,
-                 'oneplus': 7, 'nokia': 8, 'mobell': 9, 'itel': 10, 'masstel': 11, 'energizer': 12, 'vsmart': 13}
+manu_dic = {'iphone': 1, 'samsung': 2, 'oppo': 3, 'vivo': 4, 'xiaomi': 5, 'realme': 6,
+            'oneplus': 7, 'nokia': 8, 'mobell': 9, 'itel': 10, 'masstel': 11, 'energizer': 12, 'vsmart': 13}
 get_manu_id_udf = f.udf(
-    lambda manu_name: manufacturers[manu_name.lower()],
+    lambda manu_name: manu_dic[manu_name.lower()],
     IntegerType()
 )
 
-get_series_id_udf = f.udf(
-    lambda series_name: series_name.lower().replace(' ', '-'),
-    StringType()
-)
 # transform series table
 series_df = phone_df.select('manu_name', 'series_name')\
-    .dropDuplicates(['manu_name', 'series_name'])\
-    .withColumn('id', get_series_id_udf(f.col('series_name')))\
+    .distinct()\
     .withColumnRenamed('series_name', 'name')\
     .withColumn('manu_id', get_manu_id_udf(f.col('manu_name')))\
     .drop('manu_name')
 
 #print('series df from csv file')
-#series_df.show(2)
+# series_df.show(2)
 #print('series df count:',series_df.count())
 
 series_df_origin = spark.read\
@@ -55,17 +50,21 @@ series_df_origin = spark.read\
 
 #series_df_origin = series_df_origin.select('name', 'id', 'manu_id')
 #print('series df from database origin')
-#series_df_origin.show(2)
+# series_df_origin.show(2)
 #print('series_df_origin count: ',series_df_origin.count())
 # print((series_df.count(), len(series_df.columns)))
 # load to series table
 
-#write_df =series_df.join(series_df_origin, on='id', how='left_anti')
-#
-#write_df.show()
+write_df = series_df.join(
+    series_df_origin,
+    (series_df.name == series_df_origin.name) &
+    (series_df.manu_id == series_df_origin.manu_id),
+    how='left_anti')
+
+# write_df.show(200)
 #
 #print('write df count: ',write_df.count())
-series_df.join(series_df_origin, on='id', how='left_anti')\
+write_df\
     .write\
     .format('jdbc')\
     .options(
@@ -78,22 +77,30 @@ series_df.join(series_df_origin, on='id', how='left_anti')\
 
 
 # extract series table
-#series_df_read = spark.read\
-#    .format('jdbc')\
-#    .options(
-#        url=url,
-#        driver=driver,
-#        dbtable='series'
-#    ).load()
-#
-#series_dic = series_df_read\
-#    .select('name', 'id')\
-#    .distinct()\
-#    .toPandas()\
-#    .set_index("name")["id"]\
-#    .to_dict()
-#
+series_df_read = spark.read\
+    .format('jdbc')\
+    .options(
+        url=url,
+        driver=driver,
+        dbtable='series'
+    ).load()
+
+get_manu_series_udf = f.udf(
+    lambda manu_id, series_name: str(manu_id)+'-'+series_name,
+    StringType()
+)
+
+series_dic = series_df_read\
+    .select('manu_id', 'name', 'id')\
+    .withColumn(
+        'manu_series',
+        get_manu_series_udf(f.col('manu_id'), f.col('name')))\
+    .toPandas()\
+    .set_index("manu_series")["id"]\
+    .to_dict()
+
 #print('total series in database', len(series_dic))
+# print(series_dic)
 # transform product table
 '''
 phone_df.printSchema()
@@ -108,24 +115,31 @@ get_orig_price_udf = f.udf(
  
 '''
 
-'''
 
-phone_df = phone_df\
-    .withColumn('series_id', get_series_id_udf(f.col('series_name')))\
+get_series_id_udf = f.udf(
+    lambda manu_name, series_name:
+    series_dic[str(manu_dic[manu_name.lower()])+'-'+series_name],
+    IntegerType()
+)
+
+
+phone_df_write = phone_df\
+    .withColumn(
+        'series_id',
+        get_series_id_udf(f.col('manu_name'), f.col('series_name')))\
     .drop('manu_name', 'series_name')
 
 #phone_df = phone_df.limit(5)
 
 # phone_df.select('id', 'orig_price').show(10)
-phone_df.write\
-   .format('jdbc')\
-   .options(
-       url=url,
-       driver=driver,
-       dbtable='product'
-   )\
-   .mode('append')\
-   .save()
+phone_df_write.write\
+    .format('jdbc')\
+    .options(
+        url=url,
+        driver=driver,
+        dbtable='product'
+    )\
+    .mode('append')\
+    .save()
 
 # print(series_dic)
-'''
