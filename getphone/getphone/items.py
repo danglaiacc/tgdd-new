@@ -18,7 +18,10 @@ class PhoneItem(Item):
 
 
 def parse_html(content):
+    # parse name from html to vietnamese, max length 30
+    #return unescape(content)[:30]
     return unescape(content)
+
 
 def parse_imgs(imgs_src):
     print('~~ img_src', imgs_src)

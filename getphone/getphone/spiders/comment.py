@@ -38,16 +38,12 @@ class CommentSpider(Spider):
 
         # print('~~~~ commment', comments)
         for comment in comments:
-#            abc = Selector(text = comment)
-#            yield{
-#                    'customer_fullname': abc.xpath('normalize-space(.//p[@class="txtname"]/text())').get()
-#                    }
-            # print('~~~~ commment', comment)
-            # print('~~~~ id:', comment.xpath('./@id').get())
             loader = ItemLoader(item=CommentItem(), selector=Selector(text=comment))
             loader.add_xpath('product_id', response.request.meta['product_id'])
             loader.add_xpath('customer_id', 'substring-after(.//@id, "r-")')
-            loader.add_xpath('customer_fullname', 'normalize-space(.//p[@class="txtname"]/text())')
+
+            # get first 30 character of name
+            loader.add_xpath('customer_fullname', 'substring(normalize-space(.//p[@class="txtname"]/text()),0,30)')
             loader.add_xpath('date_buy', './/div[@class="info-buying-txt"]//p[text()="Mua ngày "]/following-sibling::p/text()')
             loader.add_xpath('time_up', './/div[@class="info-buying-txt"]//p[text()="Viết đánh giá"]/following-sibling::p/text()')
             loader.add_xpath('content', 'normalize-space(.//p[@class="cmt-txt"]/text())')
