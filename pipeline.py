@@ -22,7 +22,6 @@ url = "jdbc:postgresql://localhost/tgdd?user=postgres&password=12345"
 
 ''' done add phone and series '''
 # EXTRACT
-'''
 phone_df = spark.read\
     .option('header', 'true')\
     .option('inferSchema', 'true')\
@@ -124,7 +123,6 @@ color_df.write\
     )\
     .mode('append')\
     .save()
-'''
 
 comment_df = spark.read\
     .option('header', 'true')\
@@ -134,7 +132,6 @@ comment_df = spark.read\
     .format('csv')\
     .load(comment_path)
 
-'''
 customer_df = comment_df.selectExpr(
     'customer_id as id',
     'customer_fullname as fullname')
@@ -151,7 +148,6 @@ customer_df.write\
     .save()
 
 # comment_imgs,content,date_buy,product_id,rate_star,time_up,customer_id,customer_fullname
-'''
 
 
 def random_date(time_up):
