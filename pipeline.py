@@ -21,14 +21,42 @@ driver = 'org.postgresql.Driver'
 url = "jdbc:postgresql://localhost/tgdd?user=postgres&password=12345"
 
 ''' done add phone and series '''
+
+
+def write_to_postgresql(df, table, mode='append'):
+    df.write\
+        .format('jdbc')\
+        .options(
+            url=url,
+            driver=driver,
+            dbtable=table
+        )\
+        .mode(mode)\
+        .save()
+
+
+def read_from_postgresql(table):
+    return spark.read\
+        .format('jdbc')\
+        .options(
+            url=url,
+            driver=driver,
+            dbtable=table
+        ).load()
+
+
+def read_from_csv(file_path):
+    return spark.read\
+        .option('header', 'true')\
+        .option('inferSchema', 'true')\
+        .option("quote", "\"")\
+        .option("escape", "\"")\
+        .format('csv')\
+        .load(file_path)
+
+
 # EXTRACT
-phone_df = spark.read\
-    .option('header', 'true')\
-    .option('inferSchema', 'true')\
-    .option("quote", "\"")\
-    .option("escape", "\"")\
-    .format('csv')\
-    .load(phone_path)
+phone_df = read_from_csv(phone_path)
 
 manu_dic = {'iphone': 1, 'samsung': 2, 'oppo': 3, 'vivo': 4, 'xiaomi': 5, 'realme': 6,
             'oneplus': 7, 'nokia': 8, 'mobell': 9, 'itel': 10, 'masstel': 11, 'energizer': 12, 'vsmart': 13}
@@ -44,25 +72,12 @@ series_df = phone_df.select('manu_name', 'series_name')\
     .withColumn('manu_id', get_manu_id_udf(f.col('manu_name')))\
     .drop('manu_name')
 
-series_df\
-    .write\
-    .format('jdbc')\
-    .options(
-        url=url,
-        driver=driver,
-        dbtable='series'
-    )\
-    .mode('append')\
-    .save()
+
+write_to_postgresql(series_df, 'series')
 
 # extract series table
-series_df_read = spark.read\
-    .format('jdbc')\
-    .options(
-        url=url,
-        driver=driver,
-        dbtable='series'
-    ).load()
+
+series_df_read = read_from_postgresql('series')
 
 get_manu_series_udf = f.udf(
     lambda manu_id, series_name: str(manu_id)+'-'+series_name,
@@ -94,61 +109,21 @@ phone_df_write = phone_df\
     .drop('manu_name', 'series_name')
 
 
-# LOAD phone to product table
-phone_df_write.write\
-    .format('jdbc')\
-    .options(
-        url=url,
-        driver=driver,
-        dbtable='product'
-    )\
-    .mode('append')\
-    .save()
+write_to_postgresql(phone_df_write, 'product')
 
-color_df = spark.read\
-    .option('header', 'true')\
-    .option('inferSchema', 'true')\
-    .option("quote", "\"")\
-    .option("escape", "\"")\
-    .format('csv')\
-    .load(color_path)
+color_df = read_from_csv(color_path)
+
+write_to_postgresql(color_df, 'color')
 
 
-color_df.write\
-    .format('jdbc')\
-    .options(
-        url=url,
-        driver=driver,
-        dbtable='color'
-    )\
-    .mode('append')\
-    .save()
-
-comment_df = spark.read\
-    .option('header', 'true')\
-    .option('inferSchema', 'true')\
-    .option("quote", "\"")\
-    .option("escape", "\"")\
-    .format('csv')\
-    .load(comment_path)
+comment_df = read_from_csv(comment_path)
 
 customer_df = comment_df.selectExpr(
     'customer_id as id',
     'customer_fullname as fullname')
 
-
-customer_df.write\
-    .format('jdbc')\
-    .options(
-        url=url,
-        driver=driver,
-        dbtable='customer'
-    )\
-    .mode('append')\
-    .save()
-
+write_to_postgresql(customer_df, 'customer')
 # comment_imgs,content,date_buy,product_id,rate_star,time_up,customer_id,customer_fullname
-
 
 def random_date(time_up):
     if time_up != None:
@@ -166,23 +141,11 @@ timeup_udf = f.udf(
     StringType()
 )
 
-comment_df.select(
-    'customer_id',
-    'product_id',
-    'time_up',
-    'content',
-    'rate_star'
-)\
+comment_df_write = comment_df.select('customer_id', 'product_id', 'time_up', 'content', 'rate_star')\
     .withColumn(
     'time_up',
     f.to_timestamp(
         timeup_udf(f.col('time_up')),
-        'd/M/y H:m:s'))\
-    .write\
-    .format('jdbc')\
-    .options(
-        url=url,
-        driver=driver,
-        dbtable='comment')\
-    .mode('append')\
-    .save()
+        'd/M/y H:m:s'))
+
+write_to_postgresql(comment_df_write, 'comment')
