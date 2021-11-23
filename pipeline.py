@@ -14,7 +14,7 @@ color_path = './getphone/colors.csv'
 driver = 'org.postgresql.Driver'
 url = "jdbc:postgresql://localhost/tgdd?user=postgres&password=12345"
 
-''' done add phone and series
+''' done add phone and series '''
 # EXTRACT
 phone_df = spark.read\
     .option('header', 'true')\
@@ -38,6 +38,7 @@ series_df = phone_df.select('manu_name', 'series_name')\
     .withColumn('manu_id', get_manu_id_udf(f.col('manu_name')))\
     .drop('manu_name')
 
+'''
 series_df_origin = spark.read\
     .format('jdbc')\
     .options(
@@ -45,15 +46,14 @@ series_df_origin = spark.read\
         driver=driver,
         dbtable='series'
     ).load()
-
 # load to series table
 write_df = series_df.join(
     series_df_origin,
     (series_df.name == series_df_origin.name) &
     (series_df.manu_id == series_df_origin.manu_id),
     how='left_anti')
-
-write_df\
+'''
+series_df\
     .write\
     .format('jdbc')\
     .options(
@@ -63,7 +63,6 @@ write_df\
     )\
     .mode('append')\
     .save()
-
 
 # extract series table
 series_df_read = spark.read\
@@ -114,9 +113,7 @@ phone_df_write.write\
     )\
     .mode('append')\
     .save()
-'''
 
-''' Done Load color, remove previous before add 
 color_df = spark.read\
     .option('header', 'true')\
     .option('inferSchema', 'true')\
@@ -136,5 +133,4 @@ color_df.write\
     .mode('append')\
     .save()
 
-'''
 
