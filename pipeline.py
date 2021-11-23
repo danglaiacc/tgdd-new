@@ -10,9 +10,11 @@ spark = SparkSession.builder\
     .getOrCreate()
 
 phone_path = './getphone/phones.csv'
+color_path = './getphone/colors.csv'
 driver = 'org.postgresql.Driver'
 url = "jdbc:postgresql://localhost/tgdd?user=postgres&password=12345"
 
+''' done add phone and series
 # EXTRACT
 phone_df = spark.read\
     .option('header', 'true')\
@@ -36,10 +38,6 @@ series_df = phone_df.select('manu_name', 'series_name')\
     .withColumn('manu_id', get_manu_id_udf(f.col('manu_name')))\
     .drop('manu_name')
 
-#print('series df from csv file')
-# series_df.show(2)
-#print('series df count:',series_df.count())
-
 series_df_origin = spark.read\
     .format('jdbc')\
     .options(
@@ -48,22 +46,13 @@ series_df_origin = spark.read\
         dbtable='series'
     ).load()
 
-#series_df_origin = series_df_origin.select('name', 'id', 'manu_id')
-#print('series df from database origin')
-# series_df_origin.show(2)
-#print('series_df_origin count: ',series_df_origin.count())
-# print((series_df.count(), len(series_df.columns)))
 # load to series table
-
 write_df = series_df.join(
     series_df_origin,
     (series_df.name == series_df_origin.name) &
     (series_df.manu_id == series_df_origin.manu_id),
     how='left_anti')
 
-# write_df.show(200)
-#
-#print('write df count: ',write_df.count())
 write_df\
     .write\
     .format('jdbc')\
@@ -99,22 +88,7 @@ series_dic = series_df_read\
     .set_index("manu_series")["id"]\
     .to_dict()
 
-#print('total series in database', len(series_dic))
-# print(series_dic)
-# transform product table
-'''
-phone_df.printSchema()
-get_orig_price_udf = f.udf(
-    lambda sale_price, orig_price: sale_price if orig_price == 'null' else orig_price,
-    IntegerType()
-)
-
-    .withColumn('orig_price', get_orig_price_udf(
-        f.col('sale_price'),
-        f.col('orig_price')))\
- 
-'''
-
+# TRANSFORM phone df
 
 get_series_id_udf = f.udf(
     lambda manu_name, series_name:
@@ -129,9 +103,8 @@ phone_df_write = phone_df\
         get_series_id_udf(f.col('manu_name'), f.col('series_name')))\
     .drop('manu_name', 'series_name')
 
-#phone_df = phone_df.limit(5)
 
-# phone_df.select('id', 'orig_price').show(10)
+# LOAD phone to product table
 phone_df_write.write\
     .format('jdbc')\
     .options(
@@ -141,5 +114,27 @@ phone_df_write.write\
     )\
     .mode('append')\
     .save()
+'''
 
-# print(series_dic)
+''' Done Load color, remove previous before add 
+color_df = spark.read\
+    .option('header', 'true')\
+    .option('inferSchema', 'true')\
+    .option("quote", "\"")\
+    .option("escape", "\"")\
+    .format('csv')\
+    .load(color_path)
+
+
+color_df.write\
+    .format('jdbc')\
+    .options(
+        url=url,
+        driver=driver,
+        dbtable='color'
+    )\
+    .mode('append')\
+    .save()
+
+'''
+
