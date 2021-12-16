@@ -12,3 +12,7 @@
 
 ## Stop:
 - Dừng ở bước chuyển dữ liệu từ csv sang postgreSQL 
+
+## Yêu cầu
+- Font UTM Avo cho báo cáo tableau
+- Cài hình nếu có của Tableau vào folder trong document. 
