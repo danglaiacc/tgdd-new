@@ -1,0 +1,1660 @@
+﻿id,province,latitude,longitude,address,district
+0,Website Thegioididong.com,,,,
+1,Thái Nguyên,21.600864,105.82419,"01 Lương Ngọc Quyến, tổ 4, P. Hoàng Văn Thụ",TP. Thái Nguyên
+2,Quảng Ngãi,15.1129,108.7936,"02 Đường Nguyễn Trãi, Phường Nghĩa Lộ",TP Quảng Ngãi
+3,Quảng Nam,15.573461,108.482468,"02 Phan Chu Trinh, Phường An Mỹ, Thành phố Tam Kỳ",Tỉnh Quảng Nam
+4,Hà Nội,20.982263,105.83465,"04 Ngõ 177 Định Công, P. Định Công",Q. Hoàng Mai
+5,Gia Lai,13.985216,108.0075359,"05 Nguyễn Tất Thành, P.Hoa Lư",TP.Pleiku 
+6,Quảng Ngãi,15.132941,108.801188,"06 Hai Bà Trưng, Phường Lê Hồng Phong, Thành phố Quảng Ngãi",Tỉnh Quảng Ngãi
+7,Đắk Lắk,13.2034477,108.213164,"1 Trường Chinh, TT. Ea Drăng",H. Ea H'leo
+8,Bình Dương,10.955949,106.70166,"1/25A Thủ Khoa Huân, KP Hòa Lân 1, P.Thuận Giao",TX.Thuận An
+9,Đà Nẵng,16.020536,108.21123,"1001 Đường Nguyễn Hữu Thọ, Phường Khuê Trung",Quận Cẩm Lệ
+10,Bắc Kạn,22.152492,105.83843,"10-12 đường Võ Nguyên Giáp, Tổ 1, P.Sông Cầu",TP.Bắc Kạn
+11,An Giang,10.706591,105.12756,"102 Lê Lợi, P. Châu Phú B",TP. Châu Đốc
+12,Hà Nội,21.042511,105.7808,"102 Phạm Văn Đồng, P. Mai Dịch, Q. Cầu Giấy",TP. Hà Nội ( Đầu Ngõ 1 đường Phạm Văn Đồng
+13,An Giang,10.714168,105.11304,"104 Thủ Khoa Nghĩa, P. Châu Phú A",TP. Châu Đốc
+14,Long An,10.5398434,106.4076411,"106 Quốc Lộ 1, P.2",TP.Tân An
+15,Bình Phước,11.5353053,106.9007812,"1082 Phú Riềng Đỏ, P.Tân Thiện",Thị xã Đồng Xoài
+16,Đà Nẵng,16.0603409,108.2139587,"110 Nguyễn Văn Linh , P.Nam Dương",Q.Hải Châu
+17,Quảng Ngãi,15.044575,108.8499,"110A Quốc Lộ 1A, TT.Sông Vệ",H.Tư Nghĩa
+18,Bình Phước,11.812611,107.24754,"112 - 114, Quốc Lộ 14, TT.Đức Phong",H.Bù Đăng
+19,Bến Tre,10.248888,106.37358,"112B đường Đồng Khởi, khu phố 5, P.Phú Khương",TP.Bến Tre
+20,Quảng Ngãi,15.099136,108.81648,"1192-Quang Trung, P. Chánh Lộ",Tp. Quảng Ngãi
+21,Hà Nội,21.02945,105.84193,"11A Phố Điện Biên Phủ, P. Điện Biên",Q. Ba Đình
+22,Hà Nội,21.0129976,105.8201623,"11A Thái Hà, P.Trung Liệt",Q.Đống Đa
+23,Quảng Ninh,20.958848,107.09131,"120 - 122 - 124 Đường Kênh Liêm, P.Cao Thắng",TP.Hạ Long
+24,Bình Định,13.77614,109.22483,"12-14 Lý Thường Kiệt, P. Lê Hồng Phong",TP. Quy Nhơn
+25,Trà Vinh,9.944214,106.33964,"121D-123 Phạm Ngũ Lão, khóm 3, P. 01",TP. Trà Vinh
+26,Bến Tre,10.184347,106.27361,"124 Ấp Phước Khánh, Xã Phước Mỹ Trung",Huyện Mỏ Cày Bắc
+27,Quảng Bình,17.4693913,106.6135007,"127 Trần Hưng Đạo, P.Đồng Phú",TP.Đồng Hới
+28,Bắc Ninh,21.052796,106.17516,"127-129 Nguyễn Văn Cừ, TT.Gia Bình",H.Gia Bình
+29,Hà Nội,20.9978986,105.8427573,"128 Phố Đại La (gần Ngã tư Đại La - Phố Vọng), P. Đồng Tâm",Q. Hai Bà Trưng
+30,Bình Dương,10.890855,106.78424,"137 Quốc Lộ 1K, KP.Tây B, P.Đông Hòa",TX.Dĩ An
+31,Bình Dương,10.948392,106.72969,"143/5A khu phố 4, P. An Phú",TX. Thuận An
+32,Đà Nẵng,16.077238,108.14848,"144 Nguyễn Lương Bằng, P. Hòa Khánh Bắc",H. Liên Chiểu
+33,Bình Thuận,10.82421,107.72715,"146-148 Hùng Vương, KP. 02, TT. Tân Nghĩa",H. Hàm Tân
+34,Bạc Liêu,9.2261278,105.4134536,"148B Quốc lộ 1A, ấp 2, Thị Trấn Hộ Phòng",H.Giá Rai
+35,Long An,10.6371738,106.4887351,"15 Nguyễn Hữu Thọ, KP.3",Thị Trấn Bến Lức
+36,Ninh Thuận,11.5951389,109.0344282,"150 Yên Ninh, KP. Khánh Sơn 1, TT. Khánh Hải",Ninh Hải
+37,Đắk Lắk,12.9169458,108.2652157,"154 Hùng Vương, P.An Lạc",Thị xã Buôn Hồ
+38,Đà Nẵng,16.052448,108.21062,"155 Lê Đình Lý, P. Hòa Thuận Đông",Q. Hải Châu
+39,Bình Phước,11.849767,106.58828,"156 Quốc Lộ 13, KP. Ninh Thịnh",TT. Lộc Ninh
+40,Bình Thuận,10.663627,107.7682,"156 Thống Nhất, KP. 02, P. Tân Thiện",TX. La Gi
+41,Quảng Nam,15.841303,108.283449,"157-161 Điện Biên Phủ, TT. Nam Phước",H. Duy Xuyên
+42,Hà Tĩnh,18.3336032,105.8999097,"160 Hà Huy Tập, P.Hà Huy Tập",TP.Hà Tĩnh
+43,An Giang,10.3770741,105.4403883,"170A Trần Hưng Đạo, P.Mỹ Xuyên",TP.Long Xuyên
+44,Hà Nội,21.015681,105.81612,"171 Thái Hà, P. Láng Hạ",Q. Đống Đa
+45,Bến Tre,10.237289,106.36964,"174A, đường Đoàn Hoàng Minh, P.05",TP.Bến Tre
+46,Bình Dương,11.045885,106.63341,"175/6 Quốc Lộ 13, KP. 02, P. Tân Định",TX. Bến Cát
+47,Quảng Nam,15.435974,108.64406,"177 Phạm Văn Đồng, Khối 2, TT.Núi Thành",H.Núi Thành
+48,Long An,10.825489,106.45887,"177C-177C/1, Khu Phố 3, Thị Trấn Đức Hòa",Huyện Đức Hòa
+49,Đồng Tháp,10.4572851,105.6378793,"178 Nguyễn Huệ, P.2",TP.Cao Lãnh
+50,Long An,10.44677,106.46819,"179 Đỗ Tường Phong, TT. Tầm Vu",H. Châu Thành
+51,Bình Dương,10.9916023,106.6508317,"18 Cách mạng Tháng 8, Ấp Chánh Lộc, Xã Chánh Mỹ",TP.Thủ Dầu Một
+52,Hà Nội,21.0019482,105.8436679,"186 - 188 -190 Lê Thanh Nghị, P. Đồng Tâm",Q. Hai Bà Trưng
+53,Hà Nội,20.982185,105.7899,"18B Trần Phú, tổ dân phố 3, P. Mộ Lao",Q. Hà Đông
+54,Bình Dương,11.139628,106.608809,"18C2 Đường TC3, Khu đô thị Mỹ Phước II, P. Mỹ Phước",TX. Bến Cát
+55,Bến Tre,10.1546623,106.5051593,"195 Khu phố 3, TT. Giồng Trôm",H. Giồng Trôm
+56,Bến Tre,10.1288936,106.3331026,"199 Quốc Lộ 60, KP5, Thị Trấn Mỏ Cày",H.Mỏ Cày Nam
+57,Hà Nội,21.022662,105.90524,"2 Ngọc Trì, P. Thạch Bàn",Quận Long Biên
+58,Hà Nội,21.257023,105.84832,"2 Núi Đôi, TT. Sóc Sơn",H. Sóc Sơn
+59,Trà Vinh,9.937137,106.34342,"20 Hùng Vương, Phường 4",TP Trà Vinh
+60,Bình Dương,10.904803,106.7683,"206 Nguyễn An Ninh, KP. Bình Minh 2, P. Dĩ An",TX. Dĩ An
+61,Đà Nẵng,16.058279,108.20588,"208 - 210 Nguyễn Tri Phương, Phường Thạc Gián",Quận Thanh Khê
+62,Quảng Nam,15.5697041,108.4875977,"214 Phan chu Trinh, P.Phước Hòa",TP.Tam Kỳ
+63,Bà Rịa - Vũng Tàu,10.5348648,107.3989051,"219/6 QL55, Thị trấn Phước Bửu",Huyện Xuyên Mộc
+64,Bình Dương,10.9837453,106.6646021,"222 Yersin, P.Phú Cường",TP.Thủ Dầu Một
+65,Long An,10.532811,106.41796,"22-24 Châu Thị Kim, P.3",TP.Tân An
+66,Quảng Nam,15.8843087,108.3253428,"225 Lý Thường Kiệt, P.Cẩm Phô",TP. Hội An
+67,Hà Nội,21.013959,105.80288,"22F Trần Duy Hưng, P. Trung Hòa",Q. Cầu Giấy
+68,Đà Nẵng,16.013247,108.25597,"231 Lê Văn Hiến, P. Hòa Hải",Q. Ngũ Hành Sơn
+69,Hà Nội,20.987658,105.79733,"238 Nguyễn Trãi, P. Trung Văn",Q. Nam Từ Liêm
+70,Phú Thọ,21.3280839,105.3795035,"2387-2389 Hùng Vương, Khu 7, P.Nông Trang",TP.Việt Trì
+71,Đắk Lắk,12.6911697,108.0619311,"242 Nguyễn Tất Thành, P. Tân Lập",TP Buôn Mê Thuột
+72,Hà Nội,20.978194,105.74607,"245 Lê Trọng Tấn, P. Dương Nội",Q. Hà Đông
+73,Kon Tum,14.407476,107.797884,"245 Trần Hưng Đạo, Thị Trấn Sa Thầy",Huyện Sa Thầy
+74,Quảng Nam,15.342541,108.22194,"252 Võ Nguyên Giáp, TT. Trà My",H. Bắc Trà My
+75,Hà Nội,21.011353,105.83656,"25-27 Xã Đàn, P. Phương Liên",Q. Đống Đa
+76,Lào Cai,22.4938234,103.9762831,"256 Nguyễn Huệ, P.Phố Mới",TP.Lào Cai
+77,Vĩnh Phúc,21.234845,105.70565,"26 Trần Hưng Đạo, P. Trưng Trắc",TX. Phúc Yên
+78,Bà Rịa - Vũng Tàu,10.4954363,107.172789,"267A Đường CMT8, KP 5, P.Phước Hiệp",Thị xã Bà Rịa
+79,Hà Tĩnh,18.455042,105.77554,"27 Đường Xô Viết Nghệ Tĩnh, Thị Trấn Nghèn",Huyện Can Lộc
+80,Bà Rịa - Vũng Tàu,10.484599,107.21493,"270 Võ Thị Sáu, KP.Long Tân, TT.Long Điền",H.Long Điền
+81,Bến Tre,10.259001,106.11959,"278/18B1, Khu phố 2, TT.Chợ Lách",H.Chợ Lách
+82,Hà Nội,21.03551,105.81931,"284 Đội Cấn, P. Cống Vị",Q. Ba Đình
+83,Hà Nội,21.03551,105.81931,"284 Đội Cấn, P. Cống Vị",Q. Ba Đình
+84,Bà Rịa - Vũng Tàu,10.3551013,107.0851296,"290 Trương Công Định, P.8 ",TP.Vũng Tàu
+85,Hà Nội,21.0452936,105.8747989,"291Nguyễn Văn Cừ, P.Ngọc Lâm",Q.Long Biên
+86,Bình Dương,10.906228,106.7311531,"2A/1B khu phố Bình Đức, P.Bình Hòa",Thị xã Thuận An
+87,Đắk Lắk,12.710665,108.30205,"304-306 Giải Phóng, Khối 6, TT.Phước An",H.Krông Pắc
+88,Bình Phước,11.480858,106.61478,"305 Quốc Lộ 13, ấp 3, X. Minh Hưng",H. Chơn Thành
+89,Ninh Thuận,11.5709472,108.9914024,"312 - 312A Thống Nhất, P. Phủ Hà",TP. Phan Rang - Tháp Chàm
+90,Bà Rịa - Vũng Tàu,10.648404,107.24591,"313 - 315 Hùng Vương, KP. 02, TT. Ngãi Giao",H. Châu Đức
+91,Bình Phước,11.8122964,106.9529933,"32 đường ĐT.741, KP.4, P.Long Phước",Thị xã Phước Long
+92,Đà Nẵng,16.069362,108.2094741,"320-322 Lê Duẩn,P. Tân Chính",Q.Thanh Khê
+93,Đà Nẵng,16.065729,108.19206,"325 Điện Biên Phủ, P. Hòa Khê",Q. Thanh Khê
+94,Long An,10.834803,105.66749,"33-35, Đường 30/4, Thị trấn Tân Hưng",Huyện Tân Hưng
+95,Lâm Đồng,11.7353086,108.374328,"35 - 37 Thống Nhất , TT.Liên Nghĩa",H.Đức Trọng
+96,Bà Rịa - Vũng Tàu,10.414051,107.200584,"35 Đường Ven Biển, Xã Phước Tỉnh",Huyện Long Điền
+97,Hà Nội,21.036086,105.79079,"351 Cầu Giấy, P. Dịch Vọng",Q. Cầu Giấy
+98,Bình Định,13.825261,109.16808,"351 Nguyễn Huệ, TT. Tuy Phước",H. Tuy Phước
+99,Đà Nẵng,16.036928,108.2102,"351 Nguyễn Hữu Thọ, P.Hòa Cường Bắc",Q.Hải Châu
+100,Kon Tum,14.349551,108.00179,"375 - 377 Trần Hưng Đạo, phường Quyết Thắng",TP Kon Tum
+101,Hà Nội,20.993779,105.80587,"378 Nguyễn Trãi, P. Thanh Xuân Trung",Q. Thanh Xuân
+102,Bình Định,13.919145,109.09219,"379 Lê Duẩn, P. Đập Đá",TX. An Nhơn
+103,Bình Định,14.366391,108.96755,"38 Quang Trung, TT. Tăng Bạt Hổ",H. Hoài Ân
+104,Bắc Ninh,21.1229957,105.9686494,"38 Xuân Thụ, P.Đông Ngàn",Thị Xã Từ Sơn
+105,Bà Rịa - Vũng Tàu,10.36983,107.0767,"386-388-390 Lê Lợi, P.07",TP. Vũng Tàu
+106,Hà Nội,20.947897,105.844489,"389 Ngọc Hồi, Thị Trấn Văn Điển",H.Thanh Trì
+107,Đắk Lắk,12.65736,108.0277812,"390 – 392 – 394 – 396 Lê Duẩn, P.Eatam",TP. Buôn Mê Thuột
+108,Long An,10.6113126,106.0475443,"40 QL 62, Khu Phố 3, TT. Tân Thạnh",Huyện Tân Thạnh
+109,Hà Nội,20.9644953,105.7680094,"403 Quang Trung, P.Quang Trung",Q.Hà Đông
+110,Gia Lai,13.953837,108.01379,"412 Trường Chinh, P.Trà Bá",TP.Pleiku
+111,Bình Dương,11.082518,106.66509,"414A DT 741, khu phố Phú Nghị, P. Hòa Lợi",TX. Bến Cát
+112,Đắk Lắk,13.20153,108.20555,"417 Giải Phóng, TT. Ea Drăng",H. Ea H’Leo
+113,Bình Thuận,11.220813,108.50818,"427 đường Nguyễn Tất Thành, khu phố Xuân An, TT. Chợ Lầu",H. Bắc Bình
+114,Vĩnh Phúc,21.30597,105.57292,"449 Hùng Vương, Phường Đồng Tâm",Thành phố Vĩnh Yên
+115,Bến Tre,10.236317,106.3807,"44B Nguyễn Đình Chiểu, P.1",TP.Bến Tre
+116,Bà Rịa - Vũng Tàu,10.3980166,107.1121448,"454 – 456 đường 30/4, P. Rạch Dừa",TP.Vũng Tàu
+117,Hà Nội,20.9971224,105.8499885,"456-456A-458 Bạch Mai, P.Trương Định",Q.Hai Bà Trưng
+118,Đà Nẵng,16.016585,108.20471,"46 Ông Ích Đường, Phường Hòa Thọ Đông",Quận Cẩm Lệ
+119,Trà Vinh,9.923439,106.34013,"474B Nguyễn Đáng, Khóm 3, P.6",TP.Trà Vinh
+120,Gia Lai,13.993576,108.12116,"475 Nguyễn Huệ, TT.Đắk Đoa",H.Đắk Đoa
+121,Thái Nguyên,21.588248,105.829216,"477 đường Lương Ngọc Quyến, P. Phan Đình Phùng",TP. Thái Nguyên
+122,Hà Nội,21.0171412,105.8316372,"480 Xã Đàn, P. Nam Đồng",Q. Đống Đa
+123,Ninh Thuận,11.561973,108.98996,"492 Thống Nhất , P. Mỹ Hương ",TP. Phan Rang - Tháp Chàm 
+124,Bắc Giang,21.2749168,106.0985994,"492-494 Thân Nhân Trung, Tổ dân phố 2, TT. Bích Động",H. Việt Yên
+125,Bình Dương,10.890355,106.72724,"5/A1 KDC Đồng An 4, Tỉnh Lộ 43, P. Bình Hòa",TX. Thuận An
+126,Quảng Ninh,20.958407,107.02223,"527 Hạ Long, P. Bãi Cháy",TP. Hạ Long
+127,Thái Nguyên,21.419223,105.87032,"531 Phạm Văn Đồng, P Ba Hàng",TX Phổ Yên
+128,Đắk Lắk,12.68385,108.07688,"538 Nguyễn Văn Cừ, P. Tân Lợi",TP. Buôn Mê Thuột
+129,Hà Nội,20.983837,105.84563,"546 Trương Định, Tân Mai",Hoàng Mai
+130,Bình Định,13.7816314,109.221434,"564-566 Trần Hưng Đạo, P.Thị Nại",TP.Quy Nhơn
+131,Đắk Lắk,12.81566,108.07572,"57 Hùng Vương, Thị Trấn Quảng Phú",Huyện Cư M'gar
+132,Lâm Đồng,11.5427191,107.8105223,"581 Trần Phú, P.B'lao",TP.Bảo Lộc
+133,Điện Biên,21.3972589,103.0207086,"583 Tổ Dân Phố 10, P.Tân Thanh",TP.Điện Biên Phủ
+134,An Giang,10.394619,105.42545,"589 Trần Hưng Đạo, P. Bình Khánh",TP. Long Xuyên
+135,Đà Nẵng,16.0635717,108.1581191,"590 Tôn Đức Thắng, P. Hòa Khánh Nam",Q. Liên Chiểu
+136,Bến Tre,10.2531639,106.3714314,"591B - 592B2 đường Đồng Khởi, P.Phú Khương",TP.Bến Tre
+137,Bình Dương,11.273845,106.35961,"6/12 Thống Nhất, KP.2, TT.Dầu Tiếng",H.Dầu Tiếng
+138,Quảng Ngãi,14.808655,108.95689,"600 Nguyễn Nghiêm, TT. Đức Phổ",H. Đức Phổ
+139,Hà Nội,21.008393,105.8476,"60-62 Đại Cồ Việt, P. Lê Đại Hành",Q. Hai Bà Trưng
+140,Quảng Ninh,21.009814,107.267669,"617 Trần Phú, Tổ 65, P.Cẩm Thủy",TP.Cẩm Phả
+141,Trà Vinh,9.932574,106.34121,"62 Điện Biên Phủ, khóm 3, P. 02",TP. Trà Vinh
+142,Gia Lai,13.9540075,108.6524141,"621 Quang Trung, Tổ 2, P.Tây Sơn",Thị xã An Khê
+143,Quảng Nam,15.563506,108.49672,"622 Phan Chu Trinh, P. An Sơn",TP. Tam Kỳ
+144,Yên Bái,21.715571,104.900094,"636 - 638 - 640 Điện Biên, P. Minh Tân",Thành phố Yên Bái
+145,Bình Dương,10.920966,106.71321,"64A Nguyễn Văn Tiết, KP. Bình Hòa, P. Lái Thiêu",TX. Thuận An
+146,Hà Nội,20.980586,105.77206,"66 Đường Vạn Phúc , Tổ Dân Phố Bạch Đằng , P. Vạn Phúc ",Q. Hà Đông 
+147,An Giang,10.7976972,105.2481115,"7 Nguyễn Văn Linh, P.Long Thạnh",Thị xã Tân Châu
+148,Hòa Bình,20.823497,105.34587,"714 Cù Chính Lan, Tổ 3, P.Đồng Tiến",Tp. Hòa Bình
+149,Bình Định,13.998212,109.05913,"71A Ba Tháng Hai, TT. Ngô Mây, H. Phù Cát",T. Bình Định (ngã tư 3/2 - Trần Hưng Đạo
+150,Gia Lai,14.13876,108.6017,"72-74 Phan Bội Châu, Thị trấn Kbang, Huyện Kbang",Tỉnh Gia Lai
+151,Đà Nẵng,16.074053,108.23081,"735 Ngô Quyền, P.An Hải Bắc",Q.Sơn Trà
+152,Quảng Ngãi,15.122957,108.80149,"75 Đại lộ Hùng Vương, P.Trần Hưng Đạo",TP.Quảng Ngãi
+153,Lâm Đồng,11.790032,108.2418,"753 - 755 Hùng Vương, KP Bồ Liêng, TT. Đinh Văn",H.Lâm Hà
+154,Quảng Ngãi,15.3041791,108.7549925,"76 Quốc Lộ 1A Tổ Dân Phố 1, Thị Trấn Châu Ổ",H.Bình Sơn
+155,Bình Dương,10.9662191,106.6828895,"77 Đại lộ Bình Dương, P.Phú Thọ",TP.Thủ Dầu Một
+156,Bắc Ninh,21.1784094,106.0590076,"774 Nguyễn Du, P.Ninh Xá",TP.Bắc Ninh
+157,Hà Nội,21.0717447,105.9039456,"777 - 779 Ngô Gia Tự, P. Đức Giang",Q. Long Biên
+158,An Giang,10.424279,105.00136,"79 Trần Hưng Đạo, Khóm 2, TT.Tri Tôn",H.Tri Tôn
+159,Bình Dương,10.977451,106.74102,"79/13 Đường ĐT 743, KP.Bình Phước B, P.Bình Chuẩn",TX.Thuận An
+160,Bắc Giang,21.277944,106.21178,"792 Lê Lợi, P. Dĩnh Kế, TP. Bắc Giang",T. Bắc Giang (ngã tư Lê Lợi - Minh Khai
+161,Bình Thuận,10.9372837,108.1035429,"80 Trần Hưng Đạo, P.Phú Trinh",TP.Phan Thiết
+162,Gia Lai,13.694139,108.07747,"811 Hùng Vương, TT.Chư Sê",H.Chư Sê
+163,Đồng Tháp,10.456291,105.63595,"83 Nguyễn Huệ, P.1",TP.Cao Lãnh
+164,Lâm Đồng,11.593592,108.07863,"839 Hùng Vương, KP. 10, TT. Di Linh",H. Di Linh
+165,Lâm Đồng,11.540958,107.7996,"853A-855 Trần Phú, P. B'Lao",TP. Bảo Lộc
+166,Kon Tum,14.655884,107.841212,87 Hùng Vương,Thị Trấn Đắk Tô
+167,Quảng Bình,17.752759,106.42176,"87-89 Hùng Vương, P.Ba Đồn",TX.Ba Đồn
+168,Đắk Lắk,12.810476,108.44923,"94 Nguyễn Tất Thành, khu phố 3A, TT. Ea Kar",H. Ea Kar
+169,Hà Giang,22.8306472,104.9876153,"94 Trần Hưng Đạo, P.Trần Phú",TP.Hà Giang
+170,Bà Rịa - Vũng Tàu,10.409439,107.13358,"974-976 đường 30/04, P. 11",TP. Vũng Tàu
+171,Hà Nội,21.02631,105.81089,"996 Đê La Thành, Phường Ngọc Khánh",Quận Ba Đình
+172,Hà Nội,21.02631,105.81089,"996 Đê La Thành, Phường Ngọc Khánh",Quận Ba Đình
+173,Đắk Lắk,12.6858003,108.049314,"A12 Trần Hưng Đạo, P.Thắng Lợi",TP.Buôn Mê Thuột 
+174,Đồng Tháp,10.656319,105.78451,"Ấp 5A, xã Trường Xuân",H. Tháp Mười
+175,Long An,10.901842,106.41811,"Ấp Chánh, Xã Đức Lập Hạ",Huyện Đức Hòa
+176,Bạc Liêu,9.5638741,105.44796,"Ấp Nội Ô, TT. Ngan Dừa",H. Hồng Dân
+177,An Giang,10.577157,105.35753,"Ấp Trung 3, TT. Phú Mỹ",H. Phú Tân
+178,Bạc Liêu,9.2875659,105.7221007,"C1B, đường Trần Phú, P.3",TP.Bạc Liêu
+179,Bà Rịa - Vũng Tàu,10.408123,107.22072,"C44 Ấp Phước Lộc, xã Phước Hưng",H.Long Điền
+180,Vĩnh Phúc,21.215207,105.5143,"Chợ TT. Vĩnh Tường, TT.Vĩnh Tường",H. Vĩnh Tường
+181,Thái Nguyên,21.420959,105.89522,"Cổng Nam 2 (nhà máy Samsung) khu CN Yên Bình, phường Đồng Tiến",tx Phổ Yên
+182,Hà Nội,21.119004,105.64708,"Đạc 7, xã Thọ Xuân",H. Đan Phượng
+183,Vĩnh Phúc,21.293038,105.55268,"Điện máy Xanh 01 Nguyễn Danh Phương, tổ dân phố An Phú, P. Hội Hợp",TP. Vĩnh Yên
+184,Bà Rịa - Vũng Tàu,10.599903,107.05442,"Điện máy Xanh 01 Nguyễn Văn Linh, TT.Phú Mỹ",H.Tân Thành
+185,Gia Lai,14.030759,107.98962,"Điện máy Xanh 01 Tôn Đức Thắng, P. Yên Thế",Tp. Pleiku
+186,Quảng Bình,17.808227,105.96673,"Điện máy Xanh 02 Lý Thường Kiệt, Tiểu khu 5, TT. Quy Đạt",H. Minh Hóa
+187,Bà Rịa - Vũng Tàu,10.565301,107.42342,"Điện máy Xanh 02/01 Ấp Nhân Tiến, Xã Xuyên Mộc",H. Xuyên Mộc
+188,Bà Rịa - Vũng Tàu,10.409989,107.21984,"Điện máy Xanh 03 Tỉnh Lộ 44, TT. Long Hải",H. Long Điền
+189,Long An,10.537451,106.672328,"Điện máy Xanh 04, xã Đông Thạnh",huyện Cần Giuộc
+190,Quảng Bình,17.755778,106.4325,"Điện máy Xanh 09 Hùng Vương, Xóm Minh Phượng, P. Quảng Thọ",TX. Ba Đồn
+191,Bình Phước,11.535964,106.90138,"Điện máy Xanh 1050 Phú Riềng Đỏ, khu phố Tân Đồng 1, phường Tân Xuân",Thị Xã Đồng Xoài
+192,Hà Tĩnh,18.529488,105.69904,"Điện máy Xanh 105-107-109 Trần Phú, P. Nam Hồng",TX. Hồng Lĩnh
+193,Hà Tĩnh,18.529488,105.69904,"Điện máy Xanh 105-107-109 Trần Phú, P. Nam Hồng",TX. Hồng Lĩnh
+194,Bến Tre,10.248889,106.35547,"Điện máy Xanh 105A3 Võ Nguyên Giáp, KP. Bình Khởi, P.6",Tp. Bến Tre
+195,Bình Định,13.763867,109.21608,"Điện máy Xanh 107 Ngô Mây, P. Nguyễn Văn Cừ",TP. Quy Nhơn
+196,Yên Bái,21.880083,104.68516,"Điện máy Xanh 109 Tuệ Tĩnh , Thôn Hồng Phong, TT. Mậu A",H. Văn Yên
+197,Bình Định,14.364256,108.96888,"Điện máy Xanh 116 Nguyễn Tất Thành, TT. Tăng Bạt Hổ",H. Hoài Ân
+198,Đà Nẵng,16.059434,108.17478,"Điện máy Xanh 116 Tôn Đức Thắng, P.Hòa Minh",Q.Liên Chiểu
+199,Vĩnh Phúc,21.276804,105.72901,"Điện máy Xanh 116 Trường Chinh, P. Đồng Xuân, TX. Phúc Yên",T. Vĩnh Phúc ( gần vòng tròn 1 Xuân Hòa
+200,Ninh Thuận,11.524585,108.92611,"Điện máy Xanh 117 QL1A , Khu Phố 5 , TT. Phước Dân ",H. Ninh Phước 
+201,Bình Thuận,10.725111,107.87,"Điện máy Xanh 118 Lê Thánh Tôn, KP. Hiệp Hoà, X. Tân Hải",TX. Lagi
+202,Hà Nội,20.686824,105.74134,"Điện máy Xanh 119 Đại Nghĩa, TT. Tế Tiêu",H. Mỹ Đức
+203,Hà Nội,20.686824,105.74134,"Điện máy Xanh 119 Đại Nghĩa, TT. Tế Tiêu",H. Mỹ Đức
+204,Ninh Thuận,11.574361,108.98244,"Điện máy Xanh 119 đường 21/8, khu 9, P.Phước Mỹ",TP.Phan Rang - Tháp Chàm
+205,Hà Nội,21.017893,105.93703,"Điện máy Xanh 119 đường Ngô Xuân Quảng, Thị trấn Trâu Quỳ",Huyện Gia Lâm
+206,Đồng Tháp,10.812821,105.247648,"Điện máy Xanh 12, khóm Thượng 1, thị trấn Thường Thới Tiền",huyện Hồng Ngự
+207,Bình Định,13.786333,109.20638,"Điện máy Xanh 1225 Trần Hưng Đạo, Phường Đống Đa",Tp. Quy Nhơn
+208,Cao Bằng,22.68986,106.44279,"Điện máy Xanh 125 phố Hòa Nam, TT Quảng Uyên",H. Quảng Uyên
+209,An Giang,10.374751,105.44224,"Điện máy Xanh 129 Trần Hưng Đạo, Phường Mỹ Phước",Thành Phố Long Xuyên
+210,Hà Nam,20.643361,105.92244,"Điện máy Xanh 130-132b Nguyễn Hữu Tiến, TT. Đồng Văn",H. Duy Tiên
+211,Đắk Lắk,12.86445,108.25598,"Điện máy Xanh 1311 đường Hùng Vương, phường Thống Nhất",thị xã Buôn Hồ
+212,Bắc Ninh,21.145917,106.02308,"Điện máy Xanh 136 Hai Bà Trưng, TT. Lim",H. Tiên Du
+213,Ninh Thuận,11.597249,109.0365,"Điện máy Xanh 137-143 Đường Yên Ninh , KP. Khánh Chữ 1 , TT. Khánh Hải ",H. Ninh Hải 
+214,Bình Dương,10.920996,106.73395,"Điện máy Xanh 14/4 Đường Nguyễn Du, KP. Bình Đáng, P. Bình Hòa, TP. Thuận An",T. Bình Dương (cạnh cây xăng Hoàng Phương
+215,Quảng Bình,17.404253,106.63924,"Điện máy Xanh 141 Hùng Vương, TT. Quán Hàu",H. Gia Ninh
+216,Hà Nội,20.996096,105.842794,"Điện máy Xanh 146 Phố Vọng, Phường Phương Liệt",Quận Thanh Xuân
+217,Bà Rịa - Vũng Tàu,10.48379,107.21057,"Điện máy Xanh 148 Võ Thị Sáu, KP. Long Bình, TT. Long Điền",H. Long Điền
+218,An Giang,10.596897,105.35316,"Điện máy Xanh 15 Tôn Đức Thắng, ấp Mỹ Lương, TT. Phú Mỹ",H. Phú Tân
+219,An Giang,10.596897,105.35316,"Điện máy Xanh 15 Tôn Đức Thắng, ấp Mỹ Lương, TT. Phú Mỹ",H. Phú Tân
+220,Bà Rịa - Vũng Tàu,10.367315,107.08474,"Điện máy Xanh 155 Nguyễn Thái Học, Phường 7",Thành Phố Vũng Tàu
+221,An Giang,10.916361,105.08255,"Điện máy Xanh 1572, QL91C, Ấp Đồng Ky, Xã Quốc Thái",Huyện An Phú
+222,Bình Dương,10.976173,106.7557,"Điện máy Xanh 1574C, Tổ 2, KP Mỹ Hiệp, P. Thái Hòa",TX. Tân Uyên
+223,Quảng Nam,15.886063,108.32159,"Điện máy Xanh 16 Nguyễn Tất Thành, Khối Tân Hòa, Phường Tân An",Thành Phố Hội An
+224,Lâm Đồng,11.887396,108.548328,"Điện máy Xanh 162/3 thôn Xuân Trường 1, Xuân Trường",thành phố Đà Lạt
+225,Bà Rịa - Vũng Tàu,10.422333,107.1568,"Điện máy Xanh 1622 đường 30/04, P. 12",TP. Vũng Tàu
+226,Bình Định,14.294122,109.07821,"Điện máy Xanh 165-167 Nguyễn Huệ, Thôn Dương Liễu Tây, TT. Bình Dương",H. Phù Mỹ
+227,Đà Nẵng,15.99966,108.207015,"Điện máy Xanh 168 - 172 Phạm Hùng, Xã Hòa Châu, Huyện Hòa Vang",Thành phố Đà Nẵng
+228,Hà Nội,20.966656,105.75772,"Điện máy Xanh 170 Lê Trọng Tấn, P. La Khê",Q. Hà Đông
+229,Quảng Ngãi,14.763893,108.73352,"Điện máy Xanh 171 Phạm Văn Đồng, TT. Ba Tơ",H. Ba Tơ
+230,An Giang,10.442686,105.17241,"Điện máy Xanh 175 tỉnh lộ 941, Ấp Vĩnh Lộc, X. Vĩnh Bình",H. Châu Thành
+231,Trà Vinh,9.799264,106.45178,"Điện máy Xanh 177-196 Đường 3 tháng 2, khóm Mỹ Cẩm A, TT. Cầu Ngang",H. Cầu Ngang
+232,Đắk Lắk,12.754492,108.737562,"Điện máy Xanh 179 Nguyễn Tất Thành (Quốc Lộ 26), thị trấn M’Drắk",huyện M’Drắk
+233,Trà Vinh,9.914128,106.31425,"Điện máy Xanh 181 Võ Nguyên Giáp, khóm 6, P.8",Tp. Trà Vinh
+234,Trà Vinh,9.914128,106.31425,"Điện máy Xanh 181 Võ Nguyên Giáp, khóm 6, P.8",Tp. Trà Vinh
+235,Trà Vinh,9.691318,106.25994,"Điện máy Xanh 186 Đường 3/2, Thị Trấn Trà Cú ",Huyện Trà Cú 
+236,Lâm Đồng,11.969674,108.42759,"Điện máy Xanh 187 Xô Viết Nghệ Tĩnh, P. 08",TP. Đà Lạt
+237,Hải Dương,20.78498,106.24584,"Điện máy Xanh 191 Nguyễn Lương Bằng, TT. Thanh Miện",H. Thanh Miện
+238,Thái Nguyên,21.588408,105.84726,Điện máy Xanh 197 Cách Mạng Tháng Tám,P. Phan Đình Phùng
+239,Gia Lai,13.202056,108.683722,"Điện máy Xanh 199 Hùng Vương, Thị Trấn Phú Túc, Huyện Krông Pa",Tỉnh Gia Lai
+240,Hà Nội,21.091237,105.78542,"Điện máy Xanh 1A Tân Xuân, P. Đông Ngạc",Q. Bắc Từ Liêm
+241,Hà Nội,21.091237,105.78542,"Điện máy Xanh 1A Tân Xuân, P. Đông Ngạc",Q. Bắc Từ Liêm
+242,Đà Nẵng,16.065472,108.19655,"Điện máy Xanh 203 Đường Điện Biên Phủ, P. Hòa Khê",Q. Thanh Khê
+243,Hà Nội,21.021876,105.831567,"Điện máy Xanh 205 Tôn Đức thắng, Hàng Bột",Quận Đống Đa
+244,Gia Lai,14.043535,108.25997,"Điện máy Xanh 207 Trần Hưng Đạo, Tổ 4 , TT. Kon Dơng ",H. Mang Yang
+245,Trà Vinh,9.924263,106.34107,"Điện máy Xanh 21 Điện Biên Phủ, Khóm 4, Phường 6",Thành Phố Trà Vinh
+246,Đà Nẵng,16.065422,108.19594,"Điện máy Xanh 213 - 215 Điện Biên Phủ, P. Hòa Khê",Q. Thanh Khê
+247,Đà Nẵng,16.059789,108.21042,"Điện máy Xanh 222 Nguyễn Văn Linh, Phường Thạc Gián",Quận Thanh Khê
+248,Quảng Bình,17.468728,106.6102,"Điện máy Xanh 226 Trần Hưng Đạo, Phường Nam Lý",Thành phố Đồng Hới
+249,Bình Thuận,11.221756,108.50405,"Điện máy Xanh 240 Nguyễn Tất Thành, KP. Xuân An 2, TT. Chợ Lầu",H. Bắc Bình
+250,Bình Thuận,10.933694,108.10429,"Điện máy Xanh 241 Trần Hưng Đạo, Phường Phú Thủy",Thành Phố Phan Thiết
+251,Bà Rịa - Vũng Tàu,10.491974,107.1733,"Điện máy Xanh 25 Nguyễn Hữu Thọ, Phường Phước Trung",Thành Phố Bà Rịa
+252,Bình Phước,11.6540385,106.609059,"Điện máy Xanh 250 Nguyễn Huệ, KP.Phú Hưng, P. Phú Thịnh",Thị xã Bình Long
+253,Bà Rịa - Vũng Tàu,10.355043,107.08757,"Điện máy Xanh 251-251A Thống Nhất (Mới), P. 8",TP. Vũng Tàu
+254,Long An,10.532586,106.41229,"Điện máy Xanh 254 Hùng Vương, Phường 03",Thành phố Tân An
+255,Bình Dương,10.889679,106.75948,"Điện máy Xanh 256 Nguyễn Tri Phương, KP. Bình Đường 4, P. An Bình",TP. Dĩ An
+256,Lâm Đồng,11.948706,108.435467,"Điện máy Xanh 257 Phan Đình Phùng, Phường 02",TP. Đà Lạt
+257,Bình Định,13.921528,109.0908,"Điện máy Xanh 257-261 Lê Duẩn, P. Đập Đá",TX. An Nhơn
+258,Đắk Lắk,12.662255,108.033429,"Điện máy Xanh 266 Lê Duẩn, phường Tân Thành",thành phố Buôn Ma thuột
+259,Bắc Ninh,21.113388,105.95103,"Điện máy Xanh 268 Đường Trần Phú, Khu phố mới, Phường Đình Bảng",Thị Xã Từ Sơn
+260,Quảng Bình,17.223512,106.79409,"Điện máy Xanh 27 Nguyễn Tất Thành, TT. Kiến Giang",H. Lệ Thủy
+261,Gia Lai,13.934529,108.640071,"Điện máy Xanh 272 Hùng Vương, Tổ dân phố 2, Thị trấn Đắk Pơ, Huyện Đắk Pơ",Tỉnh Gia Lai
+262,Bạc Liêu,9.25177,105.51379,"Điện máy Xanh 273,Quốc lộ 1A,Khóm 2,P. Láng Tròn",TX. Giá Rai
+263,Quảng Ngãi,15.126377,108.80253,"Điện máy Xanh 275 Quang Trung, Phường Trần Hưng Đạo",Thành Phố Quảng Ngãi
+264,Ninh Thuận,11.562753,108.99518,"Điện máy Xanh 279 Ngô Gia Tự, Khu phố 5, Phường Tấn Tài",Thành phố Phan Rang – Tháp Chàm
+265,Gia Lai,13.972709,108.015229,"Điện máy Xanh 279 Nguyễn Tất Thành, Phường Phù Đổng",Tp. Pleiku
+266,Đà Nẵng,16.046293,108.18432,"Điện máy Xanh 279A Trường Chinh, P. An Khê",Q. Thanh Khê
+267,Hà Nội,21.02992,105.739763,"Điện máy Xanh 283 đường Xuân Phương, Vân Canh",Từ Liêm 
+268,Quảng Ngãi,15.120446,108.78557,"Điện máy Xanh 3 Nguyễn Đình Chiểu, P. Trần Phú, TP. Quảng Ngãi",T. Quảng Ngãi (ngay vòng xoay Ga
+269,Lào Cai,22.536491,103.89333,"Điện máy Xanh 303 Hùng Vương, tổ 6",TT. Bát Xát
+270,Thái Nguyên,21.593219,105.82533,"Điện máy Xanh 309 Lương Ngọc Quyến, P. Hoàng Văn Thụ",TP. Thái Nguyên
+271,Đà Nẵng,15.98289,108.255719,"Điện máy Xanh 312 Trần Đại Nghĩa, Phường Hòa Hải",Quận Ngũ Hành Sơn
+272,Bình Dương,10.934122,106.71005,"Điện máy Xanh 32/1 Khu Phố Bình Giao, P.Thuận Giao",TP.Thuận An
+273,Gia Lai,13.962087,107.8406,"Điện máy Xanh 321 Hùng Vương, TT. Ia Kha",H. Ia Grai
+274,An Giang,10.574761,105.23735,"Điện máy Xanh 321, Quốc Lộ 91, TT. Cái Dầu",H. Châu Phú
+275,Bình Dương,10.980946,106.6672,"Điện máy Xanh 322 Đại Lộ Bình Dương, Khu Phố 1, Phường Phú Hòa",Thành Phố Thủ Dầu Một
+276,An Giang,10.814333,105.09311,"Điện máy Xanh 327 Bạch Đằng, Ấp An Thịnh, TT. An Phú",H. An Phú
+277,Lâm Đồng,11.951694,108.46608,"Điện máy Xanh 33 Phan Chu Trinh, P.09",TP. Đà Lạt
+278,Bà Rịa - Vũng Tàu,10.362825,107.09367,"Điện máy Xanh 330 Bình Giã, P.Nguyễn An Ninh",TP.Vũng Tàu
+279,Bà Rịa - Vũng Tàu,10.362825,107.09367,"Điện máy Xanh 330 Bình Giã, P.Nguyễn An Ninh",TP.Vũng Tàu
+280,Đà Nẵng,16.056979,108.166472,"Điện máy Xanh 339 Đường Tôn Đức Thắng, Phường Hòa Minh",Quận Liên Chiểu
+281,Bình Thuận,10.924138,108.0978,"Điện máy Xanh 364 Trần Hưng Đạo, P. Đức Thắng",TP. Phan Thiết
+282,Đắk Lắk,12.688314,108.05677,"Điện máy Xanh 37 Nguyễn Tất Thành, Phường Tân Lợi",Thành Phố Buôn Ma Thuột
+283,Bình Phước,11.51745,106.74562,"Điện máy Xanh 37 Quốc lộ 14, xã Minh Lập",huyện Chơn Thành
+284,Quảng Nam,15.882418,108.34599,"Điện máy Xanh 371 Cửa Đại, P. Cẩm Châu",Tp. Hội An
+285,Đồng Tháp,10.669609,105.56234,"Điện máy Xanh 387 Võ Văn Kiệt, Khóm 3 , TT. Tràm Chim",H. Tam Nông
+286,Quảng Ninh,20.971139,107.08188,"Điện máy Xanh 393 Trần Phú, P. Cao Xanh, TP. Hạ Long",T. Quảng Ninh (Siêu thị Hạ Trang cũ
+287,Quảng Ngãi,15.152889,108.79658,"Điện máy Xanh 396 Nguyễn Văn Linh, Phường Trương Quang Trọng",TP. Quảng Ngãi
+288,Quảng Ninh,20.955803,107.14968,"Điện máy Xanh 396 Vũ Văn Hiếu, Phường Hà Tu, thành phố Hạ Long",tỉnh Quảng Ninh (Gốc cây khế
+289,Bình Thuận,11.187546,107.56701,"Điện máy Xanh 397 Cách Mạng Tháng 8, TT. Võ Xu",H. Đức Linh
+290,Trà Vinh,9.959583,106.24356,"Điện máy Xanh 41 Quốc lộ 53, ấp Nguyệt Lãng B, xã Bình Phú",H. Càng Long
+291,Quảng Bình,17.756893,106.417614,"Điện máy Xanh 424 Quang Trung, Phường Quảng Long",Thị Xã Ba Đồn
+292,Đắk Lắk,12.63129,108.001294,"Điện máy Xanh 430, đường Võ Văn Kiệt, phường Khánh Xuân",thành phố Buôn Ma Thuột
+293,Bình Định,14.17729,109.05169,"Điện máy Xanh 460 Quang Trung, TT. Phù Mỹ",H. Phù Mỹ
+294,Gia Lai,13.799861,107.69697,"Điện máy Xanh 477 Quang Trung, Thị Trấn Chư Ty",Huyện Đức Cơ
+295,Quảng Nam,15.887049,108.327594,"Điện máy Xanh 477-479 Hai Bà Trưng, Phường Tân An",TP. Hội An
+296,Bà Rịa - Vũng Tàu,10.533425,107.39964,"Điện máy Xanh 48 Huỳnh Minh Thạnh, TT. Phước Bửu",H. Xuyên Mộc
+297,An Giang,10.254521,105.15559,"Điện máy Xanh 483 Nguyễn Thị Hạnh, ấp Tân Hiệp A, TT. Óc Eo",H. Thoại Sơn
+298,An Giang,10.254521,105.15559,"Điện máy Xanh 483 Nguyễn Thị Hạnh, ấp Tân Hiệp A, TT. Óc Eo",H. Thoại Sơn
+299,Quảng Ngãi,15.294583,108.76188,"Điện máy Xanh 486 Phạm Văn Đồng, Tổ dân phố 4, TT. Châu Ổ",H. Bình Sơn
+300,Bình Thuận,10.840698,107.86299,"Điện máy Xanh 495 Trần Hưng Đạo, KP. Lập Hòa, TT. Thuận Nam",H. Hàm Thuận Nam
+301,Lâm Đồng,11.561457,107.839464,"Điện máy Xanh 503 - 505 Nguyễn Văn Cừ, phường Lộc Phát",thành phố Bảo Lộc
+302,Hà Nội,20.910896,105.76056,"Điện máy Xanh 507 Nguyễn Trực, X. Bích Hòa",H. Thanh Oai
+303,Long An,10.87694,106.50715,"Điện máy Xanh 509 đường Ấp Mới, Xã Mỹ Hạnh Nam",Huyện Đức Hòa
+304,Long An,10.583296,106.434748,"Điện máy Xanh 51/104 FA, Ấp 6, xã Nhị Thành",huyện Thủ Thừa
+305,Yên Bái,21.697774,104.87444,"Điện máy Xanh 511 Đại Lộ Nguyễn Thái Học, Tổ 40, P. Hồng Hà",TP. Yên Bái
+306,Bình Dương,10.915637,106.76918,"Điện máy Xanh 530/7A, Khu Phố Đông Thành, P. Đông Hiệp",TP. Dĩ An
+307,Quảng Nam,15.565013,108.49449,"Điện máy Xanh 540 Phan Chu Trinh, P.An Sơn",TP.Tam Kỳ
+308,Bến Tre,10.252524,106.37182,"Điện máy Xanh 549B Đồng Khởi, Phường Phú Khương",Thành Phố Bến Tre
+309,Quảng Bình,17.58423,106.5349,"Điện máy Xanh 55 Hùng Vương, Thị Trấn Hoàn Lão",huyện Bố Trạch
+310,Hà Nội,21.032743,105.7723,"Điện máy Xanh 55 Nguyễn Hoàng, Thôn Phú Mỹ, P. Mỹ Đình 1",Q. Nam Từ Liêm
+311,Hà Nội,21.050143,105.884424,"Điện máy Xanh 562 Nguyễn Văn Cừ, phường Gia Thụy",Quận Long Biên
+312,Bình Dương,10.9864416,106.6877818,"Điện máy Xanh 566 KP.9, P.Phú Hòa",TP.Thủ Dầu Một
+313,Đắk Lắk,13.070312,107.88139,"Điện máy Xanh 57 Hùng Vương, TT. Ea Súp",H. Ea Súp
+314,Lâm Đồng,11.5429,107.81036,"Điện máy Xanh 583 Trần Phú, Phường B'Lao",Thành phố Bảo Lộc
+315,Quảng Nam,15.336753,108.21492,"Điện máy Xanh 59 Hùng Vương, Trà My",Bắc Trà My
+316,Hà Tĩnh,18.454126,105.77544,"Điện máy Xanh 64 Xô Viết Nghệ Tĩnh, Thị trấn Nghèn",huyện Can Lộc
+317,Bình Dương,10.87267,106.75447,"Điện máy Xanh 65 An Bình, KP. Bình Đường 2, P. An Bình",TP. Dĩ An
+318,Quảng Ngãi,15.114785,108.80796,"Điện máy Xanh 661 Quang Trung, P.Nghĩa Chánh",TP.Quảng Ngãi
+319,Quảng Ngãi,15.114785,108.80796,"Điện máy Xanh 661 Quang Trung, P.Nghĩa Chánh",TP.Quảng Ngãi
+320,Lạng Sơn,21.853634,106.76705,"Điện máy Xanh 69 Ngô Quyền, Phường Vĩnh Trại",Thành phố Lạng Sơn
+321,Đà Nẵng,16.060832,108.22225,"Điện máy Xanh 7 Nguyễn Văn Linh, P. Bình Hiên",Q. Hải Châu
+322,Bình Dương,11.031444,106.761333,"Điện máy Xanh 7/1 Đường ĐH 406, Tổ 1, Khu phố Khánh Lộc, Phường Khánh Bình",Thị xã Tân Uyên
+323,Hòa Bình,20.823176,105.34642,"Điện máy Xanh 724 Cù Chính Lan, Tổ 03, Phường Đồng Tiến",Thành Phố Hòa Bình
+324,Đà Nẵng,16.020334,108.2108,"Điện máy Xanh 727 Nguyễn Hữu Thọ, P. Khuê Trung",Q. Cẩm Lệ
+325,Bình Thuận,10.66236,107.77428,"Điện máy Xanh 72C Lê Lợi, P.Phước Hội",Thị xã La Gi
+326,Lâm Đồng,11.386055,107.53655,"Điện máy Xanh 734 Hùng Vương,Thị Trấn Madaguoi ",Huyện Đạ Huoai 
+327,Hà Nội,20.957013,105.75753,"Điện máy Xanh 746 - 748 - 750 - 752 Quang Trung, P.Phú La",Q.Hà Đông
+328,Quảng Bình,17.477181,106.62075,"Điện máy Xanh 75 Lý Thường Kiệt, Phường Đồng Mỹ",Thành Phố Đồng Hới
+329,Quảng Nam,15.426782,108.6643,"Điện máy Xanh 750 Phạm Văn Đồng, khối 4, TT. Núi Thành",H. Núi Thành
+330,Hà Nam,20.490951,106.00545,"Điện máy Xanh 784 - 786 Trần Hưng Đạo, tiểu khu Bình Thắng, TT. Bình Mỹ",H. Bình Lục
+331,Long An,10.629897,106.66159,"Điện máy Xanh 83 Quốc lộ 50, Ấp Kim Điền, xã Tân Kim",H. Cần Giuộc
+332,Bình Thuận,11.177028,108.56388,"Điện máy Xanh 86 Thống Nhất, TT. Phan Rí Cửa",H. Tuy Phong
+333,Đà Nẵng,16.004414,108.222831,"Điện máy Xanh 88 Võ Chí Công, Phường Hòa Xuân",Quận Cẩm Lệ
+334,Thái Nguyên,21.603222,105.82027,Điện máy Xanh 883 Dương Tự Minh,P. Hoàng Văn Thụ
+335,Gia Lai,13.692559,108.07777,"Điện máy Xanh 904B Hùng Vương, TT. Chư Sê",H. Chư Sê
+336,Long An,10.55,106.41608,"Điện máy Xanh 93 Quốc lộ L1A, Phường 5",Tp. Tân An
+337,Kon Tum,14.354678,107.99435,"Điện máy Xanh 951A Phan Đình Phùng, Phường Quyết Thắng",Thành phố KonTum
+338,Vĩnh Phúc,21.307666,105.58576,"Điện máy Xanh 99 Hùng Vương, P. Tích Sơn",TP. Vĩnh Yên
+339,Đồng Tháp,10.351809,105.78254,"Điện máy Xanh Ấp 02, Xã Mỹ Long",huyện Cao Lãnh
+340,Đắk Lắk,12.708505,108.486199,"Điện máy Xanh Ấp 08, Xã Ea Ô",Huyện Ea Kar
+341,Bạc Liêu,9.280824,105.628403,"Điện máy Xanh Ấp 15, Xã Vĩnh Mỹ B",Huyện Hoà Bình
+342,Bà Rịa - Vũng Tàu,10.642657,107.12309,"Điện máy Xanh Ấp 2, xã Hắc Dịch",H. Tân Thành
+343,Long An,10.586114,106.34318,"Điện máy Xanh Ấp 2, xã Mỹ An",huyện Thủ Thừa
+344,Bạc Liêu,9.434407,105.460271,"Điện máy Xanh Ấp 2A, xã phong thạnh tây B",huyện Phước Long
+345,Long An,10.653963,106.686768,"Điện máy Xanh Ấp 4, xã Long Hậu",huyện Cần Giuộc
+346,Bến Tre,10.304778,106.39013,"Điện máy Xanh Ấp 4, xã Quới Sơn, H. Châu Thành",T. Bến Tre (KCN Giao Long
+347,Long An,10.552869,106.46441,"Điện máy Xanh Ấp 5,Xã Lạc Tấn",Huyện Tân Trụ 
+348,Đồng Tháp,10.648871,105.78749,"Điện máy Xanh Ấp 6B, Xã Trường Xuân",Huyện Tháp Mười
+349,Bình Phước,11.809746,106.600461,"Điện máy Xanh Ấp 7, Xã Lộc Thái",Huyện Lộc Ninh
+350,Bến Tre,10.071061,106.53953,"Điện máy Xanh Ấp An Định 2, X. An Ngãi Trung, H. Ba Tri",T. Bến Tre (Ngã 4 Giồng Tre
+351,Bến Tre,10.068429,106.363921,"Điện máy Xanh Ấp An Hoà, Xã An Thới",Huyện Mỏ Cày Nam
+352,Bến Tre,10.098784,106.291563,"Điện máy Xanh Ấp An Lộc Thị, xã An Thạnh",huyện Mỏ Cày Nam
+353,Đồng Tháp,10.310082,105.53626,"Điện máy Xanh Ấp An Lợi B, xã Định Yên",huyện Lấp Vò
+354,Đồng Tháp,10.405663,105.607699,"Điện máy Xanh Ấp An Thạnh, xã Mỹ An Hưng B",huyện Lấp Vò
+355,Long An,10.840707,106.420692,"Điện máy Xanh Ấp Bình Lợi, Xã Hòa Khánh Đông",Huyện Đức Hòa
+356,Long An,10.820483,106.461939,"Điện máy Xanh Ấp Bình Tiền 1, Xã Đức Hoà Hạ",H. Đức Hoà
+357,Long An,10.794253,106.50447,"Điện máy Xanh Ấp Bình Tiền 2, Xã Đức Hòa Hạ",Huyện Đức Hòa
+358,Đồng Tháp,10.535518,105.541602,"Điện máy Xanh Ấp Bình Trung, xã Bình Thành",huyện Thanh Bình
+359,Bạc Liêu,9.341734,105.715644,"Điện máy Xanh Ấp Cái Dầy, Thị Trấn Châu Hưng",Huyện Vĩnh Lợi
+360,Bạc Liêu,9.591466,105.357473,"Điện máy Xanh Ấp Cầu Đỏ, Xã Vĩnh Lộc",Huyện Hồng Dân
+361,Bạc Liêu,9.21375,105.4866389,"Điện máy Xanh Ấp Cây Giang A, xã Long Điền",huyện Đông Hải
+362,Trà Vinh,9.852588,106.444003,"Điện máy Xanh Ấp Chà Và, xã Vinh Kim",huyện Cầu Ngang
+363,Bến Tre,10.27238,106.244447,"Điện máy Xanh Ấp Chánh, Xã Tiên Thủy",Huyện Châu Thành
+364,Đồng Tháp,10.9383473,105.4420023,"Điện máy Xanh Ấp Chiến Thắng, Xã Tân Hộ Cơ, Huyện Tân Hồng",Tỉnh Đồng Tháp
+365,Trà Vinh,9.759422,106.308923,"Điện máy Xanh Ấp Chợ Dưới, Xã Phước Hưng",Huyện Trà Cú
+366,Bến Tre,10.2025872,106.3285305,"Điện máy Xanh Ấp Chợ Xếp, Xã Tân Thành Bình",Huyện Mỏ Cày Bắc
+367,Bến Tre,10.221833,106.43344,"Điện máy Xanh Ấp Chợ, X. Mỹ Thạnh",H. giồng Trôm
+368,Bến Tre,10.276094,106.046304,"Điện máy Xanh Ấp Chợ, Xã Phú Phụng",Huyện Chợ Lách
+369,Đồng Tháp,10.255435,105.738306,"Điện máy Xanh Ấp Cụm dân cư trung tâm, xã Tân Phú Trung",huyện Châu Thành
+370,Bạc Liêu,9.133303,105.490828,"Điện máy Xanh Ấp Diêm Điền, xã Điền Hải",huyện Đông Hải
+371,Đồng Tháp,10.395071,105.727973,"Điện máy Xanh Ấp Đông Mỹ, Xã Mỹ Hội",Huyện Cao Lãnh
+372,Bến Tre,9.880776,106.610359,"Điện máy Xanh Ấp Giao Hòa B, Xã Giao Thạnh, Huyện Thạnh Phú",Tỉnh Bến Tre (Cách trường tiểu học giao thạnh 100 m
+373,Đồng Tháp,10.361479,105.52261,"Điện máy Xanh Ấp Hưng Thạnh Đông, xã Long Hưng B",huyện Lấp Vò
+374,Đồng Tháp,10.75646,105.511541,"Điện máy Xanh Ấp K10, xã Phú Hiệp",huyện Tam Nông
+375,Long An,10.627549,105.944218,"Điện máy Xanh Ấp Kênh Nhà Thờ, xã Tân Lập",huyện Tân Thạnh
+376,Đồng Tháp,10.37742,105.709108,"Điện máy Xanh Ấp Khánh An, xã Tân Khánh Trung",huyện Lấp Vò
+377,Bạc Liêu,9.195829,105.329368,"Điện máy Xanh Ấp Khúc Tréo A, xã Tân Phong",huyện Giá Rai (Nay là thị xã Giá Rai)
+378,An Giang,10.507747,105.431925,"Điện máy Xanh Ấp Kiến Hưng 1, Xã Kiến Thành",Huyện Chợ Mới
+379,Long An,10.508852,106.465849,"Điện máy Xanh Ấp Kỳ Châu, Xã Bình Quới",Huyện Châu Thành
+380,Trà Vinh,9.656472,106.380306,"Điện máy Xanh Ấp La Bang Chợ, xã Đôn Châu",huyện Duyên Hải
+381,Long An,11.00686,106.31324,"Điện máy Xanh Ấp Lộc Bình, X. Lộc Giang, H. Đức Hòa",T. Long An (Cách chợ Lộc Giang 150m
+382,Long An,10.604972,106.622756,"Điện máy Xanh Ấp Lộc Tiền, Xã Mỹ Lộc",Huyện Cần Giuộc
+383,An Giang,10.802675,105.206506,"Điện máy Xanh Ấp Long Hiệp, Xã Long An",Thị Xã Tân Châu
+384,Đồng Tháp,10.689587,105.437845,"Điện máy Xanh Ấp Long Phú A, xã Phú Thành A",huyện Tam Nông
+385,Long An,10.623308,106.588527,"Điện máy Xanh Ấp Long Thanh , Xã Long Trạch , Huyện Cần Đước ",Tỉnh Long An (Cách Khu công nghiệp Cầu Tràm 200m
+386,Bạc Liêu,9.435295,105.46256,"Điện máy Xanh Ấp Long Thành, TT.Phước Long",H.Phước Long
+387,Bạc Liêu,9.435295,105.46256,"Điện máy Xanh Ấp Long Thành, TT.Phước Long",H.Phước Long
+388,An Giang,10.466517,105.379417,"Điện máy Xanh Ấp Mỹ Hòa, xã Nhơn Mỹ",Huyện Chợ Mới
+389,An Giang,10.541247,105.330761,"Điện máy Xanh Ấp Mỹ Hội, Xã Mỹ Hội Đông",Huyện Chợ Mới 
+390,An Giang,10.541247,105.330761,"Điện máy Xanh Ấp Mỹ Hội, Xã Mỹ Hội Đông",Huyện Chợ Mới 
+391,An Giang,10.660989,105.190384,"Điện máy Xanh Ấp Mỹ Thiện, xã Mỹ Đức",huyện Châu Phú
+392,Long An,10.63882,105.88403,"Điện máy Xanh Ấp Nguyễn Rớt, Xã Hậu Thạnh Đông",Huyện Tân Thạnh
+393,Bến Tre,10.253253,106.494912,"Điện máy Xanh Ấp Phú Hưng, Xã Phú Thuận",Huyện Bình Đại
+394,Bến Tre,10.065165,106.618777,"Điện máy Xanh Ấp Phú Thạnh, xã Phú Lễ",huyện Ba Tri
+395,Bạc Liêu,9.360996,105.711402,"Điện máy Xanh Ấp Phước Thạnh 1, Xã Long Thạnh",Huyện Vĩnh Lợi
+396,Bạc Liêu,9.374078,105.39217,"Điện máy Xanh Ấp Phước Thành, xã Phước Long",huyện Phước Long
+397,Bến Tre,10.232778,106.186333,"Điện máy Xanh Ấp Quân An, Xã Long Thới",Huyện Chợ Lách
+398,Trà Vinh,9.608065,106.44068,"Điện máy Xanh Ấp Rọ Say, xã Ngũ Lạc",huyện Duyên Hải
+399,Trà Vinh,9.958729,106.339857,Điện máy Xanh Ấp Sa Bình,Xã Long Đức. Thành phố Trà Vinh
+400,An Giang,10.262833,105.201167,"Điện máy Xanh Ấp Sơn Tân, Xã Vọng Đông",Huyện Thoại Sơn
+401,Đồng Tháp,10.820402,105.514691,"Điện máy Xanh Ấp Tân Bảnh, xã Tân Phước",huyện Tân Hồng
+402,Đồng Tháp,10.171387,105.673585,"Điện máy Xanh Ấp Tân Bình, Xã Phong Hòa",Huyện Lai Vung
+403,An Giang,10.951907,105.081952,"Điện máy Xanh Ấp Tân Khánh, Thị Trấn Long Bình",Huyện An Phú
+404,Đồng Tháp,10.256778,105.593667,"Điện máy Xanh Ấp Tân Lợi, xã Tân Thành",huyện Lai Vung
+405,Đồng Tháp,10.613353,105.358219,"Điện máy Xanh Ấp Tân Phong, Xã Tân Huề",Huyện Thanh Bình
+406,Bến Tre,10.119306,106.628972,"Điện máy Xanh Ấp Tân Thanh 2, xã Tân Xuân",huyện Ba Tri
+407,Long An,10.607747,106.679095,"Điện máy Xanh Ấp Tân Thanh A, xã Phước Lại",huyện Cần Giuộc
+408,Long An,10.607747,106.679095,"Điện máy Xanh Ấp Tân Thanh A, xã Phước Lại",huyện Cần Giuộc
+409,Bến Tre,10.22897,106.326888,"Điện máy Xanh Ấp Tân Thanh, Xã Thanh Tân",Huyện Mỏ Cày Bắc
+410,Đồng Tháp,10.270248,105.830154,"Điện máy Xanh Ấp Tân Thuận, Xã Tân Nhuận Đông",Huyện Châu Thành
+411,An Giang,10.351386,105.3162,"Điện máy Xanh Ấp Tây Bình, Xã Vĩnh Trạch",Huyện Thoại Sơn
+412,Bến Tre,10.213008,106.21572,"Điện máy Xanh Ấp Tây Lộc, Xã Vĩnh Thành",Huyện Chợ Lách
+413,Bến Tre,10.003167,106.446278,"Điện máy Xanh Ấp Thạnh B, Xã Tân Phong",Huyện Thạnh Phú
+414,Bến Tre,9.949143,106.51054,"Điện máy Xanh Ấp Thạnh Hòa A, TT. Thạnh Phú",H. Thạnh Phú
+415,Bình Phước,11.711021,106.590448,"Điện máy Xanh Ấp Thanh Hòa, Xã Thanh Lương",Thị xã Bình Long
+416,Long An,10.454601,106.516127,"Điện máy Xanh Ấp Thanh Tân, xã Thanh Phú Long",huyện Châu Thành
+417,Bến Tre,10.016534,106.401352,"Điện máy Xanh Ấp Thị, Xã Hương Mỹ",huyện Mỏ Cày Nam
+418,An Giang,10.493231,105.5563975,"Điện máy Xanh Ấp Thị, Xã Mỹ Hiệp",Huyện Chợ Mới
+419,Bến Tre,10.277694,106.28386,"Điện máy Xanh Ấp Thuận Điền, Xã An Hiệp",Huyện Châu Thành
+420,Trà Vinh,9.700615,106.259288,"Điện máy Xanh Ấp Trà Kha, xã Đại An",huyện Trà Cú
+421,An Giang,10.506269,104.792695,"Điện máy Xanh Ấp Vĩnh Hiệp, Xã Vĩnh Gia",Huyện Tri Tôn
+422,Bạc Liêu,9.35853,105.520452,Điện máy Xanh Ấp Vĩnh Hòa,xã Vĩnh Thanh
+423,Bạc Liêu,9.163132,105.574861,"Điện máy Xanh ấp Vĩnh Lạc, Xã Vĩnh Thịnh, Huyện Hòa Bình",Tỉnh Bạc Liêu
+424,Đồng Tháp,10.334909,105.61927,"Điện máy Xanh Ấp Vĩnh Lợi, X. Vĩnh Thạnh",H. Lấp Vò
+425,Yên Bái,22.110491,104.767636,"Điện máy Xanh Bản 8 ( Nay là thôn Tát Diêu), Xã Khánh Hòa",huyện Lục Yên
+426,Cao Bằng,22.733117,106.15575,"Điện máy Xanh Bản Vạn 1, Xã Bế Triều, Huyện Hòa An",Tỉnh Cao Bằng
+427,Bình Dương,10.947374,106.68775,"Điện máy Xanh Cách Mạng Tháng 8, KP. Thạnh Lợi, P. An Thạnh",TP. Thuận An
+428,Bình Định,14.004622,109.053653,Điện máy Xanh Cát Tiến,huyện Phù Cát
+429,Bắc Ninh,21.11168,106.03702,"Điện máy Xanh Chợ Sơn, xã Việt Đoàn",huyện Tiên Du
+430,Hà Nội,21.095078,105.70542,"Điện máy Xanh Cụm 11, xã Tân Hội",H. Đan Phượng
+431,Hà Nội,21.095078,105.70542,"Điện máy Xanh Cụm 11, xã Tân Hội",H. Đan Phượng
+432,Hà Nội,21.121256,105.646615,"Điện máy Xanh Cụm 2, xã Thọ Xuân",huyện Đan Phượng
+433,Hà Nội,21.148284,105.59444,"Điện máy Xanh Cụm 5, xã Vân Phúc",H. Phúc Thọ
+434,Hà Nội,21.127994,105.6794,"Điện máy Xanh Cụm 9, X. Hồng Hà, H. Đan Phượng",TP. Hà Nội (ngã 3 Đê - Hồng Hà
+435,Hà Nội,21.104245,105.545681,"Điện máy Xanh Cụm 9, Xóm Trung Phú, Xã Phụng Thượng",Huyện Phúc Thọ
+436,Điện Biên,21.317551,103.010638,"Điện máy Xanh Địa chỉ đội 24, xã Noong Hẹt",huyện Điện Biên
+437,Phú Thọ,21.218465,105.01643,"Điện máy Xanh Đội 10, xã Tân Phú",H. Tân Sơn
+438,Hải Dương,20.965431,106.511064,"Điện máy Xanh Đội 6, Thôn Đông, Xã Cổ Dũng, Huyện Kim Thành",Tỉnh Hải Dương
+439,Hà Nội,20.863196,105.70034,"Điện máy Xanh Đội 7, Thôn 2, xã Quảng Bị",H. Chương Mỹ
+440,An Giang,10.713943,105.34455,"Điện máy Xanh ĐT 954, Ấp Phú Xương, TT. Chợ Vàm",H. Phú Tân
+441,Bắc Ninh,21.018394,106.2006,"Điện máy Xanh Đường 280 Thị Trấn Thứa, Thị Trấn Thứa",H. Lương Tài
+442,Bà Rịa - Vũng Tàu,10.6937971,107.3885231,"Điện máy Xanh Đường 328, Thửa số 761, tờ bản đồ số 71, ấp 2 Đông, xã Bàu Lâm",huyện Xuyên Mộc
+443,Bình Định,14.10101,108.78395,"Điện máy Xanh Đường 673, thửa đất số 1619, tờ bản đồ số 02, khu phố Định Tố, Thị Trấn Vĩnh Thạnh",huyện Vĩnh Thạnh
+444,Hà Nội,20.964337,105.79449,"Điện máy Xanh Đường 70, X. Tân Triều, H. Thanh Trì",TP. Hà Nội (gần ngã ba Xa La
+445,Bến Tre,10.1885,106.27346,"Điện máy Xanh Đường 882, Ấp Phước Khánh , Xã Phước Mỹ Trung",H. Mỏ Cày Bắc
+446,Bến Tre,10.008795,106.62085,"Điện máy Xanh Đường 885, Ấp Tân Bình, X. Tân Thuỷ",H. Ba Tri
+447,Bình Dương,11.149222,106.844007,"Điện máy Xanh Đường DH411, Khu phố 2, Thị trấn Tân Thành",Huyện Bắc Tân Uyên
+448,Bình Dương,11.446194,106.48402,"Điện máy Xanh Đường ĐH704, ấp Hòa Cường, Xã Minh Hòa",Huyện Dầu Tiếng
+449,Bà Rịa - Vũng Tàu,10.626754,107.372236,"Điện máy Xanh Đường ĐT 328, Xã Hòa Bình",Huyện Xuyên Mộc
+450,Lâm Đồng,12.118889,108.145231,"Điện máy Xanh Đường ĐT 722, Thôn 1, Xã Rô Men, Huyện Đam Rông",Tỉnh Lâm Đồng
+451,Lâm Đồng,11.71401,108.28979,"Điện máy Xanh Đường DT 724, Thôn Tân Trung, Xã Tân Hội",Huyện Đức Trọng
+452,Bình Phước,11.7383778,106.724086,"Điện máy Xanh Đường ĐT 757, Ấp Thanh Sơn, Xã Thanh An",Huyện Hớn Quản
+453,Bình Phước,11.913139,107.186639,"Điện máy Xanh Đường ĐT 760, Xã Bom Bo",Huyện Bù Đăng
+454,Gia Lai,14.205528,107.837389,"Điện máy Xanh Đường ĐT 763, Tổ Dân Phố 01, Thị Trấn Ia Ly, Huyện Chư Păh",Tỉnh Gia Lai
+455,Long An,10.6413217,106.3134769,"Điện máy Xanh Đường DT 833, Ấp Bà Mía, Xã Mỹ Lạc, Huyện Thủ Thừa",Tỉnh Long An
+456,Quảng Ngãi,15.05279,108.777194,"Điện máy Xanh Đường DT624, xã Hành Thiện",huyện Nghĩa Hành
+457,Bình Dương,11.070083,106.697528,"Điện máy Xanh Đường DT742, tổ 1, ấp Phú Trung, phường Phú Chánh",thị xã Tân Uyên
+458,Bình Dương,11.160963,106.448142,"Điện máy Xanh Đường ĐT744, tổ 4, Ấp Chợ, Xã Thanh Tuyền",Huyện Dầu Tiếng
+459,Bắc Giang,21.301464,106.3810363,"Điện máy Xanh Đường Giáp Văn Cương, Phố Thanh Xuân, TT. Đồi Ngô",H. Lục Nam
+460,Hà Giang,23.16325,105.410731,"Điện máy Xanh Đường Hạnh Phúc, thị trấn Mèo Vạc",huyện Mèo Vạc
+461,Kon Tum,14.646464,107.844045,"Điện máy Xanh Đường Hùng Vương, Khối 8, thị trấn Đăk Tô",huyện Đăk Tô
+462,Bình Định,13.793085,109.14943,"Điện máy Xanh Đường Hùng Vương, tổ 5, khu vực 7, P.Trần Quang Diệu",TP. Quy Nhơn
+463,Bà Rịa - Vũng Tàu,10.406488,107.18902,"Điện máy Xanh Đường Hương Lộ 5, tổ 6, ấp Phước Thuận, X. Phước Tỉnh",H. Long Điền
+464,Bình Thuận,11.225558,108.72807,"Điện máy Xanh Đường Lê Duẩn, TT. Liên Hương",H. Tuy Phong
+465,Bà Rịa - Vũng Tàu,10.48959,107.270413,"Điện máy Xanh Đường Lộc An - Láng Dài, Ấp An Hòa, Xã Lộc An, Huyện Đất Đỏ",Tỉnh Bà Rịa - Vũng Tàu
+466,Long An,10.631024,106.729861,"Điện máy Xanh Đường Long Hậu, Khu dân cư Long Hậu, Ấp 3, Xã Long Hậu",Huyện Cần Giuộc
+467,Bình Thuận,11.187873,107.566403,"Điện máy Xanh Đường Mê Pu, xã Mê Pu",huyện Đức Linh
+468,Bà Rịa - Vũng Tàu,10.59721,107.055002,"Điện máy Xanh Đường Mỹ Xuân – Ngãi Giao, Ấp 3, Xã Sông Xoài",Thị xã Phú Mỹ
+469,Bình Dương,11.097512,106.63716,"Điện máy Xanh Đường NE8, Khu đô thị Mỹ Phước 3, Khu 3B, Phường Thới Hòa",Thị xã Bến Cát
+470,Quảng Nam,15.742566,108.35875,"Điện máy Xanh Đường Nguyễn Hoàng, TT. Hà Lam",H. Thăng Bình
+471,An Giang,10.267361,105.26688,"Điện máy Xanh Đường Nguyễn Huệ, Ấp Bắc Sơn, TT. Núi Sập",H. Thoại Sơn
+472,Gia Lai,13.777088,108.524573,"Điện máy Xanh Đường Nguyễn Huệ, tổ 3, thị trấn Kông Chro",huyện Kông Chro
+473,Quảng Nam,15.882951,108.11152,"Điện máy Xanh Đường Nguyễn Tất Thành, TT. Ái Nghĩa",H. Đại Lộc
+474,Bình Dương,10.911357,106.704149,"Điện máy Xanh Đường Nguyễn Văn Tiết, khu phố Bình Hòa, phường Lái Thiêu",thành phố Thuận An
+475,Quảng Nam,15.573799,108.48179,"Điện máy Xanh Đường Phan Bội Châu, Phường Tân Thạnh",Thành phố Tam Kỳ
+476,Bình Dương,10.877112,106.699701,"Điện máy Xanh Đường QL 13, Khu phố Tây, Phường Vĩnh Phú, Thành Phố Thuận An",Tỉnh Bình Dương
+477,Cao Bằng,22.664012,106.258046,"Điện máy Xanh Đường QL3, Tổ 4, Phường Đề Thám",thành phố Cao Bằng
+478,Thái Bình,20.322273,106.441377,"Điện máy Xanh Đường QL37B, Thôn Điện Biên, Xã Bình Thanh",Huyện Kiến Xương
+479,Thái Bình,20.50957,106.40509,"Điện máy Xanh Đường QL39A, Thôn Tân Việt, Trưng Trắc A, xã Đông Á",huyện Đông Hưng
+480,Bình Thuận,10.803542,107.72101,"Điện máy Xanh Đường QL55, xã Tân Hà",huyện Hàm Tân
+481,Hà Tĩnh,18.078358,106.28862,"Điện máy Xanh Đường Quang Trung, P.Sông Trí",T.X Kỳ Anh
+482,Gia Lai,14.137224,108.60356,"Điện máy Xanh Đường Quang Trung, TDP 7, TT. K'Bang",H. K'Bang
+483,Lào Cai,22.089676,104.25259,"Điện máy Xanh Đường Quang Trung, TT. Khánh Yên",H. Văn Bàn
+484,Quảng Nam,15.67278,108.41022,"Điện máy Xanh Đường Quốc Lộ 1 A, X. Bình Trung, H. Quốc Lộ 1A, Xã Bình Trung",Huyện Thăng Bình
+485,Tuyên Quang,22.058082,105.0329,"Điện máy Xanh Đường Quốc Lộ 2, TDP. Tân An, TT. Tân Yên",H. Hàm Yên
+486,Lâm Đồng,11.53916,107.94406,"Điện máy Xanh Đường Quốc Lộ 20, Xã Hòa Ninh",Huyện Di Linh
+487,Lâm Đồng,11.613507,108.111895,"Điện máy Xanh Đường Quốc lộ 20C, Khu 04, Thị trấn Di Linh",Huyện Di Linh
+488,Quảng Ngãi,15.15779,108.797379,"Điện máy Xanh Đường Quốc lộ 24B, xã Tịnh Hà",huyện Sơn Tịnh
+489,Lâm Đồng,11.845556,108.602,"Điện máy Xanh Đường Quốc lộ 27, thị trấn D'Ran",huyện Đơn Dương
+490,Lâm Đồng,11.93943,108.138363,"Điện máy Xanh Đường Quốc Lộ 27, Thôn Trung Tâm, Xã Phi Liêng, Huyện Đam Rông",Tỉnh Lâm Đồng
+491,Bình Thuận,11.07298,108.130902,"Điện máy Xanh Đường Quốc Lộ 28, xã Hàm Trí",huyện Hàm Thuận Bắc
+492,Hải Dương,20.881061,106.296421,"Điện máy Xanh Đường Quốc Lộ 37, thôn Lãng Xuyên, xã Gia Tân, huyện Gia Lộc",tỉnh Hải Dương (Cây xăng vòng xuyến Gia Lộc
+493,Phú Thọ,21.632305,105.13213,"Điện máy Xanh Đường quốc lộ 70, Khu Phố, xã Tây Cốc",H. Đoan Hùng
+494,Lâm Đồng,11.565448,107.312309,"Điện máy Xanh Đường Quốc lộ ĐT 721, Thị trấn Phước Cát",Huyện Cát Tiên
+495,Bình Phước,11.6624396,107.2007727,"Điện máy Xanh Đường Sao Bọng - Đăng Hà, ấp 3, Xã Thống Nhất",Huyện Bù Đăng
+496,Yên Bái,21.601693,104.50975,"Điện máy Xanh Đường Thanh Niên, Tổ 9, P.Trung Tâm",TX. Nghĩa Lộ
+497,Đắk Lắk,12.80586,107.90043,"Điện máy Xanh Đường Tỉnh Lộ 1, thôn 15, xã Tân Hòa",huyện Buôn Đôn
+498,Bà Rịa - Vũng Tàu,10.521181,107.204515,"Điện máy Xanh Đường Tỉnh lộ 52, xã Hòa Long",huyện Châu Thành (Nay là TP. Bà Rịa)
+499,Điện Biên,21.392529,103.01464,"Điện máy Xanh Đường Trần Đăng Ninh, tổ dân phố 6, P. Tân Thanh",TP. Điện Biên Phủ
+500,Lào Cai,22.481462,103.976,"Điện máy Xanh Đường Trần Hưng Đạo, Ngã 6, Tổ 14, Phường Kim Tân",Tp Lào Cai
+501,An Giang,10.349667,105.46266,"Điện máy Xanh Đường Trần Hưng Đạo, P. Mỹ Thới",TP. Long Xuyên
+502,Kon Tum,14.40454,107.80062,"Điện máy Xanh Đường Trần Hưng Đạo, Thôn 1, TT. Sa Thầy",H. Sa Thầy
+503,Quảng Ninh,21.033755,106.75742,"Điện máy Xanh Đường Trần Nhân Tông, Tổ 7, Khu 1, P.Yên Thanh",TP.Uông Bí
+504,Bạc Liêu,9.303639,105.72125,"Điện máy Xanh Đường Trần Phú, Khóm 2, Phường 7",TP. Bạc liêu
+505,An Giang,10.795982,105.23769,"Điện máy Xanh Đường Trần Phú, Khóm Long Thạnh D, P. Long Thạnh",TX. Tân Châu
+506,Kon Tum,14.3763,108.00957,"Điện máy Xanh Đường Võ Nguyên Giáp, phường Duy Tân",thành phố Kon Tum
+507,Kon Tum,14.603454,108.288585,"Điện máy Xanh Đường Võ Nguyên Giáp, tổ dân phố 3, thị trấn Măng Đen",huyện Kon Plong
+508,Bà Rịa - Vũng Tàu,10.427115,107.292434,"Điện máy Xanh Đường Võ Thị Sáu, Khu phố Phước Trung, Thị Trấn Phước Hải",Huyện Đất Đỏ
+509,Bà Rịa - Vũng Tàu,10.64039,107.090051,"Điện máy Xanh Đường Võ Văn Kiệt, Tổ 4, khu phố Trảng Cát, phường Hắc Dịch, thị xã Phú Mỹ",tỉnh Bà Rịa - Vũng Tàu
+510,Hà Nội,21.194417,105.7808,"Điện máy Xanh Đường Võ Văn Kiệt, tổ 7, TT. Quang Minh",H. Mê Linh
+511,Bình Dương,11.151431,106.593509,"Điện máy Xanh Góc đường N1–D6, Khu phố 4, Phường Mỹ Phước, Thị Xã Bến Cát",Tỉnh Bình Dương
+512,Bình Định,14.540153,109.040029,"Điện máy Xanh Khối 2 (An Thái), TT Tam Quan",H. Hoài Nhơn
+513,Đắk Lắk,12.81029,108.44909,"Điện máy Xanh Khối 3A Đường Nguyễn Tất Thành,Thị trấn Ea Kar",Huyện Ea Kar
+514,Hà Tĩnh,18.458133,105.300852,"Điện máy Xanh Khối 4, Thị trấn Tây Sơn, Huyện Hương Sơn",Tỉnh Hà Tĩnh (Ngã tư Trung Tâm
+515,Quảng Nam,15.444151,107.797099,"Điện máy Xanh Khối 6, Thị Trấn Khâm Đức",Huyện Phước Sơn
+516,Hà Tĩnh,18.644119,105.720249,"Điện máy Xanh Khối 7, thị trấn Xuân An",huyện Nghi Xuân
+517,Quảng Nam,15.488546,108.30629,"Điện máy Xanh Khối Phố Tiên Bình, TT. Tiên Kỳ",H. Tiên Phước
+518,Quảng Nam,15.936128,108.25478,"Điện máy Xanh Khối Viêm Trung, P. Điện Ngọc",TX. Điện Bàn
+519,Trà Vinh,9.871831,106.347378,"Điện máy Xanh Khóm 02, Thị Trấn Châu Thành",Huyện Châu Thành
+520,Trà Vinh,9.8084,106.506586,"Điện máy Xanh Khóm 02, thị trấn Mỹ Long",huyện Cầu Ngang
+521,Long An,10.44195,106.46734,"Điện máy Xanh Khóm 02, TT. Tầm Vu",H. Châu Thành
+522,Trà Vinh,9.606919,106.439701,"Điện máy Xanh Khóm 06, thị trần Long Thành",huyện Duyên Hải
+523,Trà Vinh,9.772369,106.130582,"Điện máy Xanh Khóm 1, thị trấn Cầu Quan",huyện Tiểu Cần
+524,An Giang,10.532007,105.02636,"Điện máy Xanh Khóm 1, TT. Chi Lăng",H. Tịnh Biên
+525,Đồng Tháp,10.285972,105.66269,"Điện máy Xanh Khóm 1, TT. Lai Vung",H. Lai Vung
+526,Đồng Tháp,10.362655,105.52446,"Điện máy Xanh Khóm Bình Thạnh 1, TT. Lấp Vò",H. Lấp Vò
+527,Đồng Tháp,10.312271,105.74624,"Điện máy Xanh Khóm Tân Hòa, P. An Hòa",Tp. Sa Đéc
+528,Lâm Đồng,11.625492,107.839737,"Điện máy Xanh Khu 02, Thị trấn Lộc Thắng",Huyện Bảo Lâm
+529,Lâm Đồng,11.584667,107.360528,"Điện máy Xanh Khu 06, thị trấn Cát Tiên",huyện Cát Tiên
+530,Hòa Bình,20.672963,105.53665,"Điện máy Xanh Khu 11, TT. Bo",H. Kim Bôi
+531,Hòa Bình,20.395425,105.62228,"Điện máy Xanh Khu 11, TT. Hàng Trạm",H. Yên Thủy
+532,Vĩnh Phúc,21.413925,105.46388,"Điện máy Xanh Khu 11, TT.Lập Thạch",H.Lập Thạch
+533,Hà Nội,21.15038,105.75677,"Điện máy Xanh Khu 15, thôn Yên Nhân, xã Tiền Phong",H. Mê Linh
+534,Hòa Bình,20.491507,105.77706,"Điện máy Xanh Khu 2, thị trấn Chi Nê",huyện Lạc Thủy
+535,Yên Bái,21.747429,105.04694,"Điện máy Xanh Khu 2, TT. Thác Bà",H. Yên Bình
+536,Phú Thọ,21.39078,105.14786,"Điện máy Xanh Khu 2, Xã Phú Lạc",Huyện Cẩm Khê
+537,Phú Thọ,21.411027,105.313537,"Điện máy Xanh Khu 2, xã Trạm Thản",huyện Phù Ninh
+538,Phú Thọ,21.115137,105.281216,"Điện máy Xanh Khu 22, xã Hoàng Xá",huyện Thanh Thuỷ
+539,Hòa Bình,20.620945,105.27742,"Điện máy Xanh Khu 3, Ngã 3 Mãn Đức , TT Mường Khến",Huyện Tân Lạc
+540,Vĩnh Phúc,21.235308,105.574955,"Điện máy Xanh Khu 3, thôn Đoài, Thị Trấn Yên Lạc",Huyện Yên Lạc
+541,Bắc Giang,21.335077,106.84965,"Điện máy Xanh Khu 3, TT. An Châu, H. Sơn Động",T. Bắc Giang (Cách chợ An Châu 100 m
+542,Quảng Ninh,21.0050784,107.21962,"Điện máy Xanh Khu 4, phường Quang Hanh",thành phố Cẩm Phả
+543,Quảng Ninh,21.0983277,106.7968847,"Điện máy Xanh Khu 4, Phường Vàng Danh, Thành phố Uông Bí",Tỉnh Quảng Ninh
+544,Quảng Ninh,21.065952,107.32459,"Điện máy Xanh Khu 5, P. Mông Dương",TP. Cẩm Phả
+545,Lai Châu,21.952422,103.885024,"Điện máy Xanh Khu 5A, Thị Trấn Than Uyên, Huyện Than Uyên",Tỉnh Lai Châu
+546,Hà Nội,21.175943,105.90631,"Điện máy Xanh Khu 6, thôn Thuỵ Lôi, xã Thuỵ Lâm",huyện Đông Anh
+547,Quảng Ninh,20.930258,106.79692,"Điện máy Xanh Khu 7, P. Nam Hoà",TX. Quảng Yên
+548,Phú Thọ,21.498774,105.13431,"Điện máy Xanh Khu 8, Thị Trấn Thanh Ba",Huyện Thanh Ba
+549,Thái Bình,20.56331,106.56584,"Điện máy Xanh Khu 8, TT. Diêm Điền",H. Thái Thụy
+550,Phú Thọ,21.56117,105.00111,"Điện máy Xanh Khu 8, TT. Hạ Hòa",H. Hạ Hòa
+551,Hà Nội,21.020031,105.60936,"Điện máy Xanh Khu Cầu Đặng, X. Bình Phú",H. Thạch Thất
+552,Hà Nội,21.24763,105.77095,"Điện máy Xanh Khu Chợ, Xã Hiền Ninh",Huyện Sóc Sơn
+553,Hà Nội,20.991696,105.7291,"Điện máy Xanh Khu Chùa Tổng, thôn Ngãi Câu, X. An Khánh",H. Hoài Đức
+554,Thái Bình,20.389105,106.434386,"Điện máy Xanh Khu Cộng Hòa, Thị Trấn Thanh Nê",Huyện Kiến Xương
+555,Bắc Ninh,21.109249,105.9896,"Điện máy Xanh Khu công nghiệp Đại Đồng - Hoàn Sơn, Xã Hoàn Sơn, Huyện Tiên Du",Tỉnh Bắc Ninh
+556,Hà Nội,21.059155,105.57512,"Điện máy Xanh Khu Đầm Săn, TT. Liên Quan",H. Thạch Thất
+557,Quảng Ngãi,14.887879,108.92129,"Điện máy Xanh Khu dân cư 15, thôn Thạch Trụ Tây, xã Đức Lân",H. Mộ Đức
+558,Hà Nội,21.113228,105.78908,"Điện máy Xanh Khu dân cư Bắc Thăng Long, xã Hải Bối",H. Đông Anh
+559,Bắc Giang,21.446916,106.1913,"Điện máy Xanh Khu dân cư mới TT. Bố Hạ, phố Hòa Bình",H. Yên Thế
+560,Quảng Nam,15.887484,107.4907497,"Điện máy Xanh Khu dân cư O - CL3 Tây Bắc, Thôn Agrong, Xã A Tiêng",Huyện Tây Giang
+561,Đà Nẵng,16.081114,108.146475,"Điện máy Xanh Khu dân cư Quang Thành 3B, Phường Hòa Khánh Bắc, Quận Liên Chiểu",Thành phố Đà Nẵng
+562,Quảng Ninh,21.525249,107.399381,"Điện máy Xanh Khu dân cư quy hoạch, thị trấn Bình Liêu",H. Bình Liêu
+563,Hà Nội,20.921719,105.704747,"Điện máy Xanh Khu đầu chợ Phượng, thôn Phượng Nghĩa, Xã Phụng Châu",Huyện Chương Mỹ 
+564,Thái Bình,20.620977,106.153202,"Điện máy Xanh Khu Đầu, Thị Trấn Hưng Nhân",Huyện Hưng Hà
+565,Bình Phước,11.812887,107.24816,"Điện máy Xanh Khu Đức Lập, TT. Đức Phong",H. Bù Đăng
+566,Lai Châu,22.32136,103.62452,"Điện máy Xanh Khu F4 Trung tâm Thương Mại, TT. Tam Đường",H. Tam Đường
+567,Phú Thọ,21.4708789,105.0815658,"Điện máy Xanh Khu Minh Tân, Xã Minh Tân",Huyện Cẩm Khê
+568,Bắc Ninh,21.139233,105.93673,"Điện máy Xanh Khu nhà ở Phù Khê, Đường Nguyễn Văn Cừ, Xã Phù Khê",Thị xã Từ Sơn
+569,Lạng Sơn,21.759655,106.92256,"Điện máy Xanh Khu Nhà Thờ, TT. Lộc Bình",H. Lộc Bình
+570,Thái Bình,20.588605,106.22492,"Điện máy Xanh Khu Nhân Cầu 2, TT. Hưng Hà",H. Hưng Hà
+571,Bình Thuận,10.842109,107.633423,Điện máy Xanh Khu phố 02 thị trấn Tân Minh,huyện Hàm Tân
+572,Ninh Thuận,11.548804,109.023533,Điện máy Xanh Khu phố 03,phường Đông Hải
+573,Bình Dương,11.14635,106.670312,"Điện máy Xanh Khu phố 03, phường Chánh Phú Hòa",thị xã Bến Cát
+574,Lâm Đồng,11.41077,107.659137,"Điện máy Xanh Khu phố 03, Thị trấn Đạ M’ri",Huyện Đạ Huoai
+575,Bến Tre,10.191404,106.69113,"Điện máy Xanh Khu phố 1, thị trấn Bình Đại",huyện Bình Đại
+576,Bình Thuận,10.823842,107.726381,"Điện máy Xanh Khu phố 2, thị trấn Tân Nghĩa",huyện Hàm Tân
+577,Long An,10.643201,106.48506,"Điện máy Xanh Khu phố 2, TT. Bến Lức",H. Bến Lức
+578,Bến Tre,10.150815,106.50555,"Điện máy Xanh Khu phố 2, TT. Giồng Trôm",H. Giồng Trôm
+579,Vĩnh Phúc,21.272633,105.65011,"Điện máy Xanh Khu phố 2, TT. Hương Canh",H. Bình Xuyên
+580,Quảng Ninh,20.941885,106.804309,"Điện máy Xanh Khu phố 5, Phường Phong Cốc, Thị xã Quảng Yên",Tỉnh Quảng Ninh
+581,Yên Bái,21.751389,104.83247,"Điện máy Xanh Khu phố 6, Thị Trấn Cổ Phúc",H. Trấn Yên
+582,Bình Dương,10.981154,106.720632,"Điện máy Xanh Khu phố Bình Chuẩn, P. Bình Chuẩn",TP. Thuận An
+583,Long An,10.514485,106.5068865,"Điện máy Xanh Khu phố Bình Hoà, thị trấn Tân Trụ",huyện Tân Trụ
+584,Bình Dương,10.988083,106.70734,"Điện máy Xanh Khu phố Bình Quới, P. Bình Chuẩn",TP.Thuận An
+585,Yên Bái,21.56545,104.57863,"Điện máy Xanh Khu phố Cửa Nhì ( Nay là tổ dây phố Trung Tâm), Xã Sơn Thịnh ( Nay là thị trấn Sơn Thịnh)",huyện Văn Chấn
+586,Quảng Ninh,21.005543,106.85725,"Điện máy Xanh Khu phố Đường Ngang, phường Minh Thành",thị xã Quảng Yên
+587,Ninh Bình,20.347621,105.83296,"Điện máy Xanh Khu phố mới, Tỉnh lộ 477, TT. Me",H. Gia Viễn
+588,Bình Dương,10.902984,106.793391,"Điện máy Xanh Khu phố Nội Hóa 2, phường Bình An",thị phố Dĩ An
+589,Bình Định,13.9075001,109.0160579,"Điện máy Xanh Khu QHDC phía Đông đường Tây tỉnh, xã Nhơn Phúc",thị xã An Nhơn
+590,Ninh Thuận,11.343303,108.8889,Điện máy Xanh Khu quy hoạch cảng cá Cà Ná mở rộng,Huyện Thuận Nam
+591,Phú Thọ,21.254324,105.291606,"Điện máy Xanh Khu Tân Hưng, Thị Trấn Hưng Hóa",Huyện Tam Nông
+592,Phú Thọ,21.022423,105.241514,"Điện máy Xanh Khu Tân Hương, xã Hương Cần",Thanh Sơn
+593,Phú Thọ,21.325407,105.28395,"Điện máy Xanh Khu Tân Tiến, TT Lâm Thao",H.Lâm Thao
+594,Hà Nam,20.532209,105.91411,"Điện máy Xanh Khu TM4 - Quốc lộ 1A, P. Thanh Châu",TP. Phủ Lý
+595,Phú Thọ,21.27654,104.90718,"Điện máy Xanh Khu trung tâm 2, xã Thu Cúc",Thanh Sơn
+596,Phú Thọ,21.4531437,104.9720924,"Điện máy Xanh Khu Trung Tâm, Xã Lương Sơn",Huyện Yên Lập
+597,Ninh Bình,20.161854,106.00562,"Điện máy Xanh Khu Trung Yên, TT. Yên Thịnh",H. Yên Mô
+598,Quảng Ninh,21.053961,106.60723,"Điện máy Xanh Khu Vĩnh Tuy 1, phường Mạo Khê",thị xã Đông Triều
+599,Long An,10.893667,106.30787,"Điện máy Xanh Khu vực 1, Thị Trấn Đông Thành",Huyện Đức Huệ
+600,Long An,10.817014,106.45447,"Điện máy Xanh Khu vực 2, Thị Trấn Đức Hòa",Huyện Đức Hòa
+601,Hà Nội,20.918951,105.64295,"Điện máy Xanh Kilomet 28, quốc lộ 6, X. Trường Yên",H. Chương Mỹ
+602,Lâm Đồng,11.505143,107.48767,"Điện máy Xanh Kiot Số 8-9-10 Nguyễn Đình Chiểu, TT. Đạ Tẻh",H. Đạ Tẻh
+603,Đắk Lắk,12.731291,108.367807,"Điện máy Xanh Km 38, Quốc lộ 26, Xã Ea Kuăng, Huyện Krông Pắk",Tỉnh Đắk Lắk
+604,Hải Dương,20.937247,106.218255,"Điện máy Xanh KM 40 + 500, Quốc lộ 5A, thôn Tràng Kỹ, xã Tân Trường",huyện Cẩm Giàng
+605,Đắk Lắk,12.806457,108.53845,"Điện máy Xanh Km 62, QL 26, TT. Ea Knốp",H. Eakar
+606,Bình Dương,10.926944,106.76034,"Điện máy Xanh KP Đông Chiêu, P. Tân Đông Hiệp",TP. Dĩ An
+607,Quảng Ninh,20.940249,106.79409,"Điện máy Xanh KP. 4, P. Yên Giang",TX. Quảng Yên
+608,Bình Dương,10.94834,106.71802,"Điện máy Xanh KP. Hòa Lân 2, P. Thuận Giao",TP. Thuận An
+609,Bình Định,13.631725,108.996236,"Điện máy Xanh Làng Hiệp Hội, thị trấn Vân Canh",huyện Vân Canh
+610,Thái Bình,20.434184,106.290358,"Điện máy Xanh Lô 01A trích thửa 305 và lô 01B trích thửa 305, tờ bản đồ số 02, thị tứ Tân Lập, xã Tân Lập",huyện Vũ Thư
+611,Đà Nẵng,16.072426,108.191815,"Điện máy Xanh Lô 01-B6.1 Nguyễn Tất Thành, P. Xuân Hà",Q. Thanh Khê
+612,Đà Nẵng,16.061916,108.2348,"Điện máy Xanh Lô A8, đường Võ Văn Kiệt, P. An Hải Đông",Q. Sơn Trà
+613,Bắc Giang,21.38607,106.12715,"Điện máy Xanh Lô D3, Đường Hoàng Hoa Thám, TT.Cao Thượng",H.Tân Yên
+614,Hà Nội,21.0770943,105.4338763,"Điện máy Xanh Lô số 263B, Tờ BDGT số 01, Tổ 4 đội 3 (nay là Thôn Việt Hoà, Xã Vân Hoà",Ba Vì
+615,Lào Cai,22.368056,104.081433,"Điện máy Xanh Lô số 285,108,293, đường D3, khu Tái Định Cư, thôn Phú Xuân, xã Gia Phú",huyện Bảo Thắng
+616,Điện Biên,21.588993,103.42144,"Điện máy Xanh Ngã 3 Tuần Giáo, Khối Tân Thủy, TT. Tuần Giáo",H. Tuần Giáo
+617,Phú Thọ,21.68093,105.07815,"Điện máy Xanh Ngã ba Cát Lem, Xã Bằng Luân",Huyện Đoan Hùng
+618,Thái Bình,20.570305,106.180975,"Điện máy Xanh Ngã ba Diêm, Thôn Kiều Trai, Xã Minh Tân",Huyện Hưng Hà
+619,Quảng Nam,15.891529,108.24797,"Điện máy Xanh Ngã ba Trần Nhân Tông và Tuệ Tĩnh, P. Vĩnh Điện",TX. Điện Bàn
+620,Phú Thọ,21.421639,105.13305,"Điện máy Xanh Ngã Tư bưu điện huyện Cẩm Khê,Thị trấn Sông Thao ",Huyện Sông Thao (nay là huyện Cẩm Khê)
+621,Bắc Ninh,21.038694,106.09522,"Điện máy Xanh Ngã Tư Đông Côi, TT. Hồ",huyện Thuận Thành
+622,Hải Dương,20.938796,106.32117,"Điện máy Xanh Ngã tư nhà máy sứ Hải Dương, đường Phạm Ngũ Lão",TP. Hải Dương
+623,Hà Nội,21.047361,105.7039,"Điện máy Xanh Ngã tư Sơn Đồng, xã Sơn Đồng",H. Hoài Đức
+624,Bình Thuận,10.93516,108.09715,"Điện máy Xanh Nguyễn Hội, Phường Phú Trinh",TP Phan Thiết
+625,Đắk Lắk,12.951943,108.34268,"Điện máy Xanh Nguyễn Tất Thành, TT. Krông Năng, H. Krông Năng",T. Đăk Lăk (Ngã 4 Krông Năng
+626,Hà Nội,21.258279,105.84895,"Điện máy Xanh Ô số 1-2-3, Khu A, Lô II-7, Khu đô thị mới, Thị Trấn Sóc Sơn",Huyện Sóc Sơn
+627,Bình Dương,11.048473,106.75239,"Điện máy Xanh P. Khánh Bình, TX. Tân Uyên",T. Bình Dương (Kế bên chợ Quang Vinh 1
+628,Hà Nội,21.04902,105.7418,Điện máy Xanh P. Minh Khai,Q. Bắc Từ Liêm
+629,Ninh Bình,20.182306,106.06358,"Điện máy Xanh Phố 2, TT. Yên Ninh",H. Yên Khánh
+630,Phú Thọ,21.205883,105.17894,"Điện máy Xanh Phố Ba Mỏ, TT. Thanh Sơn",H. Thanh Sơn
+631,Ninh Bình,20.323225,105.75087,"Điện máy Xanh Phố Bái, TT. Nho Quan",H. Nho Quan
+632,Bắc Ninh,21.193909,105.956508,"Điện máy Xanh Phố Chờ, thị trấn Chờ",huyện Yên Phong
+633,Thái Nguyên,21.673239,105.73909,"Điện máy Xanh Phố Giang Trung, TT. Giang Tiên",H. Phú Lương
+634,Quảng Ninh,21.450683,107.750463,"Điện máy Xanh Phố Hoàng Hoa Thám, Thị Trấn Quảng Hà, Huyện Hải Hà, Tỉnh Quảng Ninh",Việt Nam. (Đối diện chợ Đức Dương
+635,Hà Nội,21.0262523,105.9888704,"Điện máy Xanh Phố Keo, Xã Kim Sơn",Huyện Gia Lâm
+636,Vĩnh Phúc,21.377837,105.541468,"Điện máy Xanh Phố Me, Thị Trấn Hợp Hòa",Huyện Tam Dương
+637,Bắc Kạn,22.272272,105.87981,"Điện máy Xanh Phố Ngã Ba, TT. Phủ Thông",H. Bạch Thông
+638,Hà Nội,21.22803,105.37671,"Điện máy Xanh Phố Nhông, Xã Phú Sơn, Huyện Ba Vì",Thành phố Hà Nội
+639,Hà Nam,20.643096,105.99021,"Điện máy Xanh Phố Phú Hòa,Thị Trấn Hòa Mạc",Huyện Duy Tiên
+640,Bắc Giang,21.2969738,106.3336203,"Điện máy Xanh Phố Sàn, xã Phương Sơn",huyện Lục Nam
+641,Thái Nguyên,21.3661,105.8741,"Điện máy Xanh Phố Thanh Xuyên, Xã Trung Thành",Thị xã Phổ Yên
+642,Hòa Bình,20.465814,105.43924,"Điện máy Xanh Phố Thống Nhất, TT. Vụ Bản",H. Lạc Sơn
+643,Ninh Bình,20.091151,106.08558,"Điện máy Xanh Phố Thượng Kiệm, TT. Phát Diệm",H. Kim Sơn
+644,Hà Nội,21.0861316,105.663577,"Điện máy Xanh Phố Thụy Ứng, Thị Trấn Phùng, Huyện Đan Phượng",Thành phố Hà Nội
+645,Quảng Ninh,21.354874,107.58688,"Điện máy Xanh Phố Trần Phú, TT. Đầm Hà",H. Đầm Hà
+646,Đồng Tháp,10.429194,105.634389,Điện máy Xanh Phường 6,Thành phố Cao Lãnh
+647,Thái Nguyên,21.62297,105.84345,Điện máy Xanh Phường Chùa Hang,TP Thái Nguyên
+648,Quảng Nam,15.933,108.310161,Điện máy Xanh Phường Điện Dương,Thị xã Điện Bàn
+649,Bình Định,13.759254,109.205509,Điện máy Xanh Phường Quang Trung,Thành phố Quy Nhơn
+650,Bình Dương,11.003581,106.766865,Điện máy Xanh Phường Thạnh Phước,Thị Xã Tân Uyên
+651,Quảng Ninh,20.93805,106.82937,"Điện máy Xanh QH điều chỉnh lần 2 khu dân cư xóm Cửa Tràng, Bắc Cầu Chợ Rộc, xã Tiền An",thị xã Quảng Yên
+652,Bình Dương,11.344944,106.64,"Điện máy Xanh QL 13, Tổ 18, Ấp 1, X Trừ Văn Thố",H. Bàu Bàng
+653,Bình Phước,11.668481,107.06516,"Điện máy Xanh QL 14, X. Nghĩa Trung",H. Bù Đăng
+654,Quảng Ninh,21.33105,107.39713,"Điện máy Xanh QL 18, Phố Long Thành,TT. Tiên Yên",H. Tiên Yên
+655,Long An,10.63641,106.46903,"Điện máy Xanh QL 1A , Ấp 1 , X. Thạnh Đức , H. Bến Lức",T. Long An (Ngã Tư Bình Nhựt
+656,Quảng Ngãi,15.051213,108.84706,"Điện máy Xanh QL 1A, Đội 6, thôn Năng Tây 2, X. Nghĩa Phương",H. Tư Nghĩa
+657,Đồng Tháp,10.700521,105.38127,"Điện máy Xanh QL 30, Xã An Long",Huyện Tam Nông
+658,Bắc Giang,21.374075,106.5683863,"Điện máy Xanh QL 31, Khu Trường Chinh, TT. Chũ",H. Lục Ngạn
+659,An Giang,10.444218,105.38532,"Điện máy Xanh QL 91, ấp Hòa Long 4, TT. An Châu",H. Châu Thành
+660,Gia Lai,13.547023,108.09949,"Điện máy Xanh QL14, TT. Nhơn Hòa",H. Chư Pưh
+661,Bình Thuận,11.07298,108.130902,"Điện máy Xanh QL1A, khu phố Phú Thành, thị trấn Phú Long",huyện Hàm Thuận Bắc
+662,Lâm Đồng,11.546658,107.9016,"Điện máy Xanh QL20, Thôn 1, X. Lộc An",H. Bảo Lâm
+663,Quảng Bình,17.885389,106.0235,"Điện máy Xanh Quốc lộ 12C - Tiểu khu 2, TT. Đồng Lê",H. Tuyên Hóa
+664,Bình Phước,11.55557,106.61433,"Điện máy Xanh Quốc lộ 13, Ấp 2, Thị trấn Tân Khai, Huyện Hớn Quản",Tỉnh Bình Phước
+665,Bình Phước,11.883919,106.690935,"Điện máy Xanh Quốc lộ 13, ấp Hiệp Tâm A, Xã Lộc Hiệp, Huyện Lộc Ninh",Tỉnh Bình Phước
+666,Bình Dương,11.04503,106.63389,"Điện máy Xanh Quốc lộ 13, KP. 2, P. Tân Định",TX. Bến Cát
+667,Bình Dương,11.133224,106.60547,"Điện máy Xanh Quốc lộ 13, Kp. 4, P. Mỹ Phước",TX. Bến Cát
+668,Đắk Lắk,12.953664,108.24713,"Điện máy Xanh Quốc lộ 14 , xã pơngdrang",huyện Krông Buk 
+669,Bạc Liêu,9.281064,105.62367,"Điện máy Xanh Quốc Lộ 1A, ấp thị trấn B, TT. Hòa Bình",H. Hòa Bình
+670,Quảng Ngãi,14.678136,109.06461,"Điện máy Xanh Quốc Lộ 1A, lô số 242, khu A1, Làng Cá Sa Huỳnh, X. phổ Thạnh",H. Đức Phổ
+671,Bình Thuận,11.319199,108.78714,"Điện máy Xanh Quốc lộ 1A, Ngã 3, Xóm 7, Thôn Vĩnh Phúc , Xã Vĩnh Tân, Huyện Tuy Phong",Tỉnh Bình Thuận
+672,Hà Tĩnh,18.2515446,105.9986311,"Điện máy Xanh Quốc Lộ 1A, TDP, 14",H. Cẩm Xuyên
+673,Quảng Nam,15.943135,108.22218,"Điện máy Xanh Quốc Lộ 1A, Thôn Bồ Mưng 2, X. Điện Thắng Bắc",H. Điện Bàn 
+674,Quảng Bình,17.877111,106.44236,"Điện máy Xanh Quốc Lộ 1A, thôn Di Luân, X. Quảng Tùng",H. Quảng Trạch
+675,Quảng Nam,15.475611,108.59066,"Điện máy Xanh Quốc Lộ 1A, Thôn Diêm Phổ, Xã Tam Anh Nam",Huyện Núi Thành
+676,Quảng Bình,17.366028,106.67588,"Điện máy Xanh Quốc Lộ 1A, Thôn Dinh Mười, X. Gia Ninh",H. Quảng Ninh
+677,Quảng Ngãi,15.086339,108.82554,"Điện máy Xanh Quốc lộ 1A, TT. La Hà",H. Tư Nghĩa
+678,Quảng Ngãi,14.986366,108.87768,"Điện máy Xanh Quốc Lộ 1A, Xã Đức Thạnh",Huyện Mộ Đức
+679,Lâm Đồng,11.633917,108.30674,"Điện máy Xanh Quốc lộ 20, X. Ninh Gia",H. Đức Trọng
+680,Gia Lai,13.529306,108.31711,"Điện máy Xanh Quốc Lộ 25, TDP 12, TT. Phú Thiện",H. Phú Thiện
+681,Đắk Lắk,12.710879,108.30259,"Điện máy Xanh Quốc lộ 26, TT. Phước An",H. Krông Pắk
+682,Ninh Thuận,11.746018,108.79212,"Điện máy Xanh Quốc lộ 27, Thôn Hạnh Trí 1, X. Quảng Sơn",H. Ninh Sơn
+683,Lâm Đồng,12.178415,108.135535,"Điện máy Xanh Quốc lộ 27, Thôn Phi Có, Xã Đạ Rsal, Huyện Đam Rông",Tỉnh Lâm Đồng
+684,Đồng Tháp,10.557959,105.49037,"Điện máy Xanh Quốc lộ 30, Khóm Tân Đông B, TT. Thanh Bình",H. Thanh Bình
+685,Đồng Tháp,10.557959,105.49037,"Điện máy Xanh Quốc lộ 30, Khóm Tân Đông B, TT. Thanh Bình",H. Thanh Bình
+686,Bà Rịa - Vũng Tàu,10.562504,107.06087,"Điện máy Xanh Quốc lộ 51, khu 3, ấp Ông Trịnh, xã Phước Hòa",H. Tân Thành
+687,Bà Rịa - Vũng Tàu,10.624311,107.05434,"Điện máy Xanh Quốc Lộ 51, X. Mỹ Xuân",H. Tân Thành
+688,Lào Cai,22.499031,103.96681,Điện máy Xanh Số 009 Hoàng Liên,P. Cốc Lếu
+689,Bắc Giang,21.268855,106.20523,"Điện máy Xanh Số 01 Hùng Vương, P. Hoàng Văn Thụ",TP. Bắc Giang
+690,Ninh Bình,20.25686,105.97203,"Điện máy Xanh Số 01 Lê Hồng Phong, P. Vân Giang",TP. Ninh Bình
+691,Đồng Tháp,10.461373,105.64381,"Điện máy Xanh Số 03, Quốc lộ 30, Phường Mỹ Phú",Thành phố Cao Lãnh
+692,Trà Vinh,9.81428,106.19053,"Điện máy Xanh Số 03, quốc lộ 60, khóm 4, TT. Tiểu Cần",H. Tiểu Cần
+693,Đà Nẵng,16.035049,108.24486,"Điện máy Xanh Số 05-07 Lê Văn Hiến, Phường Khuê Mỹ",Quận Ngũ Hành Sơn
+694,Đồng Tháp,10.811495,105.34139,Điện máy Xanh Số 06 Thoại Ngọc Hầu,TX. Hồng Ngự
+695,Đà Nẵng,16.071487,108.22265,"Điện máy Xanh Số 07 Lê Duẩn, P. Hải Châu 1",Q. Hải Châu
+696,Phú Thọ,21.411027,105.313537,"Điện máy Xanh Số 07, khu 05, xã Tử Đà",huyện Phù Ninh
+697,Bà Rịa - Vũng Tàu,10.489926,107.26995,"Điện máy Xanh Số 09 Quốc Lộ 55, Phước Sơn, TT. Đất Đỏ",H. Đất Đỏ
+698,Hà Nội,20.997559,105.865293,"Điện máy Xanh Số 1 ngõ 349 đường Minh Khai, phường Vĩnh Tuy",quận Hai Bà Trưng
+699,Hà Nội,20.997559,105.865293,"Điện máy Xanh Số 1 ngõ 349 đường Minh Khai, phường Vĩnh Tuy",quận Hai Bà Trưng
+700,Hải Dương,20.938387,106.32023,"Điện máy Xanh Số 1 Nguyễn Lương Bằng, P. Phạm Ngũ Lão",TP. Hải Dương
+701,Lâm Đồng,11.5354313,107.8230144,"Điện máy Xanh Số 1, đường Nguyễn Văn Cừ, Phường Lộc Sơn",Thành phố Bảo Lộc
+702,Long An,10.610044,106.0473,"Điện máy Xanh Số 10, Quốc Lộ 62, KP3, TT. Tân Thạnh",H. Tân Thạnh
+703,Lâm Đồng,11.783008,108.41043,"Điện máy Xanh Số 10/13, QL 20, Finom, xã Hiệp Thạnh",H. Đức Trọng
+704,Thái Bình,20.402843,106.50156,"Điện máy Xanh Số 101 Phố Tiểu Hoàng ,TT. Tiền Hải ",H. Tiền Hải
+705,Long An,10.778757,105.927716,"Điện máy Xanh Số 104, Đường quốc lộ 62, Khu phố 3, Phường 3",Thị xã Kiến Tường
+706,Đắk Lắk,12.730521,108.11213,"Điện máy Xanh Số 107 đường QL 14, thôn 5, Xã Hòa Thuận",TP. Buôn Ma Thuột
+707,Đắk Lắk,12.730521,108.11213,"Điện máy Xanh Số 107 đường QL 14, thôn 5, Xã Hòa Thuận",TP. Buôn Ma Thuột
+708,Bình Dương,10.908308,106.738702,"Điện máy Xanh Số 11/29, Khu phố Bình Đức 3, P. Bình Hòa",TP. Thuận An
+709,Hà Nội,20.979543,105.78542,"Điện máy Xanh Số 110 Trần Phú, Khu đô thị Mỗ Lao, P. Mộ Lao, Q. Hà Đông",TP. Hà Nội (Tầng 1 toà nhà Hồ Gươm Plaza
+710,Đồng Tháp,10.44699,105.69498,"Điện máy Xanh Số 114-116 Nguyễn Trãi, TT. Mỹ Thọ",H. Cao Lãnh
+711,Lâm Đồng,11.5119545,107.7495185,"Điện máy Xanh Số 1142, Đường Quốc Lộ 20, Thôn 1, Xã Đại Lào, Thành phố Bảo Lộc",Tỉnh Lâm Đồng
+712,Long An,10.542206,106.403659,"Điện máy Xanh Số 115 - 115B, đường Quốc Lộ 62, Phường 2",Thành phố Tân An
+713,Hà Nội,21.053589,105.837438,"Điện máy Xanh Số 115 Đường Nghi Tàm, Phường Yên Phụ",Quận Tây Hồ
+714,Bình Dương,10.890626,106.7832,"Điện máy Xanh Số 115 Quốc Lộ 1K, KP. Tây B, P. Đông Hòa",TP. Dĩ An
+715,Đồng Tháp,10.518649,105.84384,"Điện máy Xanh Số 119 Hùng Vương, Khóm 4, TT. Mỹ An",H. Tháp Mười
+716,Hà Nội,20.874151,105.86355,"Điện máy Xanh Số 122 phố Ga (QL 1A), TT. Thường Tín",H. Thường Tín
+717,Hà Nội,20.874151,105.86355,"Điện máy Xanh Số 122 phố Ga (QL 1A), TT. Thường Tín",H. Thường Tín
+718,Hà Nội,20.9701,105.84156,"Điện máy Xanh Số 1283 Giải Phóng, P. Hoàng Liệt",Q. Hoàng Mai
+719,Hà Nội,20.9701,105.84156,"Điện máy Xanh Số 1283 Giải Phóng, P. Hoàng Liệt",Q. Hoàng Mai
+720,Bà Rịa - Vũng Tàu,10.555168,107.54771,"Điện máy Xanh Số 13/1 Ấp Thanh Bình 3, X. Bình Châu",H. Xuyên Mộc
+721,Thái Bình,20.453604,106.33834,"Điện máy Xanh Số 132 đường Trần Thái Tông, Tổ 29, Phường Bồ Xuyên",Thành phố Thái Bình
+722,Bình Phước,11.850163,106.58817,"Điện máy Xanh Số 132, Quốc lộ 13, KP. Ninh Thịnh, TT. Lộc Ninh",H. Lộc Ninh
+723,Bắc Giang,21.30449,106.16556,"Điện máy Xanh Số 1361 Hoàng Hoa Thám, phường Song Mai",thành phố Bắc Giang
+724,Đắk Lắk,12.485729,108.03018,"Điện máy Xanh Số 138 đường Hùng Vương, TT. Buôn Trấp",H. Krông A Na
+725,Hà Nội,21.024949,105.908014,Điện máy Xanh Số 141 phường Thạch Bàn,Quận Long Biên
+726,Hà Nội,21.0522117,105.8641674,"Điện máy Xanh Số 142 đường Ngọc Thụy, Phường Ngọc Thụy",Quận Long Biên
+727,Bình Dương,11.032806,106.64058,"Điện máy Xanh Số 1457 Đại Lộ Bình Dương, KP.04, P. Hiệp An",TP. Thủ Dầu Một
+728,Hà Nội,21.032234,105.826603,"Điện máy Xanh Số 146 phố Kim Mã, phường Kim Mã",quận Ba Đình
+729,Thái Bình,20.650317,106.325796,"Điện máy Xanh Số 150, Đường Nguyễn Du, Thị Trấn Quỳnh Côi",H. Quỳnh Phụ
+730,Bình Định,13.889224,109.11318,"Điện máy Xanh Số 151 - 153 Trần Phú, P. Bình Định",TX. An Nhơn
+731,Yên Bái,21.726086,104.91651,"Điện máy Xanh Số 152-154 Đinh Tiên Hoàng, tổ 03, P. Đồng Tâm",Tp. Yên Bái
+732,Hà Giang,22.668297,104.9831,"Điện máy Xanh Số 154, Tổ 4, thị trấn Vị Xuyên",huyện Vị Xuyên
+733,Quảng Ninh,20.941445,107.121304,"Điện máy Xanh Số 155 Nguyễn Văn Cừ, Phường Hồng Hà",thành phố Hạ Long
+734,Bình Dương,11.313797,106.491776,"Điện máy Xanh Số 157, đường DT749A, ấp Long Thọ, xã Long Hoà",huyện Dầu Tiếng
+735,Hà Nội,21.013882,105.8185,"Điện máy Xanh Số 159 Thái Hà, P. Láng Hạ",Q. Đống Đa
+736,Phú Thọ,21.321231,105.38595,"Điện máy Xanh Số 1606A Hùng Vương, P. Gia Cẩm",TP. Việt Trì
+737,Yên Bái,21.729288,104.960032,"Điện máy Xanh Số 162D, thôn Đoàn Kết, xã Cảm Ân",huyện Yên Bình
+738,An Giang,10.397024,105.42313,"Điện máy Xanh Số 165 Trần Hưng Đạo, P. Bình Khánh",Tp. Long Xuyên
+739,Bình Phước,12.044557,107.092657,"Điện máy Xanh Số 170 Đường ĐT741, đội 3, thôn Đăk Lim, xã Đăk Ơ",Huyện Bù Gia Mập
+740,Bình Phước,11.520191,106.830898,"Điện máy Xanh Số 1729 Quốc lộ 14, Ấp 2, Xã Tân Thành",Thành phố Đồng Xoài
+741,Hà Nội,21.145973,105.49773,"Điện máy Xanh Số 173, Phố Ngô Quyền",P.Ngô Quyền
+742,Hà Giang,22.813265,104.98102,"Điện máy Xanh Số 176, đường Nguyễn Trãi, tổ 15, P. Nguyễn Trãi",TP. Hà Giang
+743,Quảng Ninh,21.53156,107.95625,"Điện máy Xanh Số 178B Hùng Vương, P. Ka Long",TP. Móng Cái
+744,Thái Nguyên,21.752029,106.07418,"Điện máy Xanh Số 183, phố Thái Long, TT. Đình Cả",H. Võ Nhai
+745,Hà Nội,21.083563,105.67274,"Điện máy Xanh Số 186 phố Tây Sơn, TT. Phùng",H. Đan Phượng
+746,Hà Nội,20.990489,105.84799,"Điện máy Xanh Số 186 Trương Định, P. Trương Định",Q. Hai Bà Trưng
+747,Hà Tĩnh,18.508392,105.42481,"Điện máy Xanh Số 189, Quốc lộ 8A, Khối 12, TT. Phố Châu",H. Hương Sơn
+748,Bình Phước,11.419032,106.61565,"Điện máy Xanh Số 190 quốc Lộ 13, KP. 5, TT. Chơn Thành",H. Chơn Thành
+749,Thái Nguyên,21.468133,105.84536,"Điện máy Xanh Số 192 Cách Mạng Tháng 8, P. Thắng Lợi",TP. Sông Công
+750,Bình Dương,10.992169,106.67406,"Điện máy Xanh Số 193 Huỳnh Văn Lũy, P. Phú Lợi",Tp. Thủ Dầu Một
+751,Hà Nội,21.046619,105.78106,"Điện máy Xanh Số 194 Phạm Văn Đồng, Tổ 1, P. Mai Dịch",Q. Cầu Giấy 
+752,Hà Nội,20.983173,105.76783,Điện máy Xanh Số 194-196-198-200 Đường Vạn Phúc,Hà Đông
+753,Đắk Lắk,12.693208,108.051939,"Điện máy Xanh Số 196 Phan Chu Trinh, Phường Tân Lợi, TP.Buôn Ma Thuột",Tỉnh Đắk Lắk
+754,Hà Nội,20.965252,105.86632,"Điện máy Xanh Số 196 Tam Trinh, P. Yên Sở",Q. Hoàng Mai
+755,Hà Nội,20.965252,105.86632,"Điện máy Xanh Số 196 Tam Trinh, P. Yên Sở",Q. Hoàng Mai
+756,Hà Nội,21.008883,105.85096,"Điện máy Xanh Số 2 Đại Cồ Việt, P. Lê Đại Hành",Q. Hai Bà Trưng
+757,Hải Dương,21.11328,106.39275,"Điện máy Xanh Số 2 Nguyễn Thái Học, P. Sao Đỏ, TX. Chí Linh",T. Hải Dương (Cách Ngã 3 Sao Đỏ 50 m
+758,Ninh Bình,20.250399,105.97427,"Điện máy Xanh Số 2 Trần Hưng Đạo, Phố Phúc Trọng, Phường Phúc Thành",Thành Phố Ninh Bình
+759,Hà Nội,21.066091,105.804862,"Điện máy Xanh Số 2, ngõ 34, đường Xuân La, phường Xuân La",quận Tây Hồ
+760,Hà Nội,21.066091,105.804862,"Điện máy Xanh Số 2, ngõ 34, đường Xuân La, phường Xuân La",quận Tây Hồ
+761,Hà Nội,20.804049,105.88396,"Điện máy Xanh Số 2, thôn Tử Dương, xã Tô Hiệu",H. Thường Tín
+762,Thái Nguyên,21.417215,105.87092,"Điện máy Xanh Số 200 đường Phạm Văn Đồng, tổ dân phố 4, P. Ba Hàng",TX. Phổ Yên
+763,Hà Nội,21.10977,105.44935,"Điện máy Xanh Số 200-202, tổ 3A, P. Xuân Khanh",TX. Sơn Tây
+764,Hà Nội,21.081794,105.91376,"Điện máy Xanh Số 203 - 205 - 207, đường Hà Huy Tập, Thị Trấn Yên Viên, Huyện Gia Lâm",Thành phố Hà Nội
+765,Hải Dương,21.026808,106.56229,"Điện máy Xanh Số 203 đường Vũ Mạnh Hùng, khu 2, TT.Phú Thứ",H.Kinh Môn
+766,Bình Dương,11.056486,106.79089,"Điện máy Xanh Số 205/B - 207/B Tổ 5, Kp 1, P. Uyên Hưng",Tx.Tân Uyên
+767,Bình Dương,11.2377167,106.6963576,"Điện máy Xanh Số 209, đường HL612, ấp 03, xã Hưng Hoà",huyện Bàu Bàng
+768,Bắc Ninh,21.176849,106.05766,"Điện máy Xanh Số 21 Nguyễn Văn Cừ, P. Ninh Xá",TP. Bắc Ninh
+769,Bình Dương,11.00425,106.71731,"Điện máy Xanh Số 21 Tổ 02, Khu phố Khánh Thạnh, Phường Tân Phước Khánh",Thị xã Tân Uyên
+770,Hà Nội,21.019208,105.833988,"Điện máy Xanh Số 211 Khâm Thiên, Phường Thổ Quan",Quận Đống Đa
+771,Bình Dương,11.087381,106.54849,"Điện máy Xanh Số 216, đường DT 744 ấp Lồ Ồ, xã An Tây",H. Bến Cát
+772,Bến Tre,10.045525,106.58731,"Điện máy Xanh Số 21A1, Trần Hưng Đạo, khu phố 2, TT. Ba Tri",H. Ba Tri
+773,Phú Thọ,21.4047,105.21208,"Điện máy Xanh Số 22 Đinh Tiên Hoàng, P. Hùng Vương",TX. Phú Thọ
+774,Quảng Bình,17.461409,106.62461,"Điện máy Xanh Số 22 Quang Trung, P. Hải Đình",TP. Đồng Hới
+775,Hà Nội,21.153947,105.8162,"Điện máy Xanh Số 220 - 222, KP. Vân Trì, X. Vân Nội",H. Đông Anh
+776,Hà Nội,21.153947,105.8162,"Điện máy Xanh Số 220 - 222, KP. Vân Trì, X. Vân Nội",H. Đông Anh
+777,Hà Nam,20.540345,105.91241,"Điện máy Xanh Số 222 Đường Lê Hoàn, Phường Hai Bà Trưng",Thành Phố Phủ Lý
+778,Bắc Giang,21.240495,106.10094,"Điện máy Xanh Số 222, Đường Thần Công Tài, Thị Trấn Nếnh, Huyện Việt Yên",Tỉnh Bắc Giang
+779,Hà Nội,20.984669,105.87279,"Điện máy Xanh Số 223 - 225 đường Lĩnh Nam, Phường Vĩnh Hưng",Quận Hoàng Mai 
+780,Bà Rịa - Vũng Tàu,10.647114,107.24636,"Điện máy Xanh Số 230 - 232 Hùng Vương, Thị Trấn Ngãi Giao",Huyện Châu Đức
+781,Bình Phước,11.425405,106.85731,"Điện máy Xanh Số 232, đường ĐT 741, ấp Chợ, xã Tân Tiến",H. Đồng Phú
+782,Long An,10.535556,106.400444,"Điện máy Xanh Số 235 Quốc Lộ 1, Phường 4",Thành phố Tân An
+783,Đắk Lắk,12.606806,108.13352,"Điện máy Xanh Số 24 QL 27, Thôn 2, X. Ea Tiêu",H. Cư Kuin
+784,Quảng Ngãi,15.132256,108.80143,"Điện máy Xanh Số 24, Đường Quang Trung, P. Lê Hồng Phong",Tp. Quảng Ngãi
+785,Đà Nẵng,16.040017,108.21034,"Điện máy Xanh Số 242 Nguyễn Hữu Thọ, P. Hòa Cường Bắc",Q. Hải Châu
+786,Gia Lai,13.404931,108.44275,"Điện máy Xanh Số 245 đường Trần Hưng Đạo, P. Đoàn Kết",TX. Ayunpa
+787,Bình Định,13.997984,109.0578,"Điện máy Xanh Số 246 Quang Trung, TT. Ngô Mây",H. Phù Cát
+788,Quảng Ninh,21.020981,106.988773,"Điện máy Xanh Số 246-248, Khu Dân Cư Tự Xây Khu 10, Thị Trấn Trới, Huyện Hoành Bồ",Tỉnh Quảng Ninh
+789,Long An,10.588306,106.58844,"Điện máy Xanh Số 249, Ấp 3, Long Hòa",Cần Đước
+790,Long An,10.588306,106.58844,"Điện máy Xanh Số 249, Ấp 3, Long Hòa",Cần Đước
+791,Trà Vinh,9.686584,106.509865,"Điện máy Xanh Số 249, Quốc Lộ 53, Khóm 1, Phường 2, Thị Xã Duyên Hải",Tỉnh Trà Vinh
+792,An Giang,10.493049,104.90947,"Điện máy Xanh Số 249, tổ 11, đường Ngô Gia Tự, khóm An Hòa A, TT. Ba Chúc",H. Tri Tôn
+793,Bắc Ninh,21.110554,105.95928,"Điện máy Xanh Số 25 Đường Lý Thái Tổ, P. Đình Bảng",TX. Từ Sơn
+794,Bạc Liêu,9.034115,105.426605,"Điện máy Xanh Số 25, Đường 19 tháng 5, Ấp 4, Thị Trấn Gành Hào",Huyện Đông Hải
+795,Lâm Đồng,11.940104,108.43243,"Điện máy Xanh Số 25-27 Nguyễn Văn Cừ, Phường 1",Thành phố Đà Lạt
+796,Hà Nội,21.034671,105.7932,"Điện máy Xanh Số 260 Cầu Giấy , P. Quan Hoa",Q. Cầu Giấy
+797,Hà Nội,21.034671,105.7932,"Điện máy Xanh Số 260 Cầu Giấy , P. Quan Hoa",Q. Cầu Giấy
+798,Quảng Nam,15.435434,108.6447,"Điện máy Xanh Số 260 Phạm Văn Đồng, khối 2, TT. Núi Thành",H. Núi Thành
+799,Bến Tre,10.129667,106.33177,"Điện máy Xanh Số 268-268A, Quốc lộ 60, KP.02, TT. Mỏ Cày",H. Mỏ Cày Nam
+800,Hà Nội,21.004997,105.80466,"Điện máy Xanh Số 27 Lê Văn Lương, P. Nhân Chính",Q. Thanh Xuân
+801,Bình Phước,11.812627,106.95387,"Điện máy Xanh Số 27, đường ĐT 741, KP.03, P. Phước Bình",TX. Phước Long
+802,Thái Nguyên,21.579678,105.81642,"Điện máy Xanh Số 271, đường Quang Trung, P. Tân Thịnh",TP. Thái Nguyên
+803,Bình Định,13.906444,108.9209,"Điện máy Xanh Số 275 Quang Trung, TT. Phú Phong",H. Tây Sơn
+804,Long An,10.636223,106.53633,"Điện máy Xanh Số 286 Tỉnh Lộ 835, X. Phước Lợi",H. Bến Lức
+805,Long An,10.810855,106.47657,"Điện máy Xanh Số 291-293, Ấp Bình Tiền 2, Xã Đức Hòa Hạ",Huyện Đức Hòa
+806,Yên Bái,22.111668,104.765666,"Điện máy Xanh Số 295, đường Nguyễn Tất Thành, tổ dân phố số 3, Thị Trấn Yên Thế",Huyện Lục Yên
+807,Kon Tum,14.515376,107.92021,"Điện máy Xanh Số 296 Hùng Vương, tổ dân phố 6, TT. Đắk Hà",H. Đắk Hà
+808,Lào Cai,22.532292,104.292235,"Điện máy Xanh Số 3 Đường Ngọc Uyển , Tổ Dân Phố Bắc Hà 1 , Thị Trấn Bắc Hà",H. Bắc Hà 
+809,An Giang,10.62125,105.00275,"Điện máy Xanh Số 305-307/19 khóm Thới Hòa, TT. Nhà Bàng",H. Tịnh Biên
+810,Ninh Bình,20.154589,105.91452,"Điện máy Xanh Số 309 Quang Trung, Phường Trung Sơn",TP Tam Điệp
+811,Bình Dương,10.902063,106.70511,"Điện máy Xanh Số 311-315 Đường Nguyễn Trãi, KP. Nguyễn Trãi, P. Lái Thiêu",TP. Thuận An
+812,Bình Thuận,10.93759,108.28537,"Điện máy Xanh Số 314 Huỳnh Thúc Kháng, KP. 4, P. Mũi Né",TP. Phan Thiết
+813,Trà Vinh,9.998735,106.20553,"Điện máy Xanh Số 315-317, Quốc lộ 53, Khóm 5, TT.Càng Long",H.Càng Long
+814,Bến Tre,10.220861,106.58261,"Điện máy Xanh Số 317, ấp Lộc Hòa, Xã Lộc Thuận",Huyện Bình Đại
+815,Yên Bái,21.703209,104.87771,"Điện máy Xanh Số 319, Đường Nguyễn Thái Học, T. 69, P. Nguyễn Thái Học",TP. Yên Bái
+816,Bình Định,13.777599,109.226467,"Điện máy Xanh Sô 320 Phan Bội Châu, Phường Lê Hồng Phong",Thành phố Quy Nhơn
+817,Lâm Đồng,11.760114,108.48307,"Điện máy Xanh Số 329-331 QL 27, Tổ dân phố nghĩa lập 1, TT. Thạnh Mỹ",H. Đơn Dương
+818,Bình Dương,11.280861,106.36387,"Điện máy Xanh Số 33 Hùng Vương, KP. 4B, TT. Dầu Tiếng",H. Dầu Tiếng
+819,Bắc Ninh,21.173927,106.065,"Điện máy Xanh Số 33 Lý Thái Tổ, P. Ninh Xá",TP. Bắc Ninh
+820,An Giang,10.432833,105.55012,"Điện máy Xanh Số 33, Xã Hội An",Huyện Chợ Mới
+821,Quảng Ngãi,14.815668,108.95391,"Điện máy Xanh Số 330 Nguyễn Nghiêm, TT. Đức Phổ",H. Đức Phổ
+822,Lào Cai,22.321897,104.18536,"Điện máy Xanh Số 34 tổ dân phố Phú Thành, TT. Phố Lu",H. Bảo Thắng
+823,Hà Nội,20.900991,105.58038,"Điện máy Xanh Số 34, tổ 2, khu Xuân Hà, TT. Xuân Mai",H. Chương Mỹ
+824,Long An,10.774706,105.93874,"Điện máy Xanh Số 341-343 Quốc lộ 62, Phường 1",Thị xã Kiến Tường
+825,Bình Dương,11.079609,106.6633,"Điện máy Xanh Số 347 đường ĐT 741, KP. Phú Nghị, P. Hòa Lợi, TX. Bến Cát",T. Bình Dương (Đối diện chợ Nhật huy
+826,Kon Tum,14.349938,108.002778,"Điện máy Xanh Số 348 - đường Trần Hưng Đạo, Phường Quyết Thắng, Thành phố Kon Tum",Tỉnh Kon Tum
+827,Bình Thuận,11.147694,107.5058,"Điện máy Xanh Số 349 đường 3/2, TT. Đức Tài",H. Đức Linh
+828,Hà Nội,20.98811,105.840264,"Điện máy Xanh Số 352 đường Giải Phóng, Phường Phương Liệt",Quận Thanh Xuân
+829,Bình Dương,11.150325,106.59536,"Điện máy Xanh Số 358 đường 30 tháng 4, tổ 11, KP.02, P. Mỹ Phước",TX. Bến Cát
+830,Gia Lai,13.954444,108.66386,Điện máy Xanh Số 359 Quang Trung,Thị Xã An Khê
+831,Hà Nội,20.960272,105.80173,"Điện máy Xanh Số 36 Cầu Bươu, Km số 3, P. Kiến Hưng",Q. Hà Đông
+832,Hà Nội,20.960272,105.80173,"Điện máy Xanh Số 36 Cầu Bươu, Km số 3, P. Kiến Hưng",Q. Hà Đông
+833,Phú Thọ,21.621004,105.18816,"Điện máy Xanh Số 36 Phố Đồng Tâm, TT. Đoan Hùng",H. Đoan Hùng
+834,Bắc Ninh,21.196345,106.08658,"Điện máy Xanh Số 360-362 đường Lý Thường Kiệt, P. Thị Cầu",TP. Bắc Ninh
+835,Hải Dương,21.112166,106.392682,"Điện máy Xanh Số 360-362 Lê Thánh Tông, Phường Phả Lại, Thành phố Chí Linh",Tỉnh Hải Dương
+836,Hà Nội,21.126168,105.50181,"Điện máy Xanh Số 366, Phường Sơn Lộc",Thị Xã Sơn Tây
+837,Hà Nội,21.126168,105.50181,"Điện máy Xanh Số 366, Phường Sơn Lộc",Thị Xã Sơn Tây
+838,Hà Nội,21.042437,105.75877,"Điện máy Xanh Số 37 Đường Cầu Diễn, Phường Phúc Diễn",Quận Bắc Từ Liêm
+839,Bạc Liêu,9.292704,105.71701,"Điện máy Xanh Số 37, Trần Huỳnh, Phường 7",Thành phố Bạc Liêu
+840,Long An,10.900014,106.39066,"Điện máy Xanh Số 372 tỉnh lộ 10, TT. Hậu Nghĩa",H. Đức Hòa
+841,Bình Định,14.438256,109.01818,"Điện máy Xanh Số 373 Quang Trung, TT. Bồng Sơn",H. Hoài Nhơn
+842,Quảng Ninh,21.010577,107.28763,"Điện máy Xanh Số 38 Trần Phú, P. Cẩm Tây",TP. Cẩm Phả
+843,Bạc Liêu,9.390333,105.59894,"Điện máy Xanh Số 383,Ấp Tam Hưng, Xã Vĩnh Hưng",Huyện Vĩnh Lợi
+844,Bắc Giang,21.272181,106.10148,"Điện máy Xanh Số 388 Thân Nhân Trung, TT. Bích Động, H. Việt Yên",T. Bắc Giang (gần Ngã tư TT Bích Động
+845,Vĩnh Phúc,21.230664,105.69456,"Điện máy Xanh Số 389A, đường Hai Bà Trưng, Khu 5, Xã Tiền Châu",Thị Xã Phúc Yên
+846,Long An,10.556257,106.62962,"Điện máy Xanh Số 39 Quốc Lộ 50, Ấp Thuận Nam, X. Thuận Thành",H. Cần Giuộc
+847,Thái Nguyên,21.907511,105.64215,"Điện máy Xanh Số 390 Hợp Thành, TT. Chợ Chu",H. Định Hóa
+848,Hà Tĩnh,18.172894,105.70265,"Điện máy Xanh Số 396 Trần Phú, TT. Hương Khê",H. Hương Khê
+849,Hà Nội,21.195735,105.42772,"Điện máy Xanh Số 406 đường Quảng Oai, TT. Tây Đằng",H. Ba Vì
+850,Bình Thuận,11.066307,108.12934,"Điện máy Xanh Số 406 Tổ 10, Khu phố 1, TT. Ma Lâm",H. Hàm Thuận Bắc
+851,Đắk Lắk,12.814855,108.07513,"Điện máy Xanh Số 41 đường Hùng Vương, Thị Trấn Quảng Phú",Huyện Cư M'Gar
+852,Hà Nội,20.962282,105.764498,"Điện máy Xanh Số 418, đường Quang Trung, Phường La Khê",Quận Hà Đông
+853,Hà Nội,21.040247,105.766603,"Điện máy Xanh Số 42 – 44 – 46 – 48 đường Tây Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm",Thành phố Hà Nội
+854,Yên Bái,21.712433,104.88785,"Điện máy Xanh Số 42 Điện Biên, Tổ 11, Phường Yên Ninh",Thành phố Yên Bái
+855,Bình Định,14.556072,108.900408,"Điện máy Xanh Số 42, Thôn Xuân Phong Nam, Xã An Hòa",Huyện An Lão
+856,Hà Nội,21.0605,105.783639,"Điện máy Xanh Số 421, Đường Phạm Văn Đồng, Tổ dân phố Hoàng 14, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm",Thành phố Hà Nội
+857,Cao Bằng,22.663492,106.25952,"Điện máy Xanh Số 44 Phố Kim Đồng, Phường Hợp Giang",Thành phố Cao Bằng
+858,Long An,10.490549,106.424859,"Điện máy Xanh Số 443/2, Ấp 2, Xã Hoà Phú",Huyện Châu Thành
+859,Đắk Lắk,12.918358,108.26476,"Điện máy Xanh Số 444 Hùng Vương, tổ dân phố 4, P. An Bình",TX. Buôn Hồ
+860,Bắc Giang,21.280662,106.19859,"Điện máy Xanh Số 45 Hùng Vương, tổ 2, P. Ngô Quyền",TP. Bắc Giang
+861,Thái Bình,20.446312,106.33643,"Điện máy Xanh Số 456 Lý Bôn, P. Đề Thám",TP. Thái Bình
+862,Lâm Đồng,11.730538,108.37223,"Điện máy Xanh Số 462 - 464 Quốc Lộ 20, Khu Phố 2, Thị Trấn Liên Nghĩa",Huyện Đức Trọng
+863,Bình Thuận,11.081969,107.68181,"Điện máy Xanh Số 466 Đường Trần Hưng Đạo, T.T Lạc Tánh",H.Tánh Linh
+864,Gia Lai,13.977613,107.99676,"Điện máy Xanh Số 47 Trần Phú, P. Diên Hồng",TP. Pleiku
+865,An Giang,10.603537,104.94673,"Điện máy Xanh Số 474-476 Hữu Nghị, khóm Xuân Hoà, TT. Tịnh Biên",H. Tịnh Biên
+866,Bà Rịa - Vũng Tàu,10.398387,107.113322,"Điện máy Xanh Số 486 đường 30/04, P. Rạch Dừa",TP. Vũng Tàu
+867,Hà Nội,20.986222,105.814222,"Điện máy Xanh Số 501-503 đường Vũ Tông Phan, Phường Khương Đình, Quận Thanh Xuân",Thành phố Hà Nội
+868,Lào Cai,22.419489,104.01961,"Điện máy Xanh Số 529 đường Hoàng Quốc Việt , P. Pom Hán ",Tp. Lào Cai 
+869,Gia Lai,13.758416,107.88902,"Điện máy Xanh Số 56 Hùng Vương, TT. Chư Prông",H. Chư Prông
+870,Đắk Lắk,13.20446,108.20691,"Điện máy Xanh Số 561 Giải Phóng, TT. Ea Drăng",H. Ea H'leo
+871,Bình Dương,11.289886,106.79455,"Điện máy Xanh Số 564 đường DT 741, TT. Phước Vĩnh",H. Phú Giáo
+872,Bình Dương,11.289886,106.79455,"Điện máy Xanh Số 564 đường DT 741, TT. Phước Vĩnh",H. Phú Giáo
+873,Bình Dương,11.098056,106.76977,"Điện máy Xanh Số 567, Ấp 1, P. Hội Nghĩa",TX. Tân Uyên
+874,Gia Lai,13.984639,108.002703,"Điện máy Xanh số 56B-58-60A Phan Đình Phùng, tổ 11, phường Tây Sơn",TP. Pleiku
+875,Bình Dương,10.906862,106.758081,"Điện máy Xanh Số 57 đường Nguyễn Trãi, Khu phố Thắng Lợi 2, P. Dĩ An, TP. Dĩ An",T
+876,Hà Nội,20.880211,105.578153,"Điện máy Xanh Số 57, đường xóm chợ, Xã Thủy Xuân Tiên",Huyện Chương Mỹ
+877,Bình Dương,10.97535,106.658341,"Điện máy Xanh Số 577-579-581 Đường Cách Mạng Tháng 8, P. Phú Cường",TP. Thủ Dầu Một
+878,Hà Nội,20.815625,105.77541,"Điện máy Xanh Số 6 Phố Vác, thôn Canh Hoạch, X. Dân Hòa",H. Thanh Oai
+879,Hà Giang,22.411714,104.80886,"Điện máy Xanh Số 602 Trường Chinh, Tổ 4, TT.Việt Quang",H.Bắc Quang
+880,Hà Nội,21.009362,105.80954,"Điện máy Xanh Số 61 Lê Văn Lương, P. Trung Hòa",Q. Cầu Giấy
+881,Đồng Tháp,10.26063,105.87553,"Điện máy Xanh Số 62, QL. 80, khóm Mỹ Phú, TT Cái Tàu Hạ",H. Châu Thành
+882,Lâm Đồng,11.787342,108.24809,"Điện máy Xanh Số 624 Hùng Vương, TT. Đinh Văn",H. Lâm Hà
+883,Bình Thuận,10.684136,107.749932,"Điện máy Xanh Số 625-627 đường Thống Nhất, Phường Tân An",Thị xã La Gi
+884,Hà Nội,21.070455,105.811764,"Điện máy Xanh Số 659 đường Lạc Long Quân, Phường Phú Thượng",Quận Tây Hồ
+885,Ninh Thuận,11.592951,108.95462,"Điện máy Xanh Số 671 đường 21/8, P.Bảo An",TP.Phan Rang - Tháp Chàm
+886,Hà Nam,20.559343,106.03012,"Điện máy Xanh Số 68 Trần Hưng Đạo, TT. Vĩnh Trụ",H. Lý Nhân
+887,Bình Phước,11.839918,106.993438,"Điện máy Xanh Số 68, đường DT 741, Phường Thác Mơ",Thị xã Phước Long
+888,Bình Phước,11.53195,106.88159,"Điện máy Xanh Số 688, Đường Quốc Lộ 14, Phường Tân Phú",Thành phố Đồng Xoài
+889,Bình Phước,11.521559,106.89373,"Điện máy Xanh Số 691 (Khu tái định cư phường Tân Bình), đường Phú Riềng Đỏ, Tổ 1, Phường Tân Bình",Thành phố Đồng Xoài
+890,Long An,10.488806,106.668167,"Điện máy Xanh Số 707, Ấp Long Hưng, Xã Long Hựu Tây",Huyện Cần Đước
+891,Hà Nội,21.030866,105.801422,"Điện máy Xanh Số 70-72-74 đường Hồ Tùng Mậu, Phường Mai Dịch, Quận Cầu Giấy",Thành phố Hà Nội
+892,Bến Tre,10.258194,106.1196,"Điện máy Xanh Số 71/7B, KP.02, TT. Chợ Lách",H. Chợ Lách
+893,Quảng Nam,15.672389,108.21661,"Điện máy Xanh Số 73-75 Phan Châu Trinh, TT. Đông Phú",H. Quế Sơn
+894,Lâm Đồng,11.535569,107.784951,"Điện máy Xanh Số 738-740-742-742A-744 đường Trần Phú, Phường Lộc Tiến, Thành phố Bảo Lộc",Tỉnh Lâm Đồng
+895,Đồng Tháp,10.879249,105.4516,"Điện máy Xanh Số 74 Nguyễn Huệ, khóm 01, TT. Sa Rài, H. Tân Hồng",T. Đồng Tháp (Ngã Tư Đèn Đỏ
+896,Bình Phước,11.481807,106.61475,"Điện máy Xanh Số 74, QL 13, Ấp 3B, X. Minh Hưng",H. Chơn Thành
+897,Hải Dương,21.003496,106.33668,"Điện máy Xanh Số 75 đường Hùng Vương, thị trấn Nam Sách",huyện Nam Sách
+898,Bình Định,13.781863,109.22102,"Điện máy Xanh Số 769 Trần Hưng Đạo, Phường Lê Hồng Phong",Thành Phố Quy Nhơn
+899,An Giang,10.359587,105.37631,"Điện máy Xanh Số 77/4 Trần Phú, TT. Phú Hòa",H. Thoại Sơn
+900,Bình Phước,11.95785,106.79644,"Điện máy Xanh Số 78, KP. Thanh Bình, TT. Thanh Bình",H. Bù Đốp
+901,Hà Nội,21.050472,105.89281,"Điện máy Xanh Số 7-9 Đường Nguyễn Văn Linh, P. Gia Thụy, Q. Long Biên",TP. Hà Nội (Tầng 2
+902,Hà Nội,21.0300373,105.7692194,"Điện máy Xanh Số 81, đường Lê Đức Thọ, Phường Mỹ Đình 2",Quận Nam Từ Liêm
+903,Hải Dương,20.966956,106.51079,"Điện máy Xanh Số 81-83-85 Quốc lộ 5, KP. Ga, TT. Phú Thái",H. Kim Thành
+904,Bắc Giang,21.354445,106.26011,"Điện máy Xanh Số 83 đường Cần Trạm, thị trấn Vôi",huyện Lạng Giang
+905,Long An,10.509044,106.6034,"Điện máy Xanh Số 83 Khu 1B , TT. Cần Đước ",H. Cần Đước 
+906,Quảng Ninh,20.974191,107.017809,"Điện máy Xanh Số 84, khu B QH khu định cư Đông Ga Hạ Long, P. Giếng Đáy, Tp. Hạ Long",Quảng Ninh (Cách Ngã Tư Ao Cá 200m
+907,Phú Thọ,21.304081,105.42165,"Điện máy Xanh Số 85 Trần Nguyên Hãn, Phường Bến Gót",Thành phố Việt Trì
+908,Lâm Đồng,12.007394,108.41706,"Điện máy Xanh Số 86 đường Lang Biang, TDP Hợp Thành, TT. Lạc Dương",H. Lạc Dương
+909,Hà Nội,21.257595,105.85758,"Điện máy Xanh Số 87, Đường Núi Đôi, Tổ 2, TT. Sóc Sơn",H. Sóc Sơn
+910,Hà Tĩnh,18.342113,105.89197,"Điện máy Xanh Số 87-89, tổ 3, P. Trần Phú",Tp. Hà Tĩnh
+911,Hà Nội,20.998777,105.838221,"Điện máy Xanh Số 88 đường Trường Chinh, phường Phương Mai",quận Đống Đa
+912,Quảng Nam,15.841117,108.28313,"Điện máy Xanh Số 90 Điện Biên Phủ, KP. Long Xuyên 2, TT. Nam Phước",H. Duy Xuyên
+913,Đồng Tháp,10.290549,105.76693,"Điện máy Xanh Số 90 Hùng Vương, Phường 1",Thành Phố Sa Đéc
+914,Hà Nội,21.00517,105.782661,"Điện máy Xanh Số 90 Miếu Đầm, Phường Mễ Trì",Quận Nam Từ Liêm
+915,Đà Nẵng,16.071215,108.15075,"Điện máy Xanh Số 908A Tôn Đức Thắng, Phường Hòa Khánh Bắc",Quận Liên Chiểu
+916,Đắk Lắk,12.484356,108.030077,"Điện máy Xanh Số 92, Thôn Quỳnh Ngọc, Xã Ea Na, Huyện Krông Ana",Tỉnh Đắk Lắk
+917,Lào Cai,22.759201,104.11282,"Điện máy Xanh Số 95 Giải Phóng, TT. Mường Khương",H. Mường Khương
+918,Trà Vinh,9.633841,106.49317,"Điện máy Xanh Số 96-98, đường 2/9, khóm 1, P. 01",TX. Duyên Hải
+919,Lâm Đồng,11.586881,108.07835,"Điện máy Xanh Số 980A - 980B - 982 đường Hùng Vương, tổ dân phố 7, TT. Di Linh",H. Di Linh
+920,Bình Dương,10.964195,106.7198,"Điện máy Xanh Số E1/9 - E1/10 Khu Dân Cư Thuận Giao, P.Thuận Giao",TP. Thuận An
+921,Lai Châu,22.400125,103.456073,"Điện máy Xanh Số nhà 118, Đường Trần Hưng Đạo, Tổ 6, Phường Đoàn Kết",Thành phố Lai Châu
+922,Đồng Tháp,10.484891,105.584048,"Điện máy Xanh Số nhà 1241, đường Quốc Lộ 30, khóm 01, phường 11",TP. Cao Lãnh
+923,Hải Dương,20.908417,106.14827,"Điện máy Xanh Số nhà 15 Đại Lộ Hùng Vương , X. Tráng Liệt, TT. Kẻ Sặt",H. Bình Giang
+924,Hà Giang,22.830936,104.985392,"Điện máy Xanh Số nhà 187, 189, 191, Đường Nguyễn Thái Học, Phường Trần Phú",Thành phố Hà Giang
+925,Bình Phước,11.418027,106.617322,"Điện máy Xanh Số nhà 21, Đường Quốc Lộ 14, Ấp 3, Xã Minh Thành, Huyện Chơn Thành",Tỉnh Bình Phước
+926,Đắk Lắk,12.408026,108.173204,"Điện máy Xanh Số nhà 248, Đường Nguyễn Tất Thành, Tổ Dân Phố Hiệp Thành, Thị Trấn Liên Sơn",Huyện Lắk
+927,Bình Phước,11.450489,106.868845,"Điện máy Xanh Số nhà 256 - 258 Đường ĐT 741, ẤP 3, Xã Tân Lập, Huyện Đồng Phú",Tỉnh Bình Phước
+928,Thái Bình,20.647531,106.422541,"Điện máy Xanh Số nhà 29-31-33 Đường Trần Hưng Đạo, Thị Trấn An Bài",H. Quỳnh Phụ
+929,Bình Phước,11.894623,106.75517,"Điện máy Xanh Số nhà 34, Đường ĐT 748, Ấp Tân Phú, Xã Tân Thành, Huyện Bù Đốp",Tỉnh Bình Phước
+930,Hà Tĩnh,18.366357,105.86297,"Điện máy Xanh Số nhà 39, Đường Lý Tự Trọng, Tổ dân Phố 5, TT. Thạch Hà",H. Thạch Hà
+931,Bình Phước,11.853523,106.939908,"Điện máy Xanh Số nhà 40, Đường ĐT 760, Tổ 1, Thôn 3, Xã Phú Văn, Huyện Bù Gia Mập",Tỉnh Bình Phước
+932,Hòa Bình,20.712599,105.32561,"Điện máy Xanh Số nhà 42, Khu 3, TT.Cao Phong",H.Cao Phong
+933,Bình Dương,10.946978,106.740078,"Điện máy Xanh Số nhà 43/1A đường 22/12, khu phố 1A, phường An Phú",thành phố Thuận An
+934,Thái Nguyên,21.546303,105.870246,"Điện máy Xanh Số nhà 442/1, Đường Cách mạng Tháng 8, Phường Trung Thành",thành phố Thái Nguyên
+935,Long An,10.600073,106.40364,"Điện máy Xanh Số nhà 81, Phan Văn Tình, TT. Thủ Thừa",H. Thủ Thừa
+936,Phú Thọ,21.438459,105.25549,"Điện máy Xanh Số nhà 84, khu 15, xã Phú Hộ",TX. Phú Thọ
+937,Hà Nội,20.983359,105.80886,"Điện máy Xanh Tầng 1 Tòa nhà CT2 Eco Green City, KĐT. Tây Nam Kim Giang I, X. Tân Triều",H. Thanh Trì
+938,Vĩnh Phúc,21.3534486,105.6321826,"Điện máy Xanh TDP Cổ Độ, thị trấn Gia Khánh",huyện Bình Xuyên
+939,Vĩnh Phúc,21.2458265,105.621262,"Điện máy Xanh TDP. Độc Lập, thị trấn Thanh Lãng",huyện Bình Xuyên
+940,Hòa Bình,20.593884,105.68032,Điện máy Xanh Thị Trấn Ba Hàng Đồi,Huyện Lạc Thủy
+941,Thái Nguyên,21.451692,105.779871,Điện máy Xanh Thị trấn Bắc Sơn,huyện Phổ Yên
+942,Bắc Giang,21.477358,106.12692,Điện máy Xanh Thị trấn Cầu Gồ,Huyện Yên Thế
+943,Phú Thọ,21.35641,105.29336,Điện máy Xanh Thị trấn Hùng Sơn,huyện Lâm Thao
+944,Lai Châu,22.383719,102.801589,Điện máy Xanh Thị trấn Mường Tè,Huyện Mường Tè
+945,Bắc Giang,21.4384071,106.0984678,Điện máy Xanh Thị trấn Nhã Nam,huyện Tân Yên
+946,Hà Giang,22.62591,104.9576,Điện máy Xanh Thị trấn Nông Trường Việt Lâm,huyện Vị Xuyên
+947,Bắc Ninh,21.152481,106.158226,Điện máy Xanh Thị trấn Phố Mới,Huyện Quế Võ
+948,Phú Thọ,21.40756,105.31308,Điện máy Xanh Thị trấn Phong Châu,huyện Phù Ninh
+949,Long An,10.834766,105.666972,Điện máy Xanh Thị trấn Tân Hưng,huyện Tân Hưng
+950,Long An,10.6548084,106.1832117,Điện máy Xanh Thị trấn Thạnh Hoá,huyện Thạnh Hoá
+951,An Giang,10.428994,105.00149,Điện máy Xanh Thị trấn Tri Tôn,huyện Tri Tôn
+952,An Giang,10.575479,105.238893,Điện máy Xanh Thị trấn Vĩnh Thạnh Trung,Huyện Châu Phú
+953,Hà Giang,22.413518,104.578647,Điện máy Xanh Thị trấn Yên Bình,huyện Quang Bình
+954,Hải Dương,20.895087,106.518554,"Điện máy Xanh Thị tứ Đồng Gia, xã Đồng Gia( nay là xã Đồng Cẩm)",huyện Kim Thành
+955,Vĩnh Phúc,21.270944,105.5085,"Điện máy Xanh Thôn 1, X. Đại Đồng",H. Vĩnh Tường
+956,Hà Tĩnh,18.217041,106.088907,"Điện máy Xanh Thôn 10, xã Cẩm Trung",huyện Cẩm Xuyên
+957,Kon Tum,15.074833,107.741203,"Điện máy Xanh Thôn 16/5, thị trấn Đăk Glei",huyện Đăk Glei
+958,Bình Thuận,11.062734,107.474415,"Điện máy Xanh Thôn 1A, xã Trà Tân",huyện Đức Linh
+959,Quảng Nam,15.582334,108.10774,"Điện máy Xanh Thôn 2, TT. Tân An",H. Hiệp Đức
+960,Bình Phước,11.712782,107.140044,"Điện máy Xanh Thôn 2, Xã Đức Liễu",Huyện Bù Đăng
+961,Lâm Đồng,11.580233,108.074181,"Điện máy Xanh Thôn 2, Xã Hoà Nam",Huyện Di Linh
+962,Hà Nội,21.171769,105.673405,"Điện máy Xanh Thôn 2, Xã Thạch Đà",Huyện Mê Linh
+963,Hà Nội,21.171769,105.673405,"Điện máy Xanh Thôn 2, Xã Thạch Đà",Huyện Mê Linh
+964,Thái Bình,20.400879,106.384613,"Điện máy Xanh Thôn 2, Xã Vũ Quý",Huyện Kiến Xương
+965,Đắk Lắk,12.635535,108.196109,"Điện máy Xanh Thôn 22, Xã EaNing",Huyện Cư Kuin
+966,Đắk Lắk,13.250749,108.15509,"Điện máy Xanh Thôn 3, Xã Ea Ral",Huyện Ea H’leo
+967,Bình Thuận,11.210164,107.701609,"Điện máy Xanh Thôn 3, Xã Măng Tố",Huyện Tánh Linh
+968,Bình Phước,11.885002,106.872659,"Điện máy Xanh Thôn 4, xã Đa Kia",huyện Bù Gia Mập
+969,Hà Nội,21.12856,105.3507,"Điện máy Xanh Thôn 5, Xã Ba Trại",Huyện Ba Vì
+970,Đắk Lắk,12.711506,108.299818,"Điện máy Xanh Thôn 6A, Xã Ea Kly, Huyện Krông Pắc",Tỉnh Đắk Lắk
+971,Quảng Nam,15.781259,108.32893,"Điện máy Xanh Thôn 8, Quốc lộ 1A, xã Hương An",H. Quế Sơn
+972,Kon Tum,14.506041,108.241512,"Điện máy Xanh Thôn 9, xã Đăk Ruồng",huyện Kon Rẫy
+973,Thái Bình,20.435401,106.422968,"Điện máy Xanh Thôn An Cơ, xã Thanh Tân",huyện Kiến Xương
+974,Ninh Thuận,11.717315,109.061698,"Điện máy Xanh Thôn Ấn Đạt, xã Lợi Hải",huyện Thuận Bắc
+975,Quảng Ngãi,15.119374,108.741222,"Điện máy Xanh Thôn An Hội Bắc, Xã Nghĩa Kỳ",Huyện Tư Nghĩa
+976,Quảng Ngãi,15.304875,108.75707,"Điện máy Xanh Thôn An Lộc Bắc, xã Bình Trị, huyện Bình Sơn",tỉnh Quảng Ngãi
+977,Hà Nam,20.415189,106.008221,"Điện máy Xanh Thôn An Ninh, xã An Lão",huyện Bình Lục
+978,Bắc Ninh,21.19837,105.953489,"Điện máy Xanh Thôn An Ninh, xã Yên Phụ",huyện Yên Phong
+979,Thái Bình,20.435968,106.456746,"Điện máy Xanh Thôn An Thái, xã Lê Lợi",huyện Kiến Xương
+980,Hà Giang,22.414438,104.805916,"Điện máy Xanh Thôn An Tiến, xã Hùng An",huyện Bắc Quang
+981,Hà Giang,22.197827,104.774768,"Điện máy Xanh Thôn An Xuân, xã Đồng Yên",huyện Bắc Quang
+982,Ninh Bình,20.22299,105.84354,"Điện máy Xanh Thôn Anh Trỗi, Xã Quỳnh Lưu",Huyện Nho quan
+983,Vĩnh Phúc,21.216079,105.511778,"Điện máy Xanh Thôn Bắc Cường, Thị Trấn Thổ Tang, Huyện Vĩnh Tường",Tỉnh Vĩnh Phúc
+984,Lào Cai,22.379875,104.243626,"Điện máy Xanh Thôn Bắc Ngầm, Xã Xuân Quang",huyện Bảo Thắng
+985,Hà Nội,20.682524,105.957172,"Điện máy Xanh Thôn Bái Đô, Xã Tri Thuỷ",Huyện Phú Xuyên
+986,Hải Dương,20.956324,106.166734,"Điện máy Xanh Thôn Bình Long, xã Lương Điền",huyện Cẩm Giàng
+987,Vĩnh Phúc,21.4965678,105.4911699,"Điện máy Xanh Thôn Bỉnh Ri, xã Hợp Lý",huyện Lập Thạch
+988,Hà Nội,20.95261,105.61531,"Điện máy Xanh Thôn Cấn Thượng, Xã Cấn Hữu",Huyện Quốc Oai
+989,Bắc Ninh,21.06267,106.22835,"Điện máy Xanh Thôn Cầu Đào, Xã Nhân Thắng",Huyện Gia Bình
+990,Hải Dương,20.909712,106.147222,"Điện máy Xanh Thôn Cậy, Xã Long Xuyên, Huyện Bình Giang",Tỉnh Hải Dương
+991,Hà Nội,20.719108,105.833312,"Điện máy Xanh Thôn Chẩn Kỳ, Xã Trung Tú",Huyện Ứng Hòa
+992,Bình Định,14.169932,109.041748,"Điện máy Xanh Thôn Chánh Giáo, xã Mỹ An, huyện Phù Mỹ",tỉnh Bình Định
+993,Bình Định,14.15831,109.12243,"Điện máy Xanh Thôn Chánh Thiện, Xã Mỹ Chánh",Huyện Phù Mỹ
+994,Bình Định,14.2167101,109.161293,"Điện máy Xanh Thôn Chánh Trực, xã Mỹ Thọ",huyện Phù Mỹ
+995,Hà Nội,21.352717,105.828506,"Điện máy Xanh Thôn Chấu, xã Bắc Sơn",Huyện Sóc Sơn
+996,Quảng Bình,17.799026,106.235244,"Điện máy Xanh Thôn Chợ Cuồi, Xã Tiến Hóa",Huyện Tuyên Hóa
+997,Hà Nội,20.8885,105.763,"Điện máy Xanh Thôn Chợ, xã Bình Minh",huyện Thanh Oai
+998,Hà Nội,20.967497,105.955519,"Điện máy Xanh Thôn Chu Xá, Xã Kiêu Kỵ",Huyện Gia Lâm
+999,Lâm Đồng,11.57682,108.386277,"Điện máy Xanh Thôn Đà Lâm, Xã Đà Loan",Huyện Đức Trọng
+1000,Bình Định,14.169932,109.041748,"Điện máy Xanh Thôn Đại Thuận, Xã Mỹ Hiệp, Huyện Phú Mỹ",Tỉnh Bình Định
+1001,Hà Nội,21.146564,105.84597,"Điện máy Xanh Thôn Đản Mỗ, X. Uy Nỗ",H. Đông Anh
+1002,Hà Nội,21.179675,105.302623,"Điện máy Xanh Thôn Đan Thê, Xã Sơn Đà",Huyện Ba Vì
+1003,Bắc Giang,21.292113,105.956634,"Điện máy Xanh Thôn Đoài, Xã Bắc Lý",Huyện Hiệp Hòa
+1004,Hà Nội,21.14052,105.86865,"Điện máy Xanh Thôn Đoài, Xã Việt Hùng",Huyện Đông Anh
+1005,Hà Nội,21.048354,105.50521,"Điện máy Xanh Thôn Đoàn Kết, xã Cổ Đông",TX. Sơn Tây
+1006,Tuyên Quang,21.9413676,105.224051,"Điện máy Xanh Thôn Đội 4 Sơn Hạ, xã Xuân Vân",huyện Yên Sơn
+1007,Vĩnh Phúc,21.31105,105.61971,"Điện máy Xanh Thôn Đôn Hậu, P. Khai Quang",TP. Vĩnh Yên
+1008,Quảng Ngãi,15.367457,108.72572,"Điện máy Xanh Thôn Đông Bình, Xã Bình Chánh",Huyện Bình Sơn
+1009,Thái Bình,20.65531,106.323904,"Điện máy Xanh Thôn Đông Hòe, xã Đồng Tiến",huyện Quỳnh Phụ
+1010,Hà Nội,20.921719,105.704747,"Điện máy Xanh Thôn Đồng Nanh, xã Tiên Phương",huyện Chương Mỹ
+1011,Quảng Ninh,21.063673,107.41335,"Điện máy Xanh Thôn Đông Sơn, X. Đông Xá, H. Vân Đồn",T. Quảng Ninh (Đối diện Cây xăng cũ
+1012,Bắc Ninh,21.189072,106.00578,"Điện máy Xanh Thôn Đông Yên, X. Đông Phong",H. Yên Phong
+1013,Hà Nội,21.199257,105.84879,"Điện máy Xanh Thôn Đông, X. Phù Lỗ",H. Sóc Sơn
+1014,Thái Bình,20.392169,106.543908,"Điện máy Xanh Thôn Đức Cơ, xã Đông Cơ",huyện Tiền Hải
+1015,Quảng Nam,15.746623,107.833435,"Điện máy Xanh Thôn Dung, Thị trấn Thạnh Mỹ",Huyện Nam Giang
+1016,Quảng Nam,15.850192,108.249785,"Điện máy Xanh Thôn Hà An, xã Điện Phong",thị xã Điện Bàn
+1017,Quảng Nam,15.844873,108.3293739,"Điện máy Xanh Thôn Hà Mỹ, Xã Duy Vinh",Huyện Duy Xuyên
+1018,Quảng Nam,15.851035,108.0131129,"Điện máy Xanh Thôn Hà Nha, xã Đại Đồng",huyện Đại Lộc
+1019,Hà Nội,21.15286,105.90008,"Điện máy Xanh Thôn Hà Phong, Xã Liên Hà",Huyện Đông Anh
+1020,Hải Dương,20.7822002,106.4546077,"Điện máy Xanh Thôn Hàm Hy, Xã Cộng Lạc, HuyệnTứ Kỳ",Tỉnh Hải Dương
+1021,Ninh Thuận,11.577938,108.92477,"Điện máy Xanh Thôn Hiếu Lễ, Xã Phước Hậu",Huyện Ninh Phước
+1022,Hà Nội,21.028534,105.518015,"Điện máy Xanh Thôn Hòa Lạc, xã Bình Yên",Huyện Thạch Thất
+1023,Hà Nội,21.16278,105.70723,"Điện máy Xanh Thôn Khê Ngoại 1, Xã Văn Khê",Mê Linh
+1024,Bắc Giang,21.344085,106.493931,"Điện máy Xanh Thôn Kim 1, Xã Phượng Sơn",Huyện Lục Ngạn
+1025,Quảng Nam,15.53612,108.436097,"Điện máy Xanh Thôn kỳ phú, xã Tam Phước",huyện Phú Ninh
+1026,Hà Nội,21.096527,105.92791,"Điện máy Xanh Thôn Lã Côi, X. Yên Viên",H. Gia Lâm
+1027,Kon Tum,14.311836,107.927928,"Điện máy Xanh Thôn Lâm Tùng, xã Ia Chim",thành phố Kon Tum
+1028,Tuyên Quang,21.74671,105.09051,"Điện máy Xanh Thôn Lập Thành, xã Mỹ Bằng",huyện Yên Sơn
+1029,Hà Nội,21.0714014,105.3200319,Điện máy Xanh Thôn Lặt,Xã Minh Quang
+1030,Đà Nẵng,15.965236,108.180582,"Điện máy Xanh Thôn Lệ Sơn 1, Xã Hòa Tiến",Huyện Hòa Vang
+1031,Hà Nội,21.157489,105.412279,"Điện máy Xanh Thôn Liên Minh, Xã Thụy An",Huyện Ba Vì
+1032,Lâm Đồng,11.74672,108.19606,"Điện máy Xanh Thôn Liên Trung, Xã Tân Hà",Huyện Lâm Hà
+1033,Bắc Giang,21.389332,106.649324,"Điện máy Xanh Thôn Lim, Xã Giáp Sơn, Huyện Lục Ngạn",Tỉnh Bắc Giang
+1034,Thái Bình,20.507095,106.546856,"Điện máy Xanh Thôn Lục Nam, xã Thái Xuyên",huyện Thái Thuỵ
+1035,Yên Bái,21.5955536,104.7645004,"Điện máy Xanh Thôn Lương An, xã Hưng Khánh",huyện Trấn Yên
+1036,Ninh Thuận,11.62942,108.995934,"Điện máy Xanh Thôn Lương Cách, Xã Hộ Hải",Huyện Ninh Hải
+1037,Bắc Giang,21.31067,106.03986,"Điện máy Xanh Thôn Mai Thượng 3, Xã Hương Mai",Huyện Việt Yên
+1038,Bắc Ninh,21.154699,106.142054,"Điện máy Xanh Thôn Mao Dộc, xã Phượng Mao",H. Quế Võ
+1039,Bắc Ninh,21.154333,106.14677,"Điện máy Xanh Thôn Mao Trung, X. Phượng Mao",h. Quế Võ
+1040,Gia Lai,13.445461,108.443012,"Điện máy Xanh Thôn Marin II, xã Ia Marơn",huyện Ia Pa
+1041,Ninh Thuận,11.582492,109.116129,"Điện máy Xanh Thôn Mỹ Tường 2, xã Nhơn Hải",huyện Ninh Hải
+1042,Hà Tĩnh,18.6616,105.756349,"Điện máy Xanh Thôn Nam Sơn, xã Cương Gián",huyện Nghi Xuân
+1043,Hà Nội,20.851944,105.60172,"Điện máy Xanh Thôn Nam Sơn, xã Nam Phương Tiến",H. Chương Mỹ
+1044,Quảng Nam,15.924666,107.649618,"Điện máy Xanh Thôn Ngã Ba, Thị Trấn PRao",huyện Đông Giang
+1045,Yên Bái,21.489107,104.723772,"Điện máy Xanh Thôn Ngã Ba, xã Cát Thịnh",huyện Văn Chấn
+1046,Bắc Giang,21.413059,106.189055,"Điện máy Xanh Thôn Ngoài, xã Tiên Lục",huyện Lạng Giang
+1047,Phú Thọ,21.623811,105.184327,"Điện máy Xanh Thôn Ngọc Chúc 1, xã Chí Đám",huyện Đoan Hùng
+1048,Hà Nội,20.923531,105.84965,"Điện máy Xanh Thôn Ngọc Hồi, X. Ngọc Hồi, H. Thanh Trì",TP. Hà Nội (Cạnh cầu Ngọc Hồi
+1049,Thái Bình,20.618422,106.247648,"Điện máy Xanh Thôn Nhân Phú, xã Hùng Dũng",huyện Hưng Hà
+1050,Bình Định,13.9316935,109.1564369,"Điện máy Xanh Thôn Nhơn Thiện , xã Nhơn Hạnh",thị xã An Nhơn
+1051,Ninh Thuận,11.525722,108.929336,"Điện máy Xanh Thôn Ninh Quý, xã Phước Sơn",huyện Ninh Phước
+1052,Thái Bình,20.472225,106.314484,"Điện máy Xanh Thôn Ô Mễ 2, Xã Tân Phong",Huyện Vũ Thư
+1053,Bắc Giang,21.38851,106.75259,"Điện máy Xanh Thôn Phố Biển, xã Biển Động",huyện Lục Ngạn
+1054,Thái Bình,20.549411,106.46434,"Điện máy Xanh Thôn Phong Lẫm, Xã Thuỵ Phong",Huyện Thái Thuỵ
+1055,Vĩnh Phúc,21.429134,105.420417,"Điện máy Xanh Thôn Phú Cường, xã Lãng Công",huyện Sông Lô
+1056,Hà Nam,20.417029,105.918606,"Điện máy Xanh Thôn Phú Gia, Xã Thanh Nguyên",Huyện Thanh Liêm
+1057,Bình Thuận,10.927914,108.041879,"Điện máy Xanh Thôn Phú Hưng, xã Hàm Mỹ",huyện Hàm Thuận Nam
+1058,Hải Dương,20.9761274,106.2491427,"Điện máy Xanh Thôn Phú Lộc, xã Cẩm Vũ",huyện Cẩm Giàng
+1059,Hải Dương,20.722926,106.251355,"Điện máy Xanh Thôn Phù Tải, xã Thanh Giang",huyện Thanh Miện
+1060,Hà Nội,21.019447,105.96525,"Điện máy Xanh Thôn Phú Thụy, Xã Phú Thị",huyện Gia Lâm
+1061,Bình Định,13.857829,109.187925,"Điện máy Xanh Thôn Phụng Sơn, xã Phước Sơn",huyện Tuy Phước
+1062,Quảng Nam,15.67233,108.221194,"Điện máy Xanh Thôn Phước Đức, Xã Quế Châu, Huyện Quế Sơn ",Tỉnh Quảng Nam
+1063,Quảng Nam,15.85278,108.12142,"Điện máy Xanh Thôn Quảng Huế, Xã Đại An",Huyện Đại Lộc
+1064,Quảng Nam,15.7129136,108.3402294,"Điện máy Xanh Thôn Quý Thạnh 1, Xã Bình Quý",Huyện Thăng Bình
+1065,Hà Nội,20.867932,105.660907,"Điện máy Xanh Thôn Quyết Tiến, Xã Hữu Văn",Huyện Chương Mỹ
+1066,Lâm Đồng,11.8505873,108.2136037,"Điện máy Xanh Thôn R'lơm, Xã Đạ Đờn",Huyện Lâm Hà
+1067,Bắc Giang,21.40928,106.27895,"Điện máy Xanh Thôn Sậm, X. Tân Thịnh",H. Lạng Giang
+1068,Quảng Nam,15.525337,108.42267,"Điện máy Xanh Thôn Tam Dân, Xã Tam Dân",Huyện Phú Ninh
+1069,Phú Thọ,21.351828,105.05877,"Điện máy Xanh Thôn Tân An 4, Thị Trấn Yên Lập",Huyện Yên Lập
+1070,Quảng Nam,15.883077,108.112594,"Điện máy Xanh Thôn Tân An, xã Đại Lãnh",Huyện Đại Lộc
+1071,Bình Phước,11.731028,106.872973,"Điện máy Xanh Thôn Tân Lực, Xã Bù Nho",Huyện Phú Riềng
+1072,Đắk Lắk,13.03619,108.327722,"Điện máy Xanh Thôn Tân Quảng, Xã Ea Tóh, Huyện Krông Năng",Tỉnh Đắk Lắk
+1073,Bình Định,14.360457,108.963894,"Điện máy Xanh Thôn Tân Thạnh, Xã Ân Tường Tây, Huyện Hoài Ân",Tỉnh Bình Định
+1074,Vĩnh Phúc,21.496402,105.533082,"Điện máy Xanh Thôn Tân Tiến, Xã Đạo Trù",Huyện Tam Đảo
+1075,Hà Nội,21.207222,105.792611,"Điện máy Xanh Thôn Tân Trại, Xã Phú Cường, Huyện Sóc Sơn",Thành phố Hà Nội
+1076,Hải Dương,21.03322,106.4317,"Điện máy Xanh Thôn Thái Mông, Xã Quang Thành",Thị xã Kinh Môn
+1077,Thái Bình,20.391773,106.303406,"Điện máy Xanh Thôn Thái, xã Nguyên Xá",huyện Vũ Thư
+1078,Thái Bình,20.550935,106.27968,"Điện máy Xanh Thôn Thần Khê, xã Thăng Long",huyện Đông Hưng
+1079,Bắc Ninh,21.1547,106.151861,"Điện máy Xanh Thôn Thành Dền, xã Đào Viên",huyện Quế Võ
+1080,Quảng Bình,17.69529,106.47792,"Điện máy Xanh Thôn Thanh Khê, Xã Thanh Trạch",Huyện Bố Trạch
+1081,Hà Nội,21.242842,105.735838,"Điện máy Xanh Thôn Thanh Vân, xã Tân Dân",huyện Sóc Sơn
+1082,Bình Định,14.489327,109.089202,"Điện máy Xanh Thôn Thạnh Xuân Bắc, Xã Hoài Hương",Huyện Hoài Nhơn
+1083,Bắc Ninh,21.04254,106.28439,"Điện máy Xanh Thôn Thấp Dương, xã Trung Kênh",huyện Lương Tài
+1084,Lào Cai,22.208422,104.205051,"Điện máy Xanh Thôn Thị Tứ, Xã Võ Lao",Huyện Văn Bàn
+1085,Hà Nội,20.982784,105.92012,"Điện máy Xanh Thôn Thuận Tốn, X. Đa Tốn",H. Gia Lâm
+1086,Bình Định,13.96165,108.824922,"Điện máy Xanh Thôn Thượng Giang, xã Tây Giang",huyện Tây Sơn
+1087,Hà Nội,21.175265,105.73107,"Điện máy Xanh Thôn Thường Lệ, xã Đại Thịnh",H. Mê Linh
+1088,Thái Bình,20.558369,106.501274,"Điện máy Xanh Thôn Thượng Phúc , xã Thụy Sơn",huyện Thái Thụy
+1089,Vĩnh Phúc,21.395401,105.618202,"Điện máy Xanh Thôn Tích Cực, xã Hợp Châu",huyện Tam Đảo
+1090,Yên Bái,21.878024,104.688824,"Điện máy Xanh Thôn Trái Hút, Xã An Bình",Huyện Văn Yên
+1091,Hà Nội,20.927242,105.71234,"Điện máy Xanh Thôn Tràng An, TT. Chúc Sơn",H. Chương Mỹ
+1092,Quảng Nam,15.719382,108.059844,"Điện máy Xanh Thôn Trung Phước 3, xã Quế Trung",huyện Nông Sơn
+1093,Yên Bái,21.8678984,104.6504141,"Điện máy Xanh Thôn Trung Tâm ( Nay thôn Yên Thịnh ), xã An Thịnh",huyện Văn Yên
+1094,Lào Cai,22.762226,104.106599,"Điện máy Xanh Thôn Trung Tâm, xã Bản Lầu",huyện Mường Khương
+1095,Bắc Giang,21.356146,105.978537,"Điện máy Xanh Thôn Trung Thành, Xã Hùng Sơn, Huyện Hiệp Hòa",Tỉnh Bắc Giang
+1096,Hà Nội,20.76567,105.76858,"Điện máy Xanh Thôn Trung Thịnh, Xã Trường Thịnh",Huyện Ứng Hoà
+1097,Bình Định,13.827818,109.165588,"Điện máy Xanh Thôn Trung Tín 2, Thị Trấn Tuy Phước",Huyện Tuy Phước
+1098,Lâm Đồng,11.945389,108.49683,"Điện máy Xanh Thôn Tự Phước, P.11",Tp. Đà Lạt
+1099,Bắc Ninh,21.035008,106.03899,"Điện máy Xanh Thôn Tư Thế, xã Trí Quả",Huyện Thuận Thành
+1100,Bình Định,13.828164,109.17005,"Điện máy Xanh Thôn Tùng Giản, xã Phước Hoà",huyện Tuy Phước
+1101,Đà Nẵng,15.990952,108.140308,"Điện máy Xanh Thôn Túy Loan Đông 1, Xã Hòa Phong",Huyện Hoà Vang
+1102,Hà Nội,21.00561,105.72058,"Điện máy Xanh Thôn Vân Lũng, Xã An Khánh",Huyện Hoài Đức
+1103,Bình Định,13.911015,108.91608,"Điện máy Xanh Thôn Vân Tường, Xã Bình Hoà, Huyện Tây Sơn",Tỉnh Bình Định
+1104,Thái Bình,20.560814,106.566409,"Điện máy Xanh Thôn Văn Văn Tây, xã Thái Hưng",huyện Thái Thụy
+1105,Thái Bình,20.560814,106.566409,"Điện máy Xanh Thôn Vạn Xuân Đông, xã Thụy Xuân",huyện Thái Thụy
+1106,Hà Nội,21.140395,105.849147,"Điện máy Xanh Thôn Vang, Xã Cổ Loa",Huyện Đông Anh
+1107,Hà Nội,20.68847,105.69914,"Điện máy Xanh Thôn Viêm Khê, Hợp Tiến",Mỹ Đức
+1108,Thái Bình,20.343242,106.541817,"Điện máy Xanh Thôn Việt Hùng, Xã Nam Trung",Huyện Tiền Hải
+1109,Quảng Bình,17.73839,106.3915,"Điện máy Xanh Thôn Vĩnh Lộc, xã Quảng Lộc",thị xã Ba Đồn
+1110,Bình Định,14.0623472,109.0450519,"Điện máy Xanh Thôn Vĩnh Trường, Xã Cát Hanh",Huyện Phù Cát
+1111,Vĩnh Phúc,21.336487,105.462495,"Điện máy Xanh Thôn Vọng Sơn, xã Triều Đề",huyện Lập Thạch
+1112,Hà Nội,21.190947,105.644692,"Điện máy Xanh Thôn Xa Mạc, Xã Liên Mạc",Huyện Mê Linh
+1113,Quảng Bình,17.21325,106.853306,"Điện máy Xanh Thôn Xóm Mới, xã Hưng Thủy",huyện Lệ Thủy
+1114,Hà Nội,21.122682,105.389036,"Điện máy Xanh Thôn Yên Thành, Xã Tản Lĩnh",Ba Vì
+1115,Hòa Bình,20.814303,105.334352,"Điện máy Xanh Thửa 232 và 233, tờ bản đồ số 35, phố Bãi Nai 2. Xã Mông Hóa",Huyện Kỳ Sơn
+1116,Bình Dương,11.240653,106.636597,"Điện máy Xanh Thửa đất 1177 và 1178, tờ bản đồ 43, ấp Đồng Sổ, xã Lai Uyên",huyện Bàu Bàng
+1117,Hà Nội,21.0077813,105.5565582,"Điện máy Xanh Thửa đất 12, Tờ bản đồ số 10, thôn 5, xã Hạ Bằng",huyện Thạch Thất
+1118,Bình Thuận,11.032274,108.163188,"Điện máy Xanh Thửa đất số 1023, Tờ bản đồ số 01 (10-224458+230458+224464), Thôn 02, Xã Hàm Đức, Huyện Hàm Thuận Bắc",Tỉnh Bình Thuận
+1119,An Giang,10.541575,105.144705,"Điện máy Xanh Thửa đất số 11 và 160, tờ bản đồ số 39, Xã Thạnh Mỹ Tây, Huyện Châu Phú",Tỉnh An Giang
+1120,Quảng Nam,15.821793,108.248731,"Điện máy Xanh Thửa đất số 121a, Tờ bản đồ số 5, Xã Duy Trung",Huyện Duy Xuyên
+1121,Phú Thọ,21.28301,105.255742,"Điện máy Xanh Thửa đất số 129, tờ bản đồ số 11, Khu 13, Xã Cổ Tiết",Huyện Tam Nông
+1122,Bình Thuận,10.8659666,107.922061,"Điện máy Xanh Thửa đất số 142A, tờ bản đồ số 05, thôn Minh Tiến, xã Hàm Minh",huyện Hàm Thuận Nam
+1123,Bạc Liêu,9.557174,105.448354,"Điện máy Xanh Thửa đất số 193, tờ bản đồ số 17, ấp Kinh Xáng, xã Lộc Ninh",huyện Hồng Dân
+1124,Quảng Nam,15.43069,108.658075,"Điện máy Xanh Thửa đất số 271, tờ bản đồ số 04, địa chỉ: xã Tam Tiến",Huyện Núi Thành
+1125,Quảng Ninh,21.039888,106.726011,"Điện máy Xanh Thửa đất số 47, tờ bản đồ số 17, thôn Bí Trung, xã Phương Đông",thị xã Uông Bí
+1126,Long An,10.9310801,106.2012858,"Điện máy Xanh Thửa đất số 4738, tờ bản đồ số 06, Ấp 2, xã Mỹ Quý Tây",huyện Đức Huệ
+1127,Bến Tre,10.133704,106.464233,"Điện máy Xanh Thửa đất số 53, tờ bản đồ số 15, Ấp 1, Xã Tân Hào",Huyện Giồng Trôm
+1128,Long An,10.886605,105.789215,"Điện máy Xanh Thửa Đất số 577, Tờ bản đồ số 14, Đường Hoàng Hoa Thám, Khu phố 4, Thị Trấn Vĩnh Hưng, Huyện Vĩnh Hưng",Tỉnh Long An
+1129,Quảng Ngãi,14.8491888,108.9386246,"Điện máy Xanh Thửa đất số 765, tờ bản đồ số 07, xã Phổ Văn",huyện Đức Phổ
+1130,Bình Định,13.9488397,109.0752391,"Điện máy Xanh Thửa đất số 868, tờ bản đồ số 10, xã Nhơn Thành",huyện An Nhơn
+1131,Long An,10.7284877,106.0585208,"Điện máy Xanh Thửa đất: 689-690, tờ bản đồ: 6, thị trấn Bình Phong Thạnh",huyện Mộc Hoá
+1132,Long An,10.893379,106.395796,"Điện máy Xanh Thửa đất: 808 - 902, tờ bản đồ: 12, ấp Nhơn Hoà 1, xã Đức Hoà Thượng",huyện Đức Hoà
+1133,Hà Giang,23.065028,104.99302,"Điện máy Xanh Thửa số 100,303,304, tờ bản đồ số 23, tổ 3, thị trấn Tam Sơn",Huyện Quản Bạ
+1134,Bạc Liêu,9.226082,105.41254,"Điện máy Xanh Thửa số 102, Quốc Lộ 1A, khóm 2, P. Hộ Phòng",TX. Giá Rai
+1135,Hải Dương,20.9303139,106.4308688,"Điện máy Xanh Thửa số 103/1+3 và 103 và 121, Tờ bản đồ 04, Xã Cẩm Chế",huyện Thanh Hà
+1136,Thái Nguyên,21.75633,106.070901,"Điện máy Xanh Thửa số 328 và 329 tờ bản đồ 82 xóm Làng Đèn, xã Tràng Xá",huyện Võ Nhai
+1137,Lai Châu,22.533391,103.355898,"Điện máy Xanh Thửa số 36, bản đồ số 92, bản Khổng Lào, xã Khổng Lào",huyện Phong Thổ
+1138,Thái Nguyên,21.5897463,105.9520043,"Điện máy Xanh Thửa số 618,619,601 tờ bản đồ số 17, tổ 8, thị trấn Trại Cau",huyện Đồng Hỷ
+1139,Hòa Bình,20.871303,105.52932,"Điện máy Xanh Tiểu khu 13, TT.Lương Sơn",H.Lương Sơn
+1140,Hòa Bình,20.659882,105.08264,"Điện máy Xanh Tiểu khu 4, TT. Mai Châu",H. Mai Châu
+1141,Bắc Giang,21.200801,106.24942,"Điện máy Xanh Tiểu khu 4, TT. Neo",H. Yên Dũng
+1142,Thái Nguyên,21.725225,105.70822,"Điện máy Xanh Tiểu Khu An Thái, Thị Trấn Đu",Huyện Phú Lương
+1143,Hòa Bình,20.877544,105.252772,"Điện máy Xanh Tiểu khu Liên Phương, Thị Trấn Đà Bắc, Huyện Đà Bắc",Tỉnh Hòa Bình
+1144,Hà Nội,20.78175,105.91677,"Điện máy Xanh Tiểu khu Phú Thịnh, Thị trấn Phú Minh",Huyện Phú Xuyên
+1145,Hải Dương,20.898012,106.42037,"Điện máy Xanh Tỉnh lộ 390, Thôn Xuân An, X. Thanh Khê",H. Thanh Hà
+1146,Đắk Lắk,12.769245,107.990269,"Điện máy Xanh Tỉnh lộ 685, Thôn 18B, xã Ea Bar",huyện Buôn Đôn
+1147,Trà Vinh,9.910647,106.15191,"Điện máy Xanh Tỉnh lộ 911, ấp Tân An Chợ, X. Tân An",H. Càng Long
+1148,An Giang,10.456707,105.29593,"Điện máy Xanh Tỉnh lộ 941, Ấp Cần Thạnh, X. Cần Đăng",H. Châu Thành
+1149,An Giang,10.505829,105.49221,"Điện máy Xanh Tỉnh lộ 942, TT, Mỹ Luông",H. Chợ Mới
+1150,Bình Phước,11.65963,106.89913,"Điện máy Xanh Tổ 05, thôn Phú Cường, X. Phú Riềng",H. Phú Riềng
+1151,Quảng Nam,15.759022,108.394777,"Điện máy Xanh Tổ 06, thôn Phước Ấm, xã Bình Triều",huyện Thăng Bình
+1152,Bắc Kạn,21.886,105.78246,"Điện máy Xanh Tổ 1, TT. Chợ Mới",H. Chợ Mới
+1153,Hà Giang,22.684079,104.46188,"Điện máy Xanh Tổ 1, TT. Cốc Pài",H. Xín Mần
+1154,Bà Rịa - Vũng Tàu,10.586164,107.148969,"Điện máy Xanh Tổ 10, Thôn Tân Long, Xã Châu Pha, Thị Xã Phú Mỹ",Tỉnh Bà - Rịa Vũng Tàu
+1155,Điện Biên,21.762416,103.09149,"Điện máy Xanh Tổ 11 Thị Trấn Mường Chà, Huyện Mường Chà",Tỉnh Điện Biên (Đối diện ngã 3 Mường Nhé
+1156,Tuyên Quang,22.14425,105.27734,"Điện máy Xanh Tổ 11/9, Thị Trấn Vĩnh Lộc",H. Chiêm Hóa
+1157,Quảng Ninh,21.009484,107.273044,"Điện máy Xanh Tổ 112, Khu 8B, Phường Cẩm Phú, Thành phố Cẩm Phả",Tỉnh Quảng Ninh
+1158,Yên Bái,21.725116,104.96672,"Điện máy Xanh Tổ 13, thị trấn Yên Bình",huyện Yên Bình
+1159,Lai Châu,22.171398,103.75554,"Điện máy Xanh Tổ 15, TT. Tân Uyên ",H. Tân Uyên 
+1160,Hà Nội,20.852707,105.768894,"Điện máy Xanh Tổ 2, Thị Trấn Kim Bài",Huyện Thanh Oai
+1161,Hà Giang,23.119403,105.13737,"Điện máy Xanh Tổ 2, TT. Yên Minh",H. Yên Minh
+1162,Thái Nguyên,21.548954,105.84754,"Điện máy Xanh Tổ 26, Phường Phú Xá",Tp.Thái Nguyên
+1163,Bắc Kạn,22.157603,105.59571,"Điện máy Xanh Tổ 2A, thị trấn Bằng Lũng",huyện Chợ Đồn
+1164,Yên Bái,21.850906,104.08836,"Điện máy Xanh Tổ 3, thị trấn Mù Cang Chải",huyện Mù Căng Chải
+1165,Lào Cai,22.338617,103.851,"Điện máy Xanh Tổ 3, Thị Trấn SaPa",Huyện SaPa
+1166,Cao Bằng,22.824925,106.32442,"Điện máy Xanh Tổ 3, Thị trấn Trà Lĩnh",Huyện Trùng Khánh
+1167,Hà Nội,21.142154,105.84529,"Điện máy Xanh Tổ 4, Khối 1, Thị trấn Đông Anh",Huyện Đông Anh
+1168,Thái Nguyên,21.462264,105.97652,"Điện máy Xanh Tổ 4, TT. Hương Sơn",H. Phú Bình
+1169,Quảng Ninh,21.004416,107.28103,"Điện máy Xanh Tổ 5, khu Hòa Lạc, P. Cẩm Bình",TP. Cẩm Phả
+1170,Quảng Ninh,21.023403,106.80937,"Điện máy Xanh Tổ 5, khu Nam Tân, P. Nam Khê",TP. Uông Bí
+1171,Quảng Ninh,21.030591,107.36506,"Điện máy Xanh Tổ 57 Khu 5, P.Cửa Ông",Tp.Cẩm Phả
+1172,Thái Bình,20.554738,106.35549,"Điện máy Xanh Tổ 6, thị trấn Đông Hưng",huyện Đông Hưng
+1173,Lào Cai,22.23502,104.47768,"Điện máy Xanh Tổ 6B1, TT.Phố Ràng",H.Bảo Yên
+1174,Bà Rịa - Vũng Tàu,10.5184734,107.0856998,"Điện máy Xanh Tổ 7, Thôn Phước Tấn, Xã Tân Hòa, Thị xã Phú Mỹ",Tỉnh Bà Rịa - Vũng Tàu
+1175,Bắc Kạn,22.144284,105.83461,"Điện máy Xanh Tổ 8B, Phường Đức Xuân",Thành Phố Bắc Kạn
+1176,Lai Châu,22.391292,103.46126,"Điện máy Xanh Tổ 9, Phường Tân Phong",Thành Phố Lai Châu
+1177,Cao Bằng,22.836932,106.52666,"Điện máy Xanh Tổ 9, Thị Trấn Trùng Khánh",Huyện Trùng Khánh
+1178,Gia Lai,14.1015215,107.9732543,"Điện máy Xanh Tổ dân phố 01, thị trấn Phú Hòa",huyện Chư Păh
+1179,Cao Bằng,22.94737,105.679311,"Điện máy Xanh Tổ dân phố 1, Thị Trấn Bảo Lạc",Huyện Bảo Lạc
+1180,Quảng Ngãi,15.255602,108.518688,"Điện máy Xanh Tổ dân phố 1, Thị Trấn Trà Xuân",Huyện Trà Bồng
+1181,Cao Bằng,22.42691,106.43359,"Điện máy Xanh Tổ dân phố 1, TT. Đông Khê",H. Thạch An
+1182,Quảng Ngãi,14.948807,108.88999,"Điện máy Xanh Tổ dân phố 2, Quốc lộ 1A, Thị Trấn Mộ Đức",Huyện Mộ Đức
+1183,Quảng Bình,17.23475,106.694944,"Điện máy Xanh Tổ dân phố 2A, Thị trấn Nông Trường Lệ Ninh",Huyện Lệ Thủy
+1184,Quảng Bình,17.444333,106.591622,"Điện máy Xanh Tổ dân phố 3 Phương Xuân, Phường Bắc Nghĩa",Thành phố Đồng Hới
+1185,Hà Tĩnh,18.66294,105.76009,"Điện máy Xanh Tổ dân phố 3, Thị trấn Tiên Điền",Huyện Nghi Xuân
+1186,Cao Bằng,22.649925,105.96009,"Điện máy Xanh Tổ dân phố 4, TT. Nguyên Bình",H. Nguyên Bình
+1187,Hà Giang,22.742964,104.67943,"Điện máy Xanh Tổ dân phố 4, TT. Vinh Quang",H. Hoàng Su Phì
+1188,Hà Tĩnh,18.538385,105.58802,"Điện máy Xanh Tổ dân phố 5, TT. Đức Thọ",H. Đức Thọ
+1189,Điện Biên,21.519869,103.22281,"Điện máy Xanh Tổ dân phố 7, TT. Mường Ảng",H. Mường Ảng
+1190,Thái Nguyên,21.633531,105.64686,"Điện máy Xanh Tổ dân phố Cầu Thành 1, TT. Hùng Sơn",H. Đại từ
+1191,Vĩnh Phúc,21.211601,105.51682,"Điện máy Xanh Tổ dân phố Đội Cấn, TT. Vĩnh Tường",H. Vĩnh Tường
+1192,Lâm Đồng,11.843329,108.34225,"Điện máy Xanh Tổ dân phố Đông Anh 2, TT. Nam Ban",H. Lâm Hà
+1193,Điện Biên,21.856478,103.341109,"Điện máy Xanh Tổ dân phố Đồng Tâm, Thị trấn Tủa Chùa",Huyện Tủa Chùa
+1194,Quảng Ngãi,15.045643,108.471,"Điện máy Xanh Tổ Dân Phố Gò Dép, TT. Di Lăng ",H. Sơn Hà
+1195,Vĩnh Phúc,21.4336774,105.5171147,"Điện máy Xanh Tổ dân phố Hòa Bình, Thị trấn Hoa Sơn",Huyện Lập Thạch
+1196,Bắc Giang,21.2615147,106.2723804,"Điện máy Xanh Tổ dân phố Hương, Thị trấn Tân An",Huyện Yên Dũng
+1197,Hà Tĩnh,18.022758,106.40457,"Điện máy Xanh Tổ dân phố Liên Phú, P. Kỳ Liên",TX. Kỳ Anh
+1198,Tuyên Quang,22.460261,105.22537,"Điện máy Xanh Tổ dân phố Nà Khà, thị trấn Lăng Can ",huyện Lâm Bình 
+1199,Lào Cai,22.696408,104.290455,"Điện máy Xanh Tổ dân phố phố mới, thị trấn Si Ma Cai",huyện Si Ma Cai
+1200,Hà Giang,22.31922,104.67212,"Điện máy Xanh Tổ dân phố Phố Mới, thị trấn Vĩnh Tuy",huyện Bắc Quang
+1201,Quảng Bình,17.581667,106.536677,"Điện máy Xanh Tổ dân phố Phú Quý, thị trấn Nông Trường Việt Trung",huyện Bố Trạch
+1202,Quảng Ngãi,15.049222,108.77713,"Điện máy Xanh Tổ dân phố Phú Vinh Trung, TT. Chợ Chùa",H. Nghĩa Hành
+1203,Lào Cai,22.308738,104.12116,"Điện máy Xanh Tổ dân phố số 5, TT. Tằng Loỏng",H. Bảo Thắng
+1204,Bắc Kạn,22.234697,106.18163,"Điện máy Xanh Tổ nhân dân Pò Đon, TT. Yến Lạc",H. Na Rì
+1205,Cao Bằng,22.902112,106.07339,"Điện máy Xanh Tổ Xuân Lộc, TT. Xuân Hòa",H. Hà Quảng
+1206,Quảng Ninh,20.952361,107.0848,"Điện máy Xanh Tòa nhà VNPT, số 1 đường 25/4, P. Bạch Đằng",TP. Hạ Long
+1207,Vĩnh Phúc,21.4484795,105.5719427,"Điện máy Xanh Trại Mới, Thị Trấn Đại Đình",Huyện Tam Đảo
+1208,Điện Biên,22.1914839,102.4609651,Điện máy Xanh Trung tâm huyện Mường Nhé,huyện Mường Nhé
+1209,Bắc Kạn,22.457361,105.73925,Điện máy Xanh TT. Chợ Rã,H. Ba Bể
+1210,Bắc Ninh,21.052849,106.16771,Điện máy Xanh TT. Gia Bình,H. Gia Bình
+1211,Phú Thọ,21.174287,105.28453,Điện máy Xanh TT. Thanh Thuỷ,H. Thanh Thuỷ
+1212,Long An,10.90499,106.42083,"Điện máy Xanh X. Đức Lập Thượng, H. Đức Hòa",T. Long An (cách chợ Đức Lập 200m
+1213,Long An,10.873585,106.5156,Điện máy Xanh X. Mỹ Hạnh Nam,H. Đức Hòa
+1214,Quảng Bình,17.6396,106.51629,Điện máy Xanh X. Phú Trạch,H. Bố Trạch
+1215,Bình Dương,11.34025,106.823917,Điện máy Xanh Xã An Bình,huyện Phú Giáo
+1216,Hà Nội,20.7541667,105.6968867,Điện máy Xanh Xã An Mỹ,Huyện Mỹ Đức
+1217,An Giang,10.4260882,105.5105596,Điện máy Xanh Xã An Thạnh Trung,Huyện Chợ Mới
+1218,Vĩnh Phúc,21.31508,105.69036,Điện máy Xanh Xã Bá Hiến,huyện Bình Xuyên
+1219,Gia Lai,13.857516,107.941872,Điện máy Xanh Xã Bàu Cạn,Huyện Chư Prông
+1220,Long An,10.82173,105.93069,Điện máy Xanh Xã Bình Hiệp,Thị xã Kiến Tường
+1221,An Giang,10.461182,105.343943,Điện máy Xanh Xã Bình Hòa,Huyện Châu Thành
+1222,Quảng Nam,15.617824,108.221578,Điện máy Xanh Xã Bình Lâm,huyện Hiệp Đức
+1223,Bà Rịa - Vũng Tàu,10.535569,107.399721,Điện máy Xanh Xã Bưng Riềng,huyện Xuyên Mộc
+1224,Bến Tre,10.128916,106.333738,Điện máy Xanh Xã Cẩm Sơn,huyện Mỏ Cày Nam
+1225,An Giang,10.364111,105.015987,Điện máy Xanh Xã Cô Tô,Huyện Tri Tôn
+1226,Quảng Nam,15.925344,108.12959,Điện máy Xanh Xã Đại Hiệp,Huyện Đại Lộc
+1227,Quảng Nam,15.84979,108.067194,Điện máy Xanh Xã Đại Minh,Huyện Đại Lộc
+1228,Thái Nguyên,21.472245,105.919505,Điện máy Xanh Xã Điềm Thuỵ,huyện Phú Bình
+1229,Quảng Nam,15.885202,108.184555,Điện máy Xanh Xã Điện Phước,huyện Điện Bàn
+1230,Đồng Tháp,10.517472,105.909278,Điện máy Xanh Xã Đốc Binh Kiều,huyện Tháp Mười
+1231,Bình Thuận,11.139167,107.724333,Điện máy Xanh Xã Đồng Kho,huyện Tánh Linh
+1232,Quảng Nam,15.83869,108.277079,Điện máy Xanh Xã Duy Nghĩa,Huyện Duy Xuyên
+1233,Đắk Lắk,12.94108,108.02136,Điện máy Xanh Xã Ea Kiết,Huyện Cư M’gar
+1234,Đắk Lắk,13.068192,107.885521,Điện máy Xanh Xã Ea Rốk,huyện Ea Súp
+1235,Đắk Lắk,13.203091,108.211428,Điện máy Xanh Xã Ea Wy,huyện Ea H’leo
+1236,Bình Thuận,11.1520116,107.6217152,Điện máy Xanh Xã Gia An,huyện Tánh Linh
+1237,Lâm Đồng,11.627694,108.182139,Điện máy Xanh Xã Gia Hiệp,huyện Di Linh
+1238,Bạc Liêu,9.286002,105.72595,"Điện máy Xanh Xã Hiệp Thành, thị xã Bạc Liêu, tỉnh Bạc Liêu (Nay là phường Nhà Mát",thành phố Bạc Liêu
+1239,An Giang,10.391384,105.456945,Điện máy Xanh Xã Hòa Bình,Huyện Chợ Mới
+1240,Hà Nam,20.474265,106.167283,Điện máy Xanh Xã Hòa Hậu,Huyện Lý Nhân
+1241,Bà Rịa - Vũng Tàu,10.689982,107.50195,Điện máy Xanh Xã Hòa Hiệp,Huyện Xuyên Mộc
+1242,An Giang,10.666263,105.216616,Điện máy Xanh Xã Hòa Lạc,Huyện Phú Tân
+1243,Đà Nẵng,16.06868,108.10711,Điện máy Xanh Xã Hòa Sơn,Huyện Hòa Vang
+1244,Vĩnh Phúc,21.333725,105.504367,Điện máy Xanh Xã Hoàng Đan,huyện Tam Dương
+1245,Hải Dương,20.85779,106.3746,Điện máy Xanh Xã Hưng Đạo,Huyện Tứ Kỳ
+1246,Long An,10.835218,105.660107,Điện máy Xanh Xã Hưng Điền B,huyện Tân Hưng
+1247,Thái Nguyên,21.41766,105.98643,Điện máy Xanh Xã Kha Sơn,huyện Phú Bình
+1248,Long An,10.891896,105.782643,Điện máy Xanh Xã Khánh Hưng,huyện Vĩnh Hưng
+1249,Lâm Đồng,11.449925,107.834376,Điện máy Xanh Xã Lộc Thành,Huyện Bảo Lâm
+1250,An Giang,10.4586818,105.4481811,Điện máy Xanh Xã Long Giang,Huyện Chợ Mới
+1251,Bà Rịa - Vũng Tàu,10.48959,107.270413,Điện máy Xanh Xã Long Tân,huyện Đất Đỏ
+1252,Vĩnh Phúc,21.279262,105.46624,Điện máy Xanh Xã Lũng Hòa,Huyện Vĩnh Tường
+1253,An Giang,10.409582,104.902772,Điện máy Xanh Xã Lương An Trà,Huyện Tri Tôn
+1254,Bến Tre,10.198639,106.48029,Điện máy Xanh Xã Lương Quới,Huyện Giồng Trôm
+1255,Bình Thuận,11.192637,108.364611,Điện máy Xanh Xã Lương Sơn,huyện Bắc Bình
+1256,Bình Thuận,11.2569,107.641226,Điện máy Xanh Xã Mê Pu,huyện Đức Linh
+1257,Bến Tre,10.2234201,106.3642564,Điện máy Xanh Xã Mỹ Thạnh An,Thành phố Bến Tre
+1258,Quảng Ngãi,15.09744,108.87581,Điện máy Xanh Xã Nghĩa Hoà,huyện Tư Nghĩa
+1259,Hải Dương,20.76067,106.491167,Điện máy Xanh Xã Nguyên Giáp,huyện Tứ Kỳ
+1260,Vĩnh Phúc,21.209069,105.61294,Điện máy Xanh Xã Nguyệt Đức,huyện Yên Lạc
+1261,Phú Thọ,21.496684,105.142364,Điện máy Xanh Xã Ninh Dân,huyện Thanh Ba
+1262,An Giang,10.592056,105.309944,Điện máy Xanh Xã Phú Hưng,Huyện Phú Tân
+1263,Quảng Bình,17.646074,106.276741,Điện máy Xanh Xã Phúc Trạch,huyện Bố Trạch
+1264,Long An,10.488099,106.623266,Điện máy Xanh Xã Phước Đông,huyện Cần Đước
+1265,Bình Dương,11.294749,106.79457,Điện máy Xanh Xã phước Hòa,huyện Phú Giáo
+1266,Long An,10.590801,106.537796,Điện máy Xanh Xã Phước Vân,Huyện Cần Đước
+1267,Hà Giang,22.414438,104.805916,Điện máy Xanh Xã Quang Minh,huyện Bắc Quang
+1268,Bà Rịa - Vũng Tàu,10.647278,107.329306,Điện máy Xanh Xã Sơn Bình,huyện Châu Đức
+1269,Bến Tre,10.256435,106.359674,Điện máy Xanh Xã Sơn Đông,Tp Bến Tre
+1270,Bà Rịa - Vũng Tàu,10.589299,107.208632,Điện máy Xanh Xã Suối Nghệ,Huyện Châu Đức
+1271,An Giang,10.435467,105.110475,Điện máy Xanh Xã Tà Đảnh,huyện Tri Tôn
+1272,Hà Nội,21.0823,105.62302,Điện máy Xanh Xã Tam Hiệp,Huyện Phúc Thọ
+1273,Vĩnh Phúc,21.417328,105.402019,Điện máy Xanh Xã Tam Sơn (Nay là Thị trấn Tam Sơn),huyện Lập Thạch ( nay là Huyện Sông Lô )
+1274,Vĩnh Phúc,21.417328,105.402019,Điện máy Xanh Xã Tam Sơn (Nay là Thị trấn Tam Sơn),huyện Lập Thạch ( nay là Huyện Sông Lô )
+1275,An Giang,10.597762,105.354478,Điện máy Xanh Xã Tân Hòa,Huyện Phú Tân
+1276,Hải Dương,20.7709691,106.370456,Điện máy Xanh Xã Tân Hương,Huyện Ninh Giang
+1277,Long An,10.942597,106.364887,Điện máy Xanh Xã Tân Mỹ,huyện Đức Hoà
+1278,Hà Giang,22.4925623,104.8748311,Điện máy Xanh Xã Tân Quang,huyện Bắc Quang
+1279,Bình Thuận,10.611195,107.63474,Điện máy Xanh Xã Tân Thắng,huyện Hàm Tân
+1280,An Giang,10.8406608,105.1842494,Điện máy Xanh Xã Tân Thạnh,Thị xã Tân Châu
+1281,Hà Tĩnh,18.441378,105.895632,Điện máy Xanh Xã Thạch Châu,Huyện Lộc Hà
+1282,Long An,10.666113,106.512167,Điện máy Xanh Xã Thanh Phú,Huyện Bến Lức
+1283,Bến Tre,10.110858,106.695916,Điện máy Xanh Xã Thạnh Phước,Huyện Bình Đại
+1284,Hải Dương,20.986889,106.335192,Điện máy Xanh Xã Thanh Quang,huyện Nam Sách
+1285,Bến Tre,10.188724,106.691314,Điện máy Xanh Xã Thới Lai,huyện Bình Đại
+1286,Quảng Nam,15.490197,108.303348,Điện máy Xanh Xã Tiên Thọ,huyện Tiên Phước
+1287,Quảng Ngãi,15.17225,108.66683,Điện máy Xanh Xã Tịnh Bắc,Huyện Sơn Tịnh
+1288,Quảng Nam,15.148154,108.12242,Điện máy Xanh Xã Trà Mai,Huyện Nam Trà My
+1289,Tuyên Quang,21.8322163,105.17228,Điện máy Xanh Xã Trung Môn,huyện Yên Sơn
+1290,Hòa Bình,20.67297,105.534776,Điện máy Xanh Xã Tú Sơn,Huyện Kim Bôi
+1291,Phú Thọ,21.318258,105.286394,Điện máy Xanh Xã Tứ Xã,huyện Lâm Thao
+1292,Bắc Kạn,22.429783,105.99639,Điện máy Xanh Xã Vân Tùng,huyện Ngân Sơn
+1293,Bình Dương,11.126108,106.704931,Điện máy Xanh Xã Vĩnh Tân,Thị xã Tân Uyên
+1294,Đồng Tháp,10.28655,105.660602,Điện máy Xanh Xã Vĩnh Thới,huyện Lai Vung
+1295,Thái Nguyên,21.686623,105.516462,Điện máy Xanh Xã Yên Lãng,Huyện Đại Từ
+1296,Hà Nam,20.6030443,105.9790808,Điện máy Xanh Xã Yên Nam,huyện Duy Tiên
+1297,Thái Bình,20.434184,106.290358,"Điện máy Xanh Xóm 10, Thôn Bùi Xá, Xã Minh Lãng, Huyện Vũ Thư",Tỉnh Thái Bình
+1298,Hà Nội,20.944146,105.55371,"Điện máy Xanh Xóm 2, thôn Long Phú, xã Hòa Thạch",huyện Quốc Oai
+1299,Hà Nội,20.93802,105.83955,"Điện máy Xanh Xóm 2, thôn Quỳnh Đô, Xã Vĩnh Quỳnh",Huyện Thanh Trì
+1300,Hà Nội,20.93802,105.83955,"Điện máy Xanh Xóm 2, thôn Quỳnh Đô, Xã Vĩnh Quỳnh",Huyện Thanh Trì
+1301,Hà Nội,20.616784,105.78448,"Điện máy Xanh Xóm 3, thôn Hội Xá, xã Hương Sơn",huyện Mỹ Đức
+1302,Cao Bằng,22.7844367,105.9833134,"Điện máy Xanh Xóm 5, Thị Trấn Thông Nông",Huyện Hà Quảng
+1303,Hà Nội,20.808625,105.70691,"Điện máy Xanh Xóm 6, xã Phúc Lâm",huyện Mỹ Đức
+1304,Hà Tĩnh,18.197862,106.167802,"Điện máy Xanh Xóm 8, Xã Kỳ Phong",Huyện Kỳ Anh
+1305,Hà Nội,20.7931618,105.8230853,"Điện máy Xanh Xóm Cầu, Xã Hồng Minh",Huyện Phú Xuyên
+1306,Thái Nguyên,21.41307,105.883417,"Điện máy Xanh Xóm Đồng Xuân, Xã Tiên Phong, Thị xã Phổ Yên",Tỉnh Thái Nguyên
+1307,Hà Nam,20.4741544,105.9530795,Điện máy Xanh Xóm Giữa Non,xã Thanh Lưu
+1308,Hà Giang,23.277016,105.364295,"Điện máy Xanh Xóm Thành Tâm, xã Đồng Văn",Huyện Đồng Văn
+1309,Thái Nguyên,21.631935,105.640161,"Điện máy Xanh Xóm Trung Tâm, xã Minh Tiến",huyện Đại Từ
+1310,Bình Phước,11.4461902,106.8692569,"ĐT 741, Thị Trấn Tân Phú",Huyện Đồng Phú
+1311,Hà Nội,20.87177,105.86817,"ĐT427, X. Văn Bình, H. Thường Tín",TP. Hà Nội (cách Cầu Dừa 100m
+1312,Vĩnh Phúc,21.3155696,105.6227722,"Dự án The City Light (Tòa nhà Chung cư), P. Khai Quang",TP. Vĩnh Yên
+1313,Bình Dương,11.049501,106.7528,"Đường DT 746, KP. Long Bình, P. Khánh Bình",TX. Tân Uyên
+1314,Long An,10.6356516,106.5367428,"Đường DT 835, Ấp 5, X. Phước Lợi",H. Bến Lức
+1315,Long An,10.8987987,106.3082778,"Đường DT 839, KP. 3, TT. Đông Thành",H. Đức Huệ
+1316,Đồng Tháp,10.807954,105.3414577,"Đường Hùng Vương, P.An Thạnh",Thị xã Hồng Ngự
+1317,Quảng Bình,17.580257,106.53672,"Đường Hùng Vương, TK 1, TT.Hoàn Lão",H.Bố Trạch
+1318,Hà Nội,20.983438,105.96006,"Đường Kiêu Kỵ, Thôn Trung Dương, Xã Kiêu Kỵ",Huyện Gia Lâm
+1319,Long An,10.658024,106.18183,"Đường Nguyễn Trung Trực, Khu Phố 3, TT. Thạnh Hóa",H. Thạnh Hóa
+1320,Đà Nẵng,15.982704,108.20813,"Đường Phạm Hùng, P. Hòa Xuân",Q. Cẩm Lệ
+1321,Bình Phước,11.550891,106.6160874,"Đường Quốc lộ 13, Ấp 5, TT. Tân Khai",H. Hớn Quản
+1322,Vĩnh Phúc,21.381407,105.53991,"Đường Quốc lộ 2C, Phố Me, Thị Trấn Hợp Hòa",H.Tam Dương
+1323,Quảng Nam,15.7422,108.35882,"Đường Tiểu La, Thị Trấn Hà Lam",Huyện Thăng Bình
+1324,Quảng Nam,15.894981,108.2455015,"Đường Trần Nhân Tông, P. Vĩnh Điện",TT. Điện Bàn
+1325,Hà Tĩnh,18.642077,105.71609,"Khối 3, TT. Xuân An",H. Nghi Xuân
+1326,Điện Biên,21.5899057,103.4219493,"Khối Tân Thủy, Thị trấn Tuần Giáo, Huyện Tuần Giáo",Tỉnh Điện Biên
+1327,Đồng Tháp,10.289137,105.65947,"Khóm 1, TT. Lai Vung",H. Lai Vung
+1328,Trà Vinh,9.811196,106.18931,"Khóm 2, TT. Tiểu Cần",H. Tiểu Cần
+1329,Lai Châu,21.950425,103.88286,"Khu 1, thị trấn Than Uyên",huyện Than Uyên
+1330,Lai Châu,22.383832,102.80206,"Khu 10, TT. Mường Tè",H. Mường Tè
+1331,Phú Thọ,21.284011,105.25693,"Khu 13, xã Cổ Tiết",H. Tam Nông
+1332,Cao Bằng,22.830038,105.49343,"Khu 2, thị trấn Pác Miầu",H. Bảo Lâm
+1333,Bắc Giang,21.356146,105.978537,"Khu 2, thị trấn Thắng",huyện Hiệp Hoà
+1334,Hòa Bình,20.61484,105.278695,"Khu 3, Thị trấn Mãn Đức, Huyện Tân Lạc",Tỉnh Hòa Bình
+1335,Quảng Nam,15.881821,108.12085,"Khu 5, TT.Ái Nghĩa",H.Đại Lộc
+1336,Bắc Giang,21.357232,105.98311,"Khu 5, TT.Thắng",H.Hiệp Hòa
+1337,Thái Bình,20.560951,106.56739,"Khu 6, thị trấn Diêm Điền",huyện Thái Thụy
+1338,Phú Thọ,21.561302,105.003467,"Khu 8, Thị Trấn Hạ Hòa",Huyện Hạ Hòa
+1339,Phú Thọ,21.42205,105.13281,"Khu 9, TT. Sông Thao",H. Cẩm Khê
+1340,Quảng Ninh,21.534673,107.95148,"Khu Bắc Ka Long, P. Ninh Dương",Tp. Móng Cái
+1341,Phú Thọ,21.407194,105.3133,"Khu Đường Nam, TT. Phong Châu",H. Phù Ninh
+1342,Bắc Giang,21.372428,106.56685,"Khu Lê Lợi, TT.Chũ",H.Lục Ngạn
+1343,Bắc Ninh,21.053836,106.08729,"Khu nhà ở Dabaco, Đường Âu Cơ, Thị Trấn Hồ",H.Thuận Thành
+1344,Thái Bình,20.589772,106.22492,"Khu Nhân Cầu 2, TT. Hưng Hà",H. Hưng Hà
+1345,Vĩnh Phúc,21.277759,105.647358,"Khu phố 1, Thị Trấn Hương Canh",Huyện Bình Xuyên
+1346,Bến Tre,10.045597,106.587858,"Khu phố 2, TT. Ba Tri",H. Ba Tri
+1347,Long An,10.607026,106.67123,"Khu phố 2, TT.Cần Giuộc",H.Cần Giuộc
+1348,Yên Bái,22.112535,104.76855,"Khu phố 6, TT. Yên Thế",H. Lục Yên
+1349,Long An,10.519226,106.518873,"Khu phố Tân Bình, thị trấn Tân Trụ",huyện Tân trụ
+1350,Hà Nội,20.902432,105.57914,"Khu phố Xuân Mai, Thị Trấn Xuân Mai",Huyện Chương Mỹ
+1351,Phú Thọ,21.174378,105.28429,"Khu Phố, TT. Thanh Thuỷ",H. Thanh Thuỷ
+1352,Yên Bái,21.562726,104.59503,"Khu Phố, xã Sơn Thịnh",H. Văn Chấn
+1353,Phú Thọ,21.351235,105.05839,"Khu Tân An 4, TT. Yên Lập",H. Yên Lập
+1354,Phú Thọ,21.625201,105.18438,"khu Tân Thành, Thị Trấn Đoan Hùng",Huyện Đoan Hùng
+1355,Quảng Ninh,21.078839,106.51751,"Khu Trạo Hà, P. Đức Chính",thị xã Đông Triều
+1356,Bình Phước,11.532629,106.89771,"Khu TTTM Co.op Mart Đồng Xoài, đường Phú Riềng Đỏ, P.Tân Bình",TX.Đồng Xoài
+1357,Quảng Ninh,21.056663,106.59815,"Khu Vĩnh Thông,TT.Mạo Khê",H.Đông Triều
+1358,Bình Dương,11.130159,106.60601,"Lô CC1, Khu TMDV và Tái định cư Mỹ Phước, P. Mỹ Phước",TX. Bến Cát
+1359,Hà Nội,20.924279,105.8553,"Ngã 3 đường mới, xóm Chùa, thôn Tự Khoát, xã Ngũ Hiệp",huyện Thanh Trì
+1360,Long An,10.8114765,106.4753348,"Ngã 3 Tân Đức, Tỉnh Lộ 10",H.Đức Hòa
+1361,Lào Cai,22.480542,103.97475,"Ngã 6 phố Lý Công Uẩn, P. Kim Tân",TP. Lào Cai
+1362,An Giang,10.547546,105.40352,"Nguyễn Hữu Cảnh, ấp Long Hòa, TT. Chợ Mới",H. Chợ Mới
+1363,Đồng Tháp,10.290427,105.75785,"Nguyễn Sinh Sắc, Phường 01",TP. Sa Đéc
+1364,Thái Nguyên,21.631161,105.64113,"Phố Chợ 1, Thị trấn Hùng Sơn",Huyện Đại Từ
+1365,Bắc Ninh,21.193943,105.95568,"Phố Chờ, TT.Chờ",H.Yên Phong
+1366,Cao Bằng,22.689502,106.44272,"Phố Hòa Nam, TT. Quảng Uyên",H. Quảng Uyên
+1367,Vĩnh Phúc,21.259997,105.48956,"Phố Mới, TT. Thổ Tang",H. Vĩnh Tường
+1368,Hà Nội,21.311684,105.86714,"Phố Nỉ, xã Trung Giã",H. Sóc Sơn
+1369,Bắc Giang,21.442983,106.09789,"Phố Tân Hoà, TT. Nhã Nam",H. Tân Yên
+1370,Bắc Giang,21.301393,106.38337,"Phố Thanh Xuân, TT.Đồi Ngô",H.Lục Nam
+1371,Đồng Tháp,10.486331,105.58007,Phường 11,TP. Cao Lãnh
+1372,Ninh Thuận,11.5941,108.9506605,Phường Bảo An,TP. Phan Rang – Tháp Chàm
+1373,Hòa Bình,20.791052,105.34158,Phường Chăm Mát,Tp. Hòa Bình
+1374,Long An,10.6245732,106.6640272,"QL 50, KP. Kim Diền, TT. Cần Giuộc",H. Cần Giuộc
+1375,Hà Nội,21.163336,105.8466,"Quốc lộ 03, tổ 16, TT. Đông Anh",H. Đông Anh
+1376,Quảng Ninh,20.951146,107.13408,"Quốc lộ 18, tổ 4, khu 7, P. Hồng Hà, TP. Hạ Long",T. Quảng Ninh (ngã 3 Cầu Trắng
+1377,Hà Nam,20.537738,105.91248,"Quốc Lộ 1A, P.Hai Bà Trưng",TP.Phủ Lý
+1378,Đắk Lắk,12.753378,108.73834,"Quốc Lộ 26 ,Tổ dân phố 2, thị trấn M'đrăk ",huyện M'đrăk 
+1379,Lào Cai,22.173583,104.35376,"Quốc Lộ 279 bản Lâm Sản, xã Bảo Hà",H. Bảo Yên
+1380,Long An,10.504593,106.60485,"Quốc Lộ 50, TT.Cần Đước",H.Cần Đước
+1381,Bà Rịa - Vũng Tàu,10.623574,107.054752,"Quốc Lộ 51, ấp Thị Vải, xã Mỹ Xuân",huyện Tân Thành
+1382,An Giang,10.568969,105.24335,"Quốc Lộ 91, ấp Bình Hòa, TT.Cái Dầu",H.Châu Phú
+1383,Quảng Bình,17.465926,106.59817,"Số 01 Hoàng Diệu, P. Nam Lý",Tp. Đồng Hới
+1384,Thái Bình,20.441336,106.35637,"Số 02, đường Hoàng Văn Thái, tổ 15, P. Trần Lãm",TP.Thái Bình
+1385,Bạc Liêu,9.279627,105.62593,"Số 03, quốc lộ 1A, TT.Hòa Bình",H.Hòa Bình
+1386,Cao Bằng,22.666537,106.25396,"Số 041, đường Phai Khắt Nà Ngần, P.Sông Hiến",TP.Cao Bằng
+1387,Hà Nội,21.004988,105.84154,"Số 09 Đường Giải Phóng, phường Đồng Tâm",Hai Bà Trưng
+1388,Hà Nội,21.109467,105.44606,"Số 1 - 3, Tổ 9, P. Xuân Khanh",TX. Sơn Tây
+1389,An Giang,10.798349,105.25238,"Số 1 đường Trần Hưng Đạo, khóm Long Thạnh A, thành phố Tân Châu",thị xã Tân Châu
+1390,Cao Bằng,22.6655414,106.2611764,"số 1 Kim Đồng, Phường Hợp Giang",TP.Cao Bằng
+1391,Vĩnh Phúc,21.313646,105.597866,"Số 1 Mê Linh, Phường Liên Bảo",Thành phố Vĩnh Yên
+1392,Vĩnh Phúc,21.321766,105.59874,"Số 1 Phố Chùa Hà, Xã Định Trung",TP.Vĩnh Yên
+1393,Thái Bình,20.4441404,106.3375242,"Số 1 Quang Trung, Tố 1, P.Quang Trung",TP.Thái Bình
+1394,Hà Nội,21.069233,105.80211,"Số 1 Xuân Đỉnh, P.Đông Xuân Tảo",Q.Bắc Từ Liêm
+1395,Hà Nội,21.029269,105.84168,"Số 1, đường Lê Duẩn, P. Điện Biên",Q. Ba Đình
+1396,Hà Nội,21.029269,105.84168,"Số 1, đường Lê Duẩn, P. Điện Biên",Q. Ba Đình
+1397,Quảng Ninh,21.532592,107.97197,"Số 1, Đường Trần Phú, P.Trần Phú",TP.Móng Cái
+1398,Hà Nội,21.026738,105.82799,"Số 1, ngõ 168 phố Hào Nam, P. Ô Chợ Dừa",Q. Đống Đa
+1399,Hà Nội,21.026738,105.82799,"Số 1, ngõ 168 phố Hào Nam, P. Ô Chợ Dừa",Q. Đống Đa
+1400,Hà Nội,20.991845,105.64248,"Số 1, phố Huyện, TT. Quốc Oai",H. Quốc Oai
+1401,Hà Nội,20.894401,105.85567,"Số 1, phố Quán Gánh, xã Nhị Khê",H. Thường Tín
+1402,Bình Dương,10.870104,106.75578,"Số 100 đường Bình Đường , P. An Bình",Tx. Dĩ An
+1403,Hà Nội,21.034553,105.82859,"Số 100 phố Đội Cấn, P.Đội Cấn",Q.Ba Đình
+1404,Thái Nguyên,21.471314,105.84249,"Số 101, Đường Cách Mạng Tháng Tám, Tổ 10, Phường Thắng Lợi, Thành phố Sông Công",Tỉnh Thái Nguyên
+1405,Hà Nội,21.018263,105.93713,"Số 103, đường Ngô Xuân Quảng, TT. Trâu Quỳ",H. Gia Lâm
+1406,Hà Nội,20.917898,105.70199,"Số 104 đường Bình Sơn, TT. Chúc Sơn",H. Chương Mỹ
+1407,Hà Nội,20.917898,105.70199,"Số 104 đường Bình Sơn, TT. Chúc Sơn",H. Chương Mỹ
+1408,Thái Nguyên,21.575415,105.82944,"Số 105B, Đường Thống Nhất",P Tân Tập
+1409,Bình Định,13.7950311,109.1474962,"Số 108 Lạc Long Quân, P.Trần Quang Diệu",TP.Quy Nhơn
+1410,Hà Nội,20.771563,105.90144,"Số 109 - 111 Phố Ga, Thôn Đỗ Xá, Xã Vạn Điểm",Huyện Thường Tín
+1411,Bình Phước,11.840917,106.9941,"Số 11, đường 6 tháng 1, P.Long Thủy",thị xã Phước Long
+1412,Hà Nội,21.068461,105.82609,"Số 111 Xuân Diệu, phường Quảng An",quận Tây Hồ
+1413,Long An,10.537495,106.41329,"Số 111, đường Nguyễn Trung Trực, khóm 1, P. 1",TP. Tân An
+1414,Bình Dương,10.976528,106.75468,"Số 1126B, đường DT 747, P. Thái Hòa",thị xã Tân Uyên
+1415,Bình Phước,11.649765,106.60764,"Số 113 Nguyễn Huệ, KP Phú Trung, Phường Phú Thịnh",Thị Xã Bình Long
+1416,Hà Nam,20.559868,106.03166,"Số 115 - 117 Trần Hưng Đạo, thị trấn Vĩnh Trụ",huyện Lý Nhân
+1417,Lâm Đồng,11.940849,108.431559,"Số 116, Đường 3 tháng 2",P.5
+1418,Bình Định,13.774618,109.23217,"Số 120 đường Lê Lợi, P. Lê Lợi",Tp. Quy Nhơn
+1419,Bình Dương,11.061523,106.79723,"Số 123 Lô M, khu dân cư Thương mại Uyên Hưng, phường Uyên Hưng",thị xã Tân Uyên
+1420,Hà Nội,20.943582,105.75651,"Số 124 Phố Xốm, Phường Phú Lãm",Q. Hà Đông
+1421,Trà Vinh,9.635317,106.4945119,"Số 127 Đường 19/5, Khóm 1, Phường 1",TX. Duyên Hải
+1422,Bắc Giang,21.281967,106.19784,"Số 1-3 đường Hùng Vương, tổ dân phố 2, P.Ngô Quyền",Tp.Bắc Giang
+1423,Quảng Ninh,20.938574,106.8016,"Số 13-15 phố Lê Lợi, P.Quảng Yên",TX.Quảng Yên
+1424,Hà Nội,21.132733,105.51109,"Số 134, Phố Phùng Khắc Khoan, P.Quang Trung",TX.Sơn Tây
+1425,Vĩnh Phúc,21.277999,105.72977,"Số 136 Trường Chinh, P.Đồng Xuân",TX.Phúc Yên
+1426,Vĩnh Phúc,21.277999,105.72977,"Số 136 Trường Chinh, P.Đồng Xuân",TX.Phúc Yên
+1427,Hà Nội,20.96685,105.84206,"Số 1375 đường Giải Phóng, P. Hoàng Liệt",Q. Hoàng Mai
+1428,Hà Nội,20.854137,105.76816,"Số 138-140, Tổ dân phố 2, TT.Kim Bài",H.Thanh Oai
+1429,Phú Thọ,21.313567,105.3949,"Số 1462, Đại lộ Hùng Vương, P. Tiên Cát",TP. Việt Trì
+1430,Hà Nội,21.0470909,105.8064042,"Số 15 – 17, Ngõ 626 Đường Bưởi, P. Cống Vi",Q. Ba Đình
+1431,Bình Định,14.432952,109.01729,"Số 151 đường Quang Trung, TT. Bồng Sơn",H. Hoài Nhơn
+1432,Bình Thuận,10.933036,108.11103,"Số 153 Tôn Đức Thắng, P. Phú Thủy",Phan Thiết
+1433,Bình Dương,10.990754,106.6739,"Số 154, Tổ 6, Khu 7, Huỳnh Văn Lũy, P.Phú Lợi",TP.Thủ Dầu Một
+1434,Bình Dương,11.100311,106.76706,"Số 156, Đường ĐT 747, Tổ 4, Ấp 1, X. Hội Nghĩa",TX. Tân Uyên
+1435,Đắk Lắk,12.4856734,108.0305051,"Số 159, Đường Hùng Vương, Tổ 02, TT. Buôn Trấp",H. Krông Ana
+1436,Long An,10.894538,106.39291,"Số 159-161, Đường 825, Ô 6, Khu B, TT.Hậu Nghĩa",H.Đức Hòa
+1437,Đắk Lắk,12.678988,108.0393,"Số 16 Lê Hồng Phong, phường Tân Tiến",thành phố Buôn Ma Thuột
+1438,Bình Định,13.888287,109.11293,"Số 160 Trần Phú, P.Bình Định",TX.An Nhơn
+1439,Bình Dương,10.982418,106.67269,"Số 161A-163-163A Phú Lợi, P. Phú Lợi",TP. Thủ Dầu Một
+1440,Long An,10.543648,106.39507,"Số 163, quốc lộ 62, P. 06",TP. Tân An
+1441,Long An,10.543648,106.39507,"Số 163, quốc lộ 62, P. 06",TP. Tân An
+1442,Bắc Ninh,21.119816,105.9637,"Số 17, phố Trần Phú, P.Đông Ngàn",TX.Từ Sơn
+1443,Hà Nam,20.531911,105.91761,"Số 171 Đinh Tiên Hoàng, P. Trần Hưng Đạo",TP. Phủ Lý
+1444,Lâm Đồng,11.949946,108.46489,"Số 18 đường Phan Chu Trinh, P. 09",TP. Đà Lạt
+1445,Bắc Ninh,21.149031,106.1144656,"Số 18 Đường Sơn Đông, Khu Sơn Đông, Phường Nam Sơn, Thành phố Bắc Ninh",Tỉnh Bắc Ninh
+1446,Phú Thọ,21.211644,105.17974,"Số 18-20-22 đường 32, Phố Vàng, TT.Thanh Sơn",H.Thanh Sơn
+1447,Hà Nội,20.9824877,105.7704969,"Số 186 đường Vạn Phúc, P. Vạn Phúc",Q. Hà Đông
+1448,Hà Nội,20.871415,105.86475,"Số 188 - 190 Phố Ga, TT.Thường Tín",H.Thường Tín
+1449,Bình Dương,10.972185,106.67123,"Số 190 Đường 30/04, phường Chánh Nghĩa",Thành Phố Thủ Dầu Một
+1450,An Giang,10.508174,105.48979,"Số 191-193, Tỉnh Lộ 942, Ấp Thị 2, Thị Trấn Mỹ Luông",Huyện Chợ Mới
+1451,Bà Rịa - Vũng Tàu,10.499241,107.17279,"Số 192 - 194 Nguyễn Thanh Đằng, khu phố 5, P. Phước Hiệp",TP. Bà Rịa
+1452,Hà Nội,21.046302,105.74865,"Số 193 - 195 đường Cầu Diễn , Phường Phúc Diễn ",Quận Bắc Từ Liêm 
+1453,Hà Nội,21.0421935,105.761212,"Số 2 - 4 - 8 đường Cầu Diễn, Phường Phú Diễn, Quận Bắc Từ Liêm",Thành phố Hà Nội
+1454,Hà Nội,21.220853,105.77107,"Số 2 - 4, thôn Thạch Lỗi, xã Thanh Xuân",H. Sóc Sơn
+1455,Bình Dương,10.980447,106.6544,"Số 2 đường Nguyễn Du, KP. 5, P. Phú Cường",TP. Thủ Dầu Một
+1456,Hà Nội,21.02994,105.9131,"Số 2 đường Thạch Bàn, phường Thạch Bàn",quận Long Biên
+1457,Bình Dương,11.288468,106.79305,"Số 2, đường Độc Lập, KP 2, TT. Phước Vĩnh",huyện Phú Giáo
+1458,Lâm Đồng,11.940275,108.43722,"Số 2, Đường Lê Đại Hành, P.01",TP.Đà Lạt
+1459,Quảng Ninh,21.452612,107.75364,"Số 2, phố Chu Văn An, TT. Quảng Hà",H. Hải Hà
+1460,Bình Dương,10.95104,106.70604,"Số 2/123 (ngã tư Đất Thánh) KP Hòa Lân 2, P. Thuận Giao",TX. Thuận An
+1461,Bình Dương,10.95104,106.70604,"Số 2/123 (ngã tư Đất Thánh) KP Hòa Lân 2, P. Thuận Giao",TX. Thuận An
+1462,Lâm Đồng,11.627044,107.83982,"Số 20 đường Trần Phú, TT. Lộc Thắng",H. Bảo Lâm
+1463,Đồng Tháp,10.296829,105.76462,"Số 20 Trần Phú, Phường 1",TP. Sa Đéc
+1464,Bình Dương,10.946454,106.6895,"Số 200, khu phố Thạnh Hòa A, P. An Thạnh",TX. Thuận An
+1465,Đắk Lắk,12.50884,108.33856,"Số 202, Đường Nguyễn Tất Thành, Tổ Dân Phố 05, Thị Trấn Krông Kmar",Huyện Krông Bông
+1466,Bình Định,14.175328,109.05134,"Số 205 đường Quang Trung, TT. Phù Mỹ",H. Phù Mỹ
+1467,Hà Nội,21.018513,105.79269,"Số 205 Trung Kính, Phường Yên Hòa",Quận Cầu Giấy
+1468,Quảng Ninh,21.012071,107.28415,"Số 209 Đường Trần Phú, P.Cẩm Tây",TP.Cẩm Phả
+1469,Trà Vinh,9.8713071,106.05624,"Số 209, Đường 30/4, Khóm 5, Thị Trấn Cầu Kè",Huyện Cầu Kè
+1470,Bà Rịa - Vũng Tàu,10.340454,107.08057,"Số 21 Hoàng Hoa Thám, P. 3",TP. Vũng Tàu
+1471,Hà Nội,21.044029,105.872821,"Số 210 - 212, Nguyễn Văn Cừ, P. Bồ Đề",Q. Long Biên
+1472,Lâm Đồng,11.535001,107.82329,"Số 215 - 217 Trần Phú, P.Lộc Sơn",TP.Bảo Lộc
+1473,Thái Bình,20.557056,106.35258,Số 22 Tổ 8,Thị Trấn Đông Hưng
+1474,Đắk Lắk,12.69384,108.052514,"Số 220 đường Phan Chu Trinh, Phường Tân Lợi",TP.Buôn Ma Thuột
+1475,Lâm Đồng,11.94985,108.43504,"Số 224-224A-224B đường Phan Đình Phùng, P. 02",TP. Đà Lạt
+1476,Đà Nẵng,16.053642,108.23732,"Số 23 Nguyễn Văn Thoại, P. An Hải Đông",Q. Sơn Trà
+1477,Quảng Ninh,20.980681,106.99943,"Số 230-268-269, Tổ 76, Khu 7, P. Hà Khẩu",TP. Hạ Long
+1478,Hà Nội,20.985081,105.87115,"Số 233 đường Lĩnh Nam, tổ 27, P. Vĩnh Hưng",Q. Hoàng Mai
+1479,Trà Vinh,9.997245,106.205285,"Số 248 – 250 – 252, QL. 53, Khóm 3, TT. Càng Long",H. Càng Long
+1480,Hà Nội,21.020639,105.778344,"Số 25 - 27 Đình Thôn, Phường Mỹ Đình 1, Quận Nam Từ Liêm",Thành phố Hà Nội
+1481,Hà Nội,21.020639,105.778344,"Số 25 - 27 Đình Thôn, Phường Mỹ Đình 1, Quận Nam Từ Liêm",Thành phố Hà Nội
+1482,Bình Dương,10.907034,106.75817,"Số 25/6 Khu Phố Thắng Lợi 2, phường Dĩ An",thị xã Dĩ An
+1483,Long An,10.887888,105.78708,"Số 253-254, đường Cách Mạng Tháng 8, TT. Vĩnh Hưng",H. Vĩnh Hưng
+1484,Hà Nội,20.984519,105.82357,"Số 261, đường Định Công Thượng, P. Định Công",Q. Hoàng Mai
+1485,Bình Thuận,11.149388,107.50676,"Số 268, đường 3/2, TT.Đức Tài",H.Đức Linh
+1486,Trà Vinh,9.7963451,106.45174,"Số 269, đường 3/2, khóm Minh Thuận B, TT. Cầu Ngang",H.Cầu Ngang
+1487,Yên Bái,21.877939,104.68999,"Số 276 Lý Thường Kiệt, TT. Mậu A",H. Văn Yên
+1488,Hà Nội,20.988192,105.86343,"Số 277 Tam Trinh, Phường Hoàng Văn Thụ",Quận Hoàng Mai
+1489,Bình Định,14.553461,109.04527,"Số 280 QL1A, TT. Tam Quan",H. Hoài Nhơn
+1490,Đồng Tháp,10.362627,105.52302,"Số 280/1 Quốc Lộ 80, Khóm Bình Thạnh 1, TT.Lấp Vò",H.Lấp Vò
+1491,Gia Lai,13.800013,107.69443,"Số 281 Đường Quang Trung, Thị Trấn Chư Ty",huyện Đức Cơ
+1492,Trà Vinh,9.688557,106.26018,"Số 283, đường 3/2, TT. Trà Cú",H. Trà Cú
+1493,Vĩnh Phúc,21.231189,105.70215,"Số 286, đường Hai Bà Trưng, P.Hùng Vương",Thị xã Phúc Yên
+1494,Hà Nội,21.198828,105.42337,"Số 30, phố Trần Hưng Đạo, TT.Tây Đằng",Huyện Ba Vì
+1495,Lâm Đồng,11.954304,108.44216,"Số 314 -316 Bùi Thị Xuân, P.2",TP.Đà Lạt
+1496,Hà Nội,21.091684,105.92323,"Số 315 Đường Hà Huy Tập, TT.Yên Viên",H.Gia Lâm
+1497,Bắc Giang,21.284378,106.22394,"Số 318 Đường Giáp Hải, P. Dĩnh Kế",TP. Bắc Giang
+1498,Gia Lai,13.969983,108.02128,"Số 32 Lê Duẩn, P.Trà Bá",TP.Pleiku
+1499,Bình Dương,11.125262,106.60372,"Số 32, Đường N5-D10, KCN Mỹ Phước 1, P. Thới Hoà",Tx. Bến Cát
+1500,Bắc Ninh,21.176901,106.07362,"Số 320 Đường Trần Hưng Đạo, P.Đại Phúc",TP.Bắc Ninh
+1501,Đồng Tháp,10.467493,105.62631,"Số 329 Đường 30/04, P.1",TP.Cao Lãnh
+1502,Bình Dương,11.004813,106.71889,"Số 33, tổ 3, khu phố Khánh Thạnh, P. Tân Phước Khánh",TX. Tân Uyên
+1503,Lào Cai,22.488883,103.96946,"Số 333 Đường Hoàng Liên, P.Cốc Lếu",TP.Lào Cai
+1504,Quảng Nam,15.559171,108.48854,"Số 339 Trần Cao Vân, P. An Sơn",TP Tam Kỳ
+1505,Thái Nguyên,21.598822,105.83422,"Số 341 Bắc Kạn, Tổ 14, P.Hoàng Văn Thụ",TP.Thái Nguyên
+1506,Bạc Liêu,9.298866,105.721432,"Số 378 đường Trần Phú, khóm 5, phường 7",thành phố Bạc Liêu
+1507,Bình Phước,11.418124,106.6153,"Số 38 Quốc Lộ 13, Tổ 6, Khu Phố 2, TT.Chơn Thành",H.Chơn Thành
+1508,Hà Nội,21.014064,105.76921,"Số 38, Đ. Lê Quang Đạo, P. Phú Đô",Q. Nam Từ Liêm 
+1509,Bình Thuận,11.064599,108.129304,"Số 387, Quốc lộ 28, khu phố 1, Thị Trấn Ma Lâm, Huyện Hàm Thuận Bắc",Tỉnh Bình Thuận
+1510,An Giang,10.443176,105.38712,"Số 391, Quốc Lộ 91, Ấp Hòa Long 1, TT. An Châu",H. Châu Thành
+1511,Hà Nội,21.116861,105.49604,"Số 4 - 6 Phố Thanh Vỵ, P. Sơn Lộc",TX. Sơn Tây
+1512,Thái Bình,20.448443,106.33545,"Số 406 Lý Bôn, P. Trần Hưng Đạo",TP.Thái Bình
+1513,Hà Nội,21.043269,105.8144,"Số 412 đường Hoàng Hoa Thám, P. Thụy Khuê",Q. Tây Hồ
+1514,Ninh Thuận,11.778186,108.78176,"Số 434 đường Lê Duẩn, khu phố 3, TT. Tân Sơn",H. Ninh Sơn
+1515,Hà Nội,20.995519,105.75512,"Số 446, đường Đại Mỗ, P. Đại Mỗ",Q. Nam Từ Liêm
+1516,Bắc Kạn,22.149645,105.83299,"Số 45-47 đường Hùng Vương, tổ 4, P. Sông Cầu",TP. Bắc Kạn 
+1517,Hà Nội,20.998126,105.86813,"Số 466 phố Minh Khai, P. Vĩnh Tuy",Q.Hai Bà Trưng
+1518,Bạc Liêu,9.2387311,105.45877,"Số 472 khóm 2, Phường 1",Thị Xã Giá Rai
+1519,Quảng Ninh,21.034519,106.769852,"Số 487 Quang Trung, P.Quang Trung",TP.Uông Bí
+1520,Hà Nội,21.0364459,105.7785582,"Số 5 đường Hồ Tùng Mậu, Phường Mai Dịch, Quận Cầu Giấy",Thành phố Hà Nội
+1521,Hà Tĩnh,18.337406,105.89638,"Số 50 đường Hà Huy Tập, P. Hà Huy Tập",Tp. Hà Tĩnh
+1522,Đồng Tháp,10.87986,105.45098,"Số 50 Nguyễn Huệ, TT. Sa Rài",H. Tân Hồng
+1523,Hà Nội,20.970866,105.78419,Số 51-53-55 đường Phùng Hưng P.Phúc La,Q.Hà Đông
+1524,Đà Nẵng,16.049025,108.21357,"Số 526 đường Trưng Nữ Vương, P. Hòa Thuận Tây",Q. Hải Châu
+1525,Lai Châu,22.394669,103.46327,"Số 56 Trần Phú, tổ 4A, P. Tân Phong",TP. Lai Châu
+1526,Bà Rịa - Vũng Tàu,10.399586,107.11686,"Số 570 đường 30/4, P.Rạch Dừa",TP.Vũng Tàu
+1527,Lâm Đồng,11.727436,108.36975,"Số 594 - 596 Quốc Lộ 20, KP.8, TT.Liên Nghĩa",H.Đức Trọng
+1528,Hà Nội,21.054656,105.73276,"Số 6 - 8 Phố Nhổn, Phường Minh Khai",Quận Bắc Từ Liêm
+1529,Bà Rịa - Vũng Tàu,10.491037,107.18762,"Số 602 đường Phạm Hùng, P. Long Toàn",TP. Bà Rịa
+1530,Long An,10.774711,105.93814,"Số 61 Đốc Binh Kiều (QL62), P.01",TX.Kiến Tường
+1531,Thái Nguyên,21.411496,105.87277,"Số 61 Phạm Văn Đồng, Tổ dân phố 5, P. Ba Hàng",TX. Phổ Yên
+1532,Quảng Ninh,21.02227,106.98795,"Số 62-63, TT. Trới",H. Hoành Bồ
+1533,Hà Nội,21.014389,105.865444,"Số 638 đường Bạch Đằng, Phường Bạch Đằng, Quận Hai Bà Trưng",Thành phố Hà Nội
+1534,Bình Dương,10.946389,106.74155,"Số 63A/1, Khu phố 1A, P.An Phú",TX.Thuận An
+1535,Hà Nội,21.138311,105.85847,"Số 64-66-68 đường Cao Lỗ, Xã Uy Nỗ",H.Đông Anh
+1536,Hà Nội,20.957638,105.80699,"Số 65, đường Phan Trọng Tuệ, xã Tả Thanh Oai",H. Thanh Trì
+1537,Hà Nội,20.957638,105.80699,"Số 65, đường Phan Trọng Tuệ, xã Tả Thanh Oai",H. Thanh Trì
+1538,Đồng Tháp,10.453059,105.63099,"Số 72 đường Phạm Hữu Lầu, phường 4",TP Cao Lãnh
+1539,Hà Nội,20.96477,105.81913,"Số 750 đường Kim Giang, thôn Nội, xã Thanh Liệt",huyện Thanh Trì
+1540,Hà Nội,20.96477,105.81913,"Số 750 đường Kim Giang, thôn Nội, xã Thanh Liệt",huyện Thanh Trì
+1541,Hà Tĩnh,18.342174,105.89243,"Số 76 đường Trần Phú, P. Trần Phú",Tp. Hà Tĩnh
+1542,Bạc Liêu,9.026862,105.41944,"Số 78, ấp 3, TT. Gành Hào",H. Đông Hải
+1543,An Giang,10.378006,105.43166,"Số 820 Hà Hoàng Hổ, P. Đông Xuyên",TP. Long Xuyên
+1544,Đồng Tháp,10.260033,105.87384,"Số 83C, Quốc lộ 80, TT.Cái Tàu Hạ",H.Châu Thành
+1545,Ninh Thuận,11.524232,108.92749,"Số 84 QL 1A, TT. Phước Dân",H. Ninh Phước
+1546,Phú Thọ,21.397117,105.21993,"Số 84-86, phố Lê Đồng, P.Âu Cơ",TX.Phú Thọ
+1547,Hà Nội,21.080495,105.78492,"Số 87 đường Tân Xuân,Phường Xuân Đỉnh",Quận Bắc Từ Liêm
+1548,Đà Nẵng,16.072873,108.158575,"Số 897 - 899 đường Âu Cơ, P. Hoà Khánh Bắc",Q. Liên Chiểu
+1549,Gia Lai,14.0431819,108.2547897,"Số 9, Lý Thái Tổ, Tổ Dân Phố 04, Thị Trấn Kon Dơng",Huyện Mang Yang
+1550,Thái Bình,20.651578,106.32433,"Số 91, Tổ dân phố số 7, TT. Quỳnh Côi",H. Quỳnh Phụ
+1551,Quảng Ninh,21.069344,107.41982,"Số 92, tổ 1, khu 4, thị trấn Cái Rồng",huyện Vân Đồn
+1552,Hà Nội,21.050791,105.80772,"Số 93 Lạc Long Quân, P.Nghĩa Đô",Q.Cầu Giấy
+1553,Gia Lai,13.981421,107.9965367,"Số 93C Phan Đình Phùng, Phường Yên Đỗ, Thành phố Pleiku",Tỉnh Gia Lai
+1554,Hà Nội,20.983531,105.792447,"Số 97A, đường Trần Phú, Phường Văn Quán, Quận Hà Đông",Thành phố Hà Nội
+1555,Bình Dương,11.153273,106.58988,"Số 97C, đường 30 tháng 4, Khu phố 1, P.Mỹ Phước",TX.Bến Cát
+1556,Long An,10.537279,106.40594,"Số 98-100-102 đường Hùng Vương, P. 2",TP. Tân An
+1557,Bình Phước,11.733461,106.8729,"Số 991, Tổ 6, Thôn Tân Lực, X. Bù Nho",H. Phú Riêng
+1558,Bắc Giang,21.2792473,106.1936876,"Số nhà 01, đường Nguyễn Văn Cừ, P. Ngô Quyền",TP. Bắc Giang
+1559,Thái Nguyên,21.625071,105.84428,"Số nhà 08, Tổ 17, Phường Chùa Hang",TP. Thái Nguyên
+1560,Hà Giang,23.277373,105.35911,"Số nhà 100, đường 3/2, tổ 2, TT. Đồng Văn",H. Đồng Văn
+1561,Cao Bằng,22.736412,106.15296,"Số nhà 138, khu Hoằng Bó 2, TT. Nước Hai",H. Hòa An
+1562,Lâm Đồng,11.760967,108.49312,"Số nhà 159 - 161 đường 2 tháng 4, khu phố Thạnh Nghĩa, TT. Thạnh Mỹ",H. Đơn Dương
+1563,Hà Giang,22.821293,104.9816,"Số nhà 331 đường Nguyễn Trãi, P.Nguyễn Trãi",TP.Hà Giang
+1564,Thái Nguyên,21.545086,105.87124,"Số nhà 464, Đường Cách Mạng Tháng Tám, P. Trung Thành",TP. Thái Nguyên
+1565,Quảng Ninh,20.973285,107.015906,"Số nhà 500, Đường Quốc Lộ 18, Tổ 9, Khu 6, Phường Giếng Đáy, Thành phố Hạ Long",Tỉnh Quảng Ninh
+1566,Hà Giang,23.064776,104.99103,"Số nhà 64-66, TT. Tam Sơn",H. Quản Bạ
+1567,Kon Tum,14.362924,107.99995,"Số nhà 669, đường Phan Đình Phùng, P. Duy Tân",TP. Kon Tum
+1568,Bình Dương,10.973095,106.71575,"Số T1/68MB, Tổ 1, Khu Phố Bình Thuận 2, Phường Thuận Giao",Thị Xã Thuận An
+1569,Hà Nội,20.9695219,105.8290987,"Tầng 1 Khu thương mai (Tòa nhà chung cư CT4A), Khu đô thị Linh Đàm, P. Đại Kim",Q. Hoàng Mai
+1570,Hà Nội,20.9695219,105.8290987,"Tầng 1 Khu thương mai (Tòa nhà chung cư CT4A), Khu đô thị Linh Đàm, P. Đại Kim",Q. Hoàng Mai
+1571,Bến Tre,10.1957717,106.6891792,Thị Trấn Bình Đại,Huyện Bình Đại
+1572,Hòa Bình,20.673017,105.53611,Thị trấn Bo,huyện Kim Bôi
+1573,Phú Thọ,21.352909,105.29226,thị trấn Hùng Sơn,huyện Lâm Thao
+1574,Đồng Tháp,10.440889,105.696441,Thị Trấn Mỹ Thọ,Huyện Cao Lãnh
+1575,An Giang,10.2692267,105.2675252,Thị Trấn Núi Sập,Huyện Thoại Sơn
+1576,Long An,10.600601,106.40296,Thị Trấn Thủ Thừa,Huyện Thủ Thừa
+1577,Hà Nội,20.978147,105.67356,"Thôn 1, Xã Cộng Hòa",Huyện Quốc Oai
+1578,Hà Nội,21.050788,105.56915,"Thôn 84, xã Kim Quan",H. Thạch Thất
+1579,Hà Nội,21.026872,105.51917,"Thôn 9, X. Thạch Hòa",H. Thạch Thất
+1580,Lào Cai,22.53556,104.29047,"Thôn Bắc Hà 6, TT. Bắc Hà",H. Bắc Hà
+1581,Hà Nội,21.12904,105.77953,"Thôn Bầu, Xã Kim Chung",Huyện Đông Anh
+1582,Hà Nội,21.12904,105.77953,"Thôn Bầu, Xã Kim Chung",Huyện Đông Anh
+1583,Hà Nội,20.8892,105.76296,"Thôn chợ ( Bình Đà) ,Xã Bình Minh",Huyện Thanh Oai
+1584,Hà Nội,20.738444,105.76812,"Thôn Đình Trảng, xã Liên Bạt",H. Ứng Hòa
+1585,Thái Bình,20.470328,106.31935,"Thôn Đồng Thanh, X. Tân Bình",TP. Thái Bình
+1586,Bắc Ninh,21.189204,106.00615,"Thôn Đông Yên, xã Đông Phong",H. Yên Phong
+1587,Bắc Ninh,21.157045,106.126109,"Thôn Giang Liễu, Xã Phương Liễu",H. Quế Võ
+1588,Thái Bình,20.552735,106.27812,"Thôn Liên Minh, X. Minh Tân",H. Đông Hưng
+1589,Bắc Ninh,21.15438,106.14578,"Thôn Mao Trung, Xã Phượng Mao",H.Quế Võ
+1590,Hà Nội,21.116409,105.82789,"Thôn Ngọc Chi, Xã Vĩnh Ngọc",Huyện Đông Anh
+1591,Bắc Giang,21.22475,106.107251,"Thôn Núi Hiểu, Xã Quang Châu, Huyện Việt Yên",Tỉnh Bắc Giang
+1592,Hà Nội,21.1386679,105.855373,"Thôn Phan Xá, xã Uy Nỗ",H. Đông Anh
+1593,Hà Nam,20.571753,105.87292,"Thôn Quyển Sơn, Xã Thi Sơn",Huyện Kim Bảng
+1594,Hà Nội,21.215215,105.40871,"Thôn Tân Phú Mỹ, Xã Vật Lại",Huyện Ba Vì
+1595,Hà Nội,20.686116,105.74215,"Thôn Tế Tiêu, TT.Đại Nghĩa",Huyện Mỹ Đức
+1596,Hà Nội,20.686116,105.74215,"Thôn Tế Tiêu, TT.Đại Nghĩa",Huyện Mỹ Đức
+1597,Hà Nội,21.023601,105.60556,"Thôn Thái Hòa, xã Bình Phú",H. Thạch Thất
+1598,Hà Nội,21.198329,105.82995,"Thôn Thái Phù, Xã Mai Đình",Huyện Sóc Sơn
+1599,Bắc Giang,21.333623,106.84617,"Thôn Thượng, xã An Châu",H. Sơn Động
+1600,Hà Nội,21.026564,105.64554,"Thôn Thụy Khuê, Xã Sài Sơn",Huyện Quốc Oai
+1601,Hà Nội,21.005226,105.71987,"Thôn Vân Lũng, X. An Khánh",H. Hoài Đức
+1602,Hà Nội,21.112933,105.467867,"Thôn Vị Thủy, Xã Thanh Mỹ, Thị Xã Sơn Tây",Thành phố Hà Nội
+1603,Thái Bình,20.344121,106.54421,"Thôn Vĩnh Trà, Xã Nam Trung",Huyện Tiền Hải
+1604,Hà Nội,21.121695,105.38821,"Thôn Yên Thành, X. Tản Lĩnh",H. Ba Vì
+1605,Đồng Tháp,10.474928,105.64623,"Thửa đất số 1 và thửa số 2, Tờ bản đồ số 36, khóm Mỹ Trung, Phường Mỹ Phú, Thành phố Cao Lãnh",Tỉnh Đồng Tháp
+1606,Hà Nam,20.643571,105.924123,"Thửa đất số 11, tờ bản đồ PL13, phố Nguyễn Hữu Tiến, thị trấn Đồng Văn, huyện Duy Tiên, tỉnh Hà Nam ( nay là phường Đồng Văn",thị xã Duy Tiên
+1607,Bình Thuận,10.9192511,108.0887933,"Thửa đất số 160, Tờ bản đồ số 10, Phường Đức Long, Thành phố Phan Thiết",Tỉnh Bình Thuận
+1608,Bắc Giang,21.261798,106.27322,"Thửa đất số 19-20 Thôn Đạo, Xã Tân An",H. Yên Dũng
+1609,Long An,10.626836,106.49481,"Thửa đất số 2192 và 3496, tờ bản đồ số 01, TT. Bến Lức",H. Bến Lức
+1610,Đồng Tháp,10.5586044,105.4887087,"Thửa đất số 25-27-30-31, Tờ bản đồ số 31, Thị Trấn Thanh Bình, Huyện Thanh Bình",Tỉnh Đồng Tháp
+1611,Long An,10.601015,106.66522,"Thửa đất số 253 và 3496, tờ bản đồ số 2, xã Trường Bình",H. Cần Giuộc
+1612,Thái Bình,20.614114,106.14732,"Thửa đất số 482, thôn Thị An, TT. Hưng Nhân",H. Hưng Hà
+1613,Bắc Giang,21.301204,106.38147,"Thửa đất số 49 và 50, tờ bản đồ số 45, Thị Trấn Đồi Ngô",Huyện Lục Nam
+1614,Long An,10.582162,106.58988,"Thửa đất số 76 và 77, tờ bản đồ số 2C, ấp 05, xã Long Hòa",H. Cần Đước
+1615,Bến Tre,9.947801,106.514045,"Thửa đất số 97, tờ bản đồ số 34, ấp Thạnh Trị Hạ, Thị Trấn Thạnh Phú, Huyện Thạnh Phú",Tỉnh Bến Tre
+1616,Hà Nội,20.737155,105.91313,"Tiểu khu Mỹ Lâm, Thị trấn Phú Xuyên",H.Phú Xuyên
+1617,Bà Rịa - Vũng Tàu,10.649325,107.04141,"Tổ 1, ấp Phước Hưng, xã Mỹ Xuân",H. Tân Thành
+1618,An Giang,10.7030327,105.1324654,"Tổ 1, Khóm Châu Long 1, P. Vĩnh Mỹ",TP. Châu Đốc
+1619,Quảng Ninh,21.009908,107.33645,"Tổ 109, khu 8B, P. Cẩm Phú",TP. Cẩm Phả
+1620,Thái Nguyên,21.622104,105.79174,"Tổ 16, P. Tân Long",TP. Thái Nguyên
+1621,Quảng Ninh,21.004704,107.26918,"Tổ 2, Khu 5B, phường Cẩm Trung",thành phố Cẩm Phả
+1622,Thái Bình,20.5503783,106.3558638,"Tổ 2, Thị Trấn Đông Hưng",H.Đông Hưng
+1623,Hà Giang,22.41613,104.80717,"Tổ 3, Đường Trường Chinh, Thị Trấn Việt Quang, Huyện Bắc Quang",Tỉnh Hà Giang ( Ngã 3 Quang Bình )
+1624,Quảng Ninh,21.010105,107.25206,"Tổ 3, P. Cẩm Thạch",TP. Cẩm Phả
+1625,Hà Giang,23.119105,105.13949,"Tổ 3, TT. Yên Minh",H. Yên Minh
+1626,An Giang,10.463075,105.34243,"Tổ 39, A. Bình Phú 1, X. Bình Hòa",H. Châu Thành
+1627,Hà Giang,23.164098,105.41005,"Tổ 4, thị trấn Mèo Vạc",huyện Mèo Vạc
+1628,Lào Cai,22.337286,103.85037,"Tổ 4A, Thị trấn Sa Pa",H.Sa Pa
+1629,Yên Bái,21.851676,104.08687,TỔ 5 THỊ TRẤN MÙ CĂNG CHẢI ,HUYỆN MÙ CĂNG CHẢI 
+1630,Quảng Bình,17.222823,106.79218,"Tổ 6, đường Hùng Vương, TT. Kiến Giang",H. Lệ Thủy
+1631,Quảng Ninh,21.008627,107.2358,"Tổ 6, khu 2, P. Quang Hanh",TP. Cẩm Phả 
+1632,Yên Bái,21.706294,104.8822,"Tổ 8, Số 165 Đường Nguyễn Thái Học, Phường Nguyễn Thái Học",TP Yên Bái
+1633,Điện Biên,21.379902,103.01586,"Tổ dân phố 3, P.Mường Thanh",Tp.Điện Biên Phủ
+1634,Hà Nội,20.949372,105.74727,"Tổ dân phố 4, Đường Do Lộ, P. Yên Nghĩa",Q. Hà Đông
+1635,Lai Châu,22.399515,103.459498,"Tổ dân phố 5, phường Đoàn Kết",TP.Lai Châu
+1636,Điện Biên,21.758943,103.09359,"Tổ dân phố 5, TT. Mường Chà",H. Mường Chà
+1637,Lào Cai,22.319167,104.18769,"Tổ dân phố Phú Cường 1, TT.Phố Lu",H.Bảo Thắng
+1638,Hà Nội,20.993249,105.73599,"Tổ dân phố Trung Bình, P. Dương Nội, Q. Hà Đông",TP. Hà Nội
+1639,Bình Dương,10.895821,106.76757,"Truông Tre, KP. Nhị Đồng 2, P. Dĩ An",TX. Dĩ An
+1640,Vĩnh Phúc,21.415576,105.461764,TT. Lập Thạch,H. Lập Thạch
+1641,Đồng Tháp,10.521361,105.847631,TT. Mỹ An,H. Tháp Mười
+1642,Thái Bình,20.388685,106.43828,TT. Thanh Nê,H. Kiến Xương
+1643,Đồng Tháp,10.670793,105.56015,TT. Tràm Chim,H. Tam Nông
+1644,Đồng Tháp,10.440889,105.696441,X. Mỹ Long,H. Cao Lãnh
+1645,Bến Tre,10.300543,106.357024,Xã An Hoá,H. Châu Thành
+1646,Đồng Tháp,10.700729,105.381045,Xã An Long,H. Tam Nông
+1647,Bến Tre,10.30979,106.3611297,Xã Tân Thạnh,Huyện Châu Thành
+1648,Hà Nội,21.035313,105.73848,"Xóm 1, Ngã tư Canh, thôn An Trai, xã Vân Canh",H. Hoài Đức
+1649,Hà Nội,20.808838,105.7761,"Xóm Trần Phú, Thôn Canh Hoạch, X. Dân Hòa",H. Thanh Oai
+1650,Cao Bằng,22.5311801,106.5142744,Điện máy Xanh Tổ dân phố 6 thị trấn Hoà Thuận,huyện Phục Hoà
+1651,Thái Nguyên,21.401194,105.808327,Điện máy Xanh Thửa đất số 279 tờ bản đồ 61 xã Thành Công,thị xã Phổ Yên
+1652,Thái Nguyên,21.615586,105.839441,Điện máy Xanh Xã Nam Hoà,huyện Đồng Hỷ
+1653,Quảng Ngãi,15.1573626,108.8433364,Điện máy Xanh ĐMS_QNG_QNG,Tịnh Châu
+1654,Quảng Ngãi,15.148761,108.7974,419 Nguyễn Văn Linh Phường Trương Quang Trọng,TP Quảng Ngãi
+1655,Kon Tum,14.706855,107.6921,Điện máy Xanh Số 811 - 813 Hùng Vương,TT. Plei kần
+1656,Lâm Đồng,11.67553,107.98603,Điện máy Xanh Xã Tân Lâm,huyện Di Linh
+1657,Hà Giang,22.830748,104.98534,Số 144 - Tổ 8 - Đường Trần Hưng Đạo - Phường Trần Phú ,TP. Hà Giang
+1658,Bắc Giang,21.358358,105.98282,"Điện máy Xanh Số 239 Quốc lộ 37, TT. Thắng",H. Hiệp Hòa

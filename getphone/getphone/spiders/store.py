@@ -47,17 +47,13 @@ class StoreSpider(scrapy.Spider):
         for store in stores:
             store_address = store.xpath('normalize-space(./a[1]/text())').get()
             map_address = store.xpath('./a[2]/@href').get()
-            address_match = self.check_match(self.address_pattern, store_address)
+            #address_match = self.check_match(self.address_pattern, store_address)
             map_match = self.check_match(self.map_pattern, map_address)
             yield {
                     'province': province_name,
-                    'district': address_match[1],
-                    'address': address_match[0],
+                    'store_address':store_address,
+                    #'district': address_match[1],
+                    #'address': address_match[0],
                     'latitude': map_match[0],
                     'longitude': map_match[1]
                     }
-
-
-    def spider_closed(self, spider):
-        print('Closing {} spider'.format(spider.name))
-        print('~~~~', self.error_match)
