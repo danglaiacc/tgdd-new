@@ -14,6 +14,10 @@
 - Dừng ở bước chuyển dữ liệu từ csv sang postgreSQL 
 
 ## Yêu cầu
+### Thư viện
+- `pip install psycopg2`: import database for postgresql
+
+### Khác
 - Font UTM Avo cho báo cáo tableau
 - Cài hình nếu có của Tableau vào folder trong document. 
 
