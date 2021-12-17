@@ -58,6 +58,31 @@ script_full = '''
            return splash:html()
        end
     '''
+script_btn_more = '''
+function main(splash, args)
+  splash:on_request(function(request)
+    if request.url:find('css') then
+      request.abort()
+    end
+  end)
+  splash.images_enabled = false 
+  
+  time = 0.5
+  assert(splash:go(args.url))
+  assert(splash:wait(time))
+
+  class = '{}'
+  btn_more = splash:select(class)
+  while btn_more ~= nil do
+    btn_more:mouse_click()
+    splash:wait(time)
+    btn_more = splash:select(class)
+  end
+  
+  return splash:html()
+end
+'''
+
 script_more = '''
           function main(splash, args)
             splash:on_request(function(request)

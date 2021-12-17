@@ -1,5 +1,5 @@
 @echo off
-set /p commit="Nhập ghi chú: "
+set /p commit="enter commit: "
 
 git add -A
 git commit -m "fix (tableau): %commit%"

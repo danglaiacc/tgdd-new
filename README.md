@@ -16,3 +16,6 @@
 ## Yêu cầu
 - Font UTM Avo cho báo cáo tableau
 - Cài hình nếu có của Tableau vào folder trong document. 
+
+## Note
+- Sau khi làm xong phần tableau, xem lại video 31 để thêm phần hướng dẫn sử dụng.

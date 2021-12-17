@@ -681,6 +681,19 @@
       <style />
       <size maxheight='1400' maxwidth='1400' minheight='1400' minwidth='1400' sizing-mode='fixed' />
       <zones>
+        <zone h='100000' id='13' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='98858' id='18' param='vert' type-v2='layout-flow' w='98858' x='571' y='571'>
+            <zone h='98858' id='16' param='vert' type-v2='layout-flow' w='98858' x='571' y='571'>
+              <zone h='98858' id='14' type-v2='layout-basic' w='98858' x='571' y='571' />
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
         <zone h='100000' id='5' is-centered='0' is-scaled='1' param='D:/DoAn/DoAnChuyenNganh/new/tableau/background.png' type-v2='bitmap' w='100000' x='0' y='0' />
         <zone h='15000' id='6' name='BAN - Sale' show-title='false' w='20000' x='28000' y='5000' />
         <zone h='15000' id='9' name='BAN - Quantity' show-title='false' w='20000' x='50786' y='5000' />
@@ -690,8 +703,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='950' minheight='950' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='12' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98858' id='11' param='vert' type-v2='layout-flow' w='98858' x='571' y='571'>
+            <zone h='100000' id='20' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98858' id='19' param='vert' type-v2='layout-flow' w='98858' x='571' y='571'>
                 <zone fixed-size='280' h='100000' id='5' is-centered='0' is-fixed='true' is-scaled='1' param='D:/DoAn/DoAnChuyenNganh/new/tableau/background.png' type-v2='bitmap' w='100000' x='0' y='0'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -755,7 +768,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='5' />
+      <active id='-1' />
       <simple-id uuid='{FE904176-209F-4FCE-88CD-0349D19F43D9}' />
     </window>
     <window class='worksheet' name='BAN - Sale'>
