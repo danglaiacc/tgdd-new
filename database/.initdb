@@ -24,7 +24,7 @@ create table customer(id varchar(20) primary key, password varchar(20), fullname
 create table comment(customer_id varchar(20), product_id serial, time_up timestamp DEFAULT Now(), content varchar(3000), rate_star serial, time_resolved timestamp default now(), handler varchar(20) default '', foreign key (customer_id) references customer(id), foreign key (product_id) references product(id), primary key (product_id, customer_id, time_up));
 
 create table branch(
- id serial primary key, address varchar(140), district varchar(60), province varchar(20), longitude float, latitude float
+ id serial primary key, address varchar(140), district varchar(60), province varchar(20), longitude float, latitude float, zipcode char(6)
 );
 
 create table invoice(

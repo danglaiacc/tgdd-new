@@ -91,6 +91,95 @@
         </members>
       </column>
     </datasource>
+    <datasource caption='Line Param Data' inline='true' name='federated.1k6hebv1nzwz391crv8xv1eoiakt' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Parameter_Action_Sheet_Selector' name='excel-direct.1knewlm10g093m1a16blg0e7nnxr'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='D:/DoAn/DoAnChuyenNganh/new/tableau/Parameter_Action_Sheet_Selector.xlsx' interpretationMode='0' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.1knewlm10g093m1a16blg0e7nnxr' name='Sheet1' table='[Sheet1$]' type='table'>
+          <columns gridOrigin='A1:B3:no:A1:B3:0' header='yes' outcome='6'>
+            <column datatype='integer' name='Line Parameter' ordinal='0' />
+            <column datatype='string' name='Name' ordinal='1' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='excel-direct.1knewlm10g093m1a16blg0e7nnxr' name='Sheet1' table='[Sheet1$]' type='table'>
+          <columns gridOrigin='A1:B3:no:A1:B3:0' header='yes' outcome='6'>
+            <column datatype='integer' name='Line Parameter' ordinal='0' />
+            <column datatype='string' name='Name' ordinal='1' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:B3:no:A1:B3:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>6</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Line Parameter</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Line Parameter]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Line Parameter</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_BB732323742147EA86ADC2B543DE475F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Name</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Name]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Name</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_BB732323742147EA86ADC2B543DE475F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column aggregation='Sum' datatype='integer' name='[Line Parameter]' role='dimension' type='ordinal' />
+      <_.fcp.ObjectModelTableType.true...column caption='Sheet1' datatype='table' name='[__tableau_internal_object_id__].[Sheet1_BB732323742147EA86ADC2B543DE475F]' role='measure' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Viet Nam&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='Sheet1' id='Sheet1_BB732323742147EA86ADC2B543DE475F'>
+            <properties context=''>
+              <relation connection='excel-direct.1knewlm10g093m1a16blg0e7nnxr' name='Sheet1' table='[Sheet1$]' type='table'>
+                <columns gridOrigin='A1:B3:no:A1:B3:0' header='yes' outcome='6'>
+                  <column datatype='integer' name='Line Parameter' ordinal='0' />
+                  <column datatype='string' name='Name' ordinal='1' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
     <datasource caption='data xlsx' inline='true' name='federated.0zf0fdx1t595e514z0tji19ba9zs' version='18.1'>
       <connection class='federated'>
         <named-connections>
@@ -116,11 +205,13 @@
             </columns>
           </relation>
           <relation connection='excel-direct.1lfpoop1erefm715inkfr17hvkh5' name='invoice' table='[invoice$]' type='table'>
-            <columns gridOrigin='A1:D9355:no:A1:D9355:0' header='yes' outcome='2'>
+            <columns gridOrigin='A1:F9355:no:A1:F9355:0' header='yes' outcome='2'>
               <column datatype='integer' name='id' ordinal='0' />
               <column datatype='string' name='customer_id' ordinal='1' />
               <column datatype='datetime' name='time_invoice' ordinal='2' />
               <column datatype='integer' name='branch_id' ordinal='3' />
+              <column datatype='string' name='province' ordinal='4' />
+              <column datatype='string' name='zipcode' ordinal='5' />
             </columns>
           </relation>
           <relation connection='excel-direct.1lfpoop1erefm715inkfr17hvkh5' name='product' table='[product$]' type='table'>
@@ -142,9 +233,11 @@
           <map key='[product_id]' value='[invoice_detail].[product_id]' />
           <map key='[product_name]' value='[product].[product_name]' />
           <map key='[product_price]' value='[invoice_detail].[product_price]' />
+          <map key='[province]' value='[invoice].[province]' />
           <map key='[quantity]' value='[invoice_detail].[quantity]' />
           <map key='[series_name]' value='[product].[series_name]' />
           <map key='[time_invoice]' value='[invoice].[time_invoice]' />
+          <map key='[zipcode]' value='[invoice].[zipcode]' />
         </cols>
         <metadata-records>
           <metadata-record class='capability'>
@@ -170,7 +263,7 @@
             <contains-null>true</contains-null>
             <attributes>
               <attribute datatype='integer' name='context'>2</attribute>
-              <attribute datatype='string' name='gridOrigin'>&quot;A1:D9355:no:A1:D9355:0&quot;</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:F9355:no:A1:F9355:0&quot;</attribute>
               <attribute datatype='boolean' name='header'>true</attribute>
               <attribute datatype='integer' name='outcome'>2</attribute>
             </attributes>
@@ -183,7 +276,7 @@
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
             <attributes>
-              <attribute datatype='integer' name='context'>2</attribute>
+              <attribute datatype='integer' name='context'>0</attribute>
               <attribute datatype='string' name='gridOrigin'>&quot;A1:D224:no:A1:D224:0&quot;</attribute>
               <attribute datatype='boolean' name='header'>true</attribute>
               <attribute datatype='integer' name='outcome'>2</attribute>
@@ -311,12 +404,44 @@
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[invoice_B9ECD7E40F4241AFA9092ADC99B7B44A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
+            <remote-name>province</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[province]</local-name>
+            <parent-name>[invoice]</parent-name>
+            <remote-alias>province</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[invoice_B9ECD7E40F4241AFA9092ADC99B7B44A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>zipcode</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[zipcode]</local-name>
+            <parent-name>[invoice]</parent-name>
+            <remote-alias>zipcode</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[invoice_B9ECD7E40F4241AFA9092ADC99B7B44A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
             <remote-name>product_id</remote-name>
             <remote-type>20</remote-type>
             <local-name>[product_id (product)]</local-name>
             <parent-name>[product]</parent-name>
             <remote-alias>product_id</remote-alias>
-            <ordinal>8</ordinal>
+            <ordinal>10</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
@@ -331,7 +456,7 @@
             <local-name>[product_name]</local-name>
             <parent-name>[product]</parent-name>
             <remote-alias>product_name</remote-alias>
-            <ordinal>9</ordinal>
+            <ordinal>11</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
@@ -347,7 +472,7 @@
             <local-name>[series_name]</local-name>
             <parent-name>[product]</parent-name>
             <remote-alias>series_name</remote-alias>
-            <ordinal>10</ordinal>
+            <ordinal>12</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
@@ -363,7 +488,7 @@
             <local-name>[manu_name]</local-name>
             <parent-name>[product]</parent-name>
             <remote-alias>manu_name</remote-alias>
-            <ordinal>11</ordinal>
+            <ordinal>13</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
@@ -500,8 +625,10 @@
       <column caption='product_id' datatype='integer' name='[product_id (product)]' role='measure' type='quantitative' />
       <column caption='Product Id' datatype='integer' name='[product_id]' role='dimension' type='ordinal' />
       <column caption='Product Price' datatype='integer' name='[product_price]' role='measure' type='quantitative' />
+      <column datatype='string' name='[province]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
       <column caption='Quantity' datatype='integer' name='[quantity]' role='measure' type='quantitative' />
       <column caption='Time Invoice' datatype='datetime' name='[time_invoice]' role='dimension' type='ordinal' />
+      <column datatype='string' name='[zipcode]' role='dimension' semantic-role='[ZipCode].[Name]' type='nominal' />
       <column-instance column='[Calculation_950259572190072835]' derivation='User' name='[pcdf:usr:Calculation_950259572190072835:qk:1]' pivot='key' type='quantitative'>
         <table-calc diff-options='Relative' ordering-field='[federated.0zf0fdx1t595e514z0tji19ba9zs].[twk:time_invoice:qk]' ordering-type='Field' type='PctDiff'>
           <address>
@@ -614,11 +741,13 @@
           <object caption='invoice' id='invoice_B9ECD7E40F4241AFA9092ADC99B7B44A'>
             <properties context=''>
               <relation connection='excel-direct.1lfpoop1erefm715inkfr17hvkh5' name='invoice' table='[invoice$]' type='table'>
-                <columns gridOrigin='A1:D9355:no:A1:D9355:0' header='yes' outcome='2'>
+                <columns gridOrigin='A1:F9355:no:A1:F9355:0' header='yes' outcome='2'>
                   <column datatype='integer' name='id' ordinal='0' />
                   <column datatype='string' name='customer_id' ordinal='1' />
                   <column datatype='datetime' name='time_invoice' ordinal='2' />
                   <column datatype='integer' name='branch_id' ordinal='3' />
+                  <column datatype='string' name='province' ordinal='4' />
+                  <column datatype='string' name='zipcode' ordinal='5' />
                 </columns>
               </relation>
             </properties>
@@ -654,95 +783,6 @@
             <second-end-point object-id='product_1429BCFD76574385BB3126D84AF2BD19' />
           </relationship>
         </relationships>
-      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
-    </datasource>
-    <datasource caption='Line Param Data' inline='true' name='federated.1k6hebv1nzwz391crv8xv1eoiakt' version='18.1'>
-      <connection class='federated'>
-        <named-connections>
-          <named-connection caption='Parameter_Action_Sheet_Selector' name='excel-direct.1knewlm10g093m1a16blg0e7nnxr'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='D:/DoAn/DoAnChuyenNganh/new/tableau/Parameter_Action_Sheet_Selector.xlsx' interpretationMode='0' password='' server='' validate='no' />
-          </named-connection>
-        </named-connections>
-        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.1knewlm10g093m1a16blg0e7nnxr' name='Sheet1' table='[Sheet1$]' type='table'>
-          <columns gridOrigin='A1:B3:no:A1:B3:0' header='yes' outcome='6'>
-            <column datatype='integer' name='Line Parameter' ordinal='0' />
-            <column datatype='string' name='Name' ordinal='1' />
-          </columns>
-        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
-        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='excel-direct.1knewlm10g093m1a16blg0e7nnxr' name='Sheet1' table='[Sheet1$]' type='table'>
-          <columns gridOrigin='A1:B3:no:A1:B3:0' header='yes' outcome='6'>
-            <column datatype='integer' name='Line Parameter' ordinal='0' />
-            <column datatype='string' name='Name' ordinal='1' />
-          </columns>
-        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
-        <metadata-records>
-          <metadata-record class='capability'>
-            <remote-name />
-            <remote-type>0</remote-type>
-            <parent-name>[Sheet1]</parent-name>
-            <remote-alias />
-            <aggregation>Count</aggregation>
-            <contains-null>true</contains-null>
-            <attributes>
-              <attribute datatype='integer' name='context'>0</attribute>
-              <attribute datatype='string' name='gridOrigin'>&quot;A1:B3:no:A1:B3:0&quot;</attribute>
-              <attribute datatype='boolean' name='header'>true</attribute>
-              <attribute datatype='integer' name='outcome'>6</attribute>
-            </attributes>
-          </metadata-record>
-          <metadata-record class='column'>
-            <remote-name>Line Parameter</remote-name>
-            <remote-type>20</remote-type>
-            <local-name>[Line Parameter]</local-name>
-            <parent-name>[Sheet1]</parent-name>
-            <remote-alias>Line Parameter</remote-alias>
-            <ordinal>0</ordinal>
-            <local-type>integer</local-type>
-            <aggregation>Sum</aggregation>
-            <contains-null>true</contains-null>
-            <attributes>
-              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
-            </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_BB732323742147EA86ADC2B543DE475F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
-          </metadata-record>
-          <metadata-record class='column'>
-            <remote-name>Name</remote-name>
-            <remote-type>130</remote-type>
-            <local-name>[Name]</local-name>
-            <parent-name>[Sheet1]</parent-name>
-            <remote-alias>Name</remote-alias>
-            <ordinal>1</ordinal>
-            <local-type>string</local-type>
-            <aggregation>Count</aggregation>
-            <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
-            <attributes>
-              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
-            </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_BB732323742147EA86ADC2B543DE475F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
-          </metadata-record>
-        </metadata-records>
-      </connection>
-      <aliases enabled='yes' />
-      <column aggregation='Sum' datatype='integer' name='[Line Parameter]' role='dimension' type='ordinal' />
-      <_.fcp.ObjectModelTableType.true...column caption='Sheet1' datatype='table' name='[__tableau_internal_object_id__].[Sheet1_BB732323742147EA86ADC2B543DE475F]' role='measure' type='quantitative' />
-      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
-      <semantic-values>
-        <semantic-value key='[Country].[Name]' value='&quot;Viet Nam&quot;' />
-      </semantic-values>
-      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
-        <objects>
-          <object caption='Sheet1' id='Sheet1_BB732323742147EA86ADC2B543DE475F'>
-            <properties context=''>
-              <relation connection='excel-direct.1knewlm10g093m1a16blg0e7nnxr' name='Sheet1' table='[Sheet1$]' type='table'>
-                <columns gridOrigin='A1:B3:no:A1:B3:0' header='yes' outcome='6'>
-                  <column datatype='integer' name='Line Parameter' ordinal='0' />
-                  <column datatype='string' name='Name' ordinal='1' />
-                </columns>
-              </relation>
-            </properties>
-          </object>
-        </objects>
       </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
     </datasource>
   </datasources>
@@ -2065,8 +2105,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2600' minheight='2600' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='73' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98858' id='72' param='vert' type-v2='layout-flow' w='98858' x='571' y='571'>
+            <zone h='100000' id='75' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98858' id='74' param='vert' type-v2='layout-flow' w='98858' x='571' y='571'>
                 <zone fixed-size='280' h='100000' id='5' is-centered='0' is-fixed='true' is-scaled='1' param='D:/DoAn/DoAnChuyenNganh/new/tableau/background.png' type-v2='bitmap' w='100000' x='0' y='0'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2223,7 +2263,7 @@
     </dashboard>
   </dashboards>
   <windows saved-dpi-scale-factor='1.25' source-height='63'>
-    <window class='dashboard' maximized='true' name='all' tab-color='#17927d'>
+    <window class='dashboard' name='all' tab-color='#17927d'>
       <viewpoints>
         <viewpoint name='BAN - Customer'>
           <zoom type='entire-view' />
@@ -2577,7 +2617,7 @@
       </viewpoint>
       <simple-id uuid='{0A415939-41BF-436E-96FA-63EB24FDE156}' />
     </window>
-    <window class='worksheet' name='Metric Dynamic Index'>
+    <window class='worksheet' maximized='true' name='Metric Dynamic Index'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -2600,28 +2640,6 @@
       </cards>
       <viewpoint>
         <zoom type='entire-view' />
-        <selection-collection>
-          <tuple-selection>
-            <tuple-reference>
-              <tuple-descriptor>
-                <pane-descriptor>
-                  <x-fields />
-                  <y-fields>
-                    <field>[federated.0zf0fdx1t595e514z0tji19ba9zs].[none:Calculation_950259572200857618:ok]</field>
-                  </y-fields>
-                </pane-descriptor>
-                <columns>
-                  <field>[federated.0zf0fdx1t595e514z0tji19ba9zs].[none:Calculation_950259572200857618:ok]</field>
-                  <field>[Parameters].[Parameter 4]</field>
-                </columns>
-              </tuple-descriptor>
-              <tuple>
-                <value>0</value>
-                <value>#2021-05-30 00:00:00#</value>
-              </tuple>
-            </tuple-reference>
-          </tuple-selection>
-        </selection-collection>
         <highlight>
           <color-one-way>
             <field>[federated.0zf0fdx1t595e514z0tji19ba9zs].[none:Calculation_807833234044653576:ok]</field>
@@ -3276,27 +3294,27 @@
     </thumbnail>
     <thumbnail height='192' name='Metric Dynamic Index' width='192'>
       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
-      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
+      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
-      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
+      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
+      ZgBCMwCh/Q2DcOVaQNGKHwAAAABJRU5ErkJggg==
     </thumbnail>
     <thumbnail height='192' name='Treemap Multi Dimension/Measure' width='192'>
       iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAABJ0AAASdAHeZh94

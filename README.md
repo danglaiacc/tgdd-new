@@ -23,3 +23,4 @@
 
 ## Note
 - Sau khi làm xong phần tableau, xem lại video 31 để thêm phần hướng dẫn sử dụng.
+- Nếu pipeline cũ trong database có lỗi thì xem lại phần thêm cột zipcode vào bảng branch.
