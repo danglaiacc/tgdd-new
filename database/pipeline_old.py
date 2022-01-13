@@ -14,9 +14,6 @@ with conn:
         with open('.initdb', 'r', encoding='utf8') as f:
             cur.execute(f.read())
 
-conn.close()
-
-# nếu muốn tạo bảng thì phải dùng psycopg2, phải kết nối 2 lần.
 spark = SparkSession.builder\
     .appName('ETL Pipeline')\
     .master('local[2]')\
@@ -24,6 +21,7 @@ spark = SparkSession.builder\
 
 driver = 'org.postgresql.Driver'
 url = "jdbc:postgresql://localhost/tgdd?user=postgres&password=12345"
+
 
 def read_from_csv(file_path):
     return spark.read\
@@ -41,13 +39,13 @@ def write_to_postgresql(df, table, mode='append'):
         .options(
             url=url,
             driver=driver,
-            dbtable=table
-        )\
+            dbtable=table)\
         .mode(mode)\
         .save()
 
+
 files = ['manufacturer.csv', 'branch.csv', 'series.csv', 'product.csv',
-        'color.csv', 'customer.csv']
+         'color.csv', 'customer.csv']
 
 for file in files:
     file_df = read_from_csv(file)
@@ -58,3 +56,15 @@ comment_df_write = comment_df.select('customer_id', 'product_id', 'time_up', 'co
     .withColumn('time_up', to_timestamp(col('time_up'), 'd/M/y H:m:s'))
 
 write_to_postgresql(comment_df_write, 'comment')
+
+reset_db = [
+    "ALTER TABLE comment DISABLE TRIGGER tg_add_invoice_by_comment",
+    "SELECT setval('series_id_seq', (SELECT MAX(id) from series));",
+    "SELECT setval('invoice_id_seq', (SELECT MAX(id) from invoice));",
+]
+with conn:
+    with conn.cursor() as cur:
+        for query in reset_db:
+            cur.execute(query)
+
+conn.close()

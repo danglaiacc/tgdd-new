@@ -1,11 +1,3 @@
-/*
-Sử dụng trigger để thêm hóa đơn và chi tiết hóa đơn dựa vào comment.
-Sau khi init xong db thì phải xóa trigger để việc thêm bình luận không lặp lại thêm hóa đơn.
-
-ALTER TABLE comment DISABLE TRIGGER add_invoice_by_comment
-ALTER TABLE comment ENABLE TRIGGER add_invoice_by_comment
-*/
-
 DROP SCHEMA public CASCADE;
 CREATE SCHEMA public;
 
@@ -202,3 +194,8 @@ CREATE TRIGGER tg_add_invoice_by_comment
     EXECUTE PROCEDURE add_invoice_by_comment();
 		
 --- # END TRIGGER comment -> invoice
+
+/*
+ALTER TABLE comment DISABLE TRIGGER tg_add_invoice_by_comment
+ALTER TABLE comment ENABLE TRIGGER tg_add_invoice_by_comment
+*/
